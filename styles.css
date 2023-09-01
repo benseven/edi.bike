@@ -1,0 +1,49 @@
+* {box-sizing: border-box;}
+/* -------- */
+body {
+  background-color: #0044d9;
+  color: #ffffff;
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  padding: clamp(3rem, 10vh, 10rem) clamp(1rem, 5vw, 3rem);
+}
+/* -------- */
+header {
+  text-align: center;
+}
+.logo {
+  display: block;
+  width: 90vmin;
+  max-width: 30rem;
+  margin: 0 auto 5vmin;
+}
+.tagline {
+  display: inline-block;
+  color: #FFC28E;
+  text-align: center;
+  margin: 0 auto clamp(1.4rem, 15vmin, 3rem);
+  font-size: clamp(1.1rem, 3.5vmin, 1.6rem);
+  letter-spacing: 0.05rem;
+  font-weight: 350;
+}
+/* -------- */
+
+.signup {
+  text-align: center;
+  margin: 0 auto clamp(1.4rem, 15vmin, 3rem);
+}
+.signup iframe {
+  border-radius: 1rem;
+  box-shadow: 0 5px 5px rgba(0,0,0,0.25);
+}
+
+/* -------- */
+
+.contrib {
+  text-align: center;
+}
+
+.contrib a,
+.contrib a:visited,
+.contrib a:active {
+  color: #FFC28E;
+}
