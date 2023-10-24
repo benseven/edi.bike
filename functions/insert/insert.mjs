@@ -1,8 +1,8 @@
+import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm';
+
 export default async (req, context) => {
 
   // Create a single supabase client for interacting with your database
-
-  const { createClient } = require('@supabase/supabase-js');
 
   // This URL and anon public key are both found in Project > Home > Project API at Supabase
   const supabaseUrl = "https://jtsqoijulrjlpdmpugnz.supabase.co";
