@@ -12,5 +12,5 @@ export default async (req, context) => {
 
   console.log('Supabase Instance: ', supabase);
 
-  return new Response();
+  return new Response(supabase);
 };
