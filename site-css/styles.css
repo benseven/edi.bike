@@ -6,7 +6,7 @@ body {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   padding: clamp(3rem, 10vh, 10rem) clamp(1rem, 5vw, 3rem);
 }
-/* -------- */
+/* ----------- */
 header {
   text-align: center;
 }
