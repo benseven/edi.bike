@@ -91,6 +91,10 @@ header {
   font-size: 1rem;
 }
 
+.signup label {
+  font-weight: 600;
+}
+
 .signup label,
 .signup input[type=email] {
   display: block;
