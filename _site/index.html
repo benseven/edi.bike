@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width">
   <title>🚲 edi.bike</title>
   <link rel="stylesheet" href="css/styles.css" />
-  <script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
 
 <body>
@@ -62,26 +61,18 @@
   </header>
   <section class="signup">
     <form action="https://buttondown.email/api/emails/embed-subscribe/edi.bike" method="post" target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/edi.bike', 'popupwindow')" class="embeddable-buttondown-form" id="signup">
+      onsubmit="window.open('https://buttondown.email/edi.bike', 'popupwindow')" class="embeddable-buttondown-form">
       <h1 class="heading">sign up for our weekly digest</h1>
       <p>Weekly round-up newsletter on infrastructure progress, route issues, community events and odds n’ sods that help with the day to day of getting around Edinburgh, Scotland on bikes of all kinds.</p>
       <label for="bd-email">enter your email here to receive:</label>
       <input type="email" name="email" id="bd-email" />
-      <input type="submit" value="Subscribe" class="g-recaptcha" 
-        data-sitekey="6LdAM84qAAAAAMI9JRXQ0hTBRH0OrF3rCNZhb91P" 
-        data-callback='onSubmit' 
-        data-action='submit'/>
+      <input type="submit" value="Subscribe" />
     </form>
   </section>
   <section class="signoff">
     brought to you by bloody cyclists™
   </section>
   <br /><br /><br />
-  <script>
-    function onSubmit(token) {
-      document.getElementById("signup").submit();
-    }
-  </script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-P4M168E3Z0"></script>
   <script>
