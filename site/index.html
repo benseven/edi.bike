@@ -18,7 +18,7 @@
         // console.log(source);
         console.log(sources[source]);
         const referrer = sources[source];
-        document.querySelector('#subscribeForm #bd-tag').value = referrer;
+        document.querySelector('#subscribeForm #bd-utm').value = referrer;
       }
     }, false);
 
@@ -84,7 +84,8 @@
       <p>Weekly round-up newsletter on infrastructure progress, route issues, community events and odds n’ sods that help with the day to day of getting around Edinburgh, Scotland on bikes of all kinds.</p>
       <label for="bd-email">enter your email here to receive:</label>
       <input type="email" name="email" id="bd-email" />
-      <input type="hidden" name="metadata__utm_source" value="" id="bd-tag"/>
+      <input type="hidden" name="metadata__utm_source" value="" id="bd-utm"/>
+      <div class="g-recaptcha" data-sitekey="your_site_key"></div>
       <input type="submit" value="Subscribe" />
     </form>
   </section>
