@@ -11,9 +11,12 @@
 
 /* -------- */
 
-body {
+html {
   background-color: #352066;
   color: #ffffff;
+}
+
+body {
   font-family: "dmsans", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   padding: clamp(3rem, 10vh, 10rem) clamp(1rem, 5vw, 3rem);
   background-size: 900px auto;
