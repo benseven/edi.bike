@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
   // Keeps the same directory structure.
   eleventyConfig.addPassthroughCopy("site-css");
   eleventyConfig.addPassthroughCopy("site-js");
+  eleventyConfig.addPassthroughCopy("site-assets");
 
   // Return your Object options:
   return {

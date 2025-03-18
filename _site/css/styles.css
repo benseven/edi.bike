@@ -2,11 +2,19 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "dmsans";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url('../assets/fonts/dmsans-var.ttf') format('truetype');
+}
+
 /* -------- */
+
 body {
   background-color: #352066;
   color: #ffffff;
-  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "dmsans", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   padding: clamp(3rem, 10vh, 10rem) clamp(1rem, 5vw, 3rem);
   background-size: 900px auto;
 }
@@ -30,7 +38,16 @@ header {
 .tagline {
   display: inline-block;
   color: #f09439;
-  font-weight: 500;
+  font-family: "dmsans", system-ui,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-weight: 400;
   text-align: center;
   margin: 0 auto clamp(1.4rem, 15vmin, 3rem);
   font-size: clamp(1.1rem, 3.5vmin, 2rem);
