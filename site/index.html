@@ -13,10 +13,8 @@
     document.addEventListener('DOMContentLoaded', function () {
       const urlParams = new URLSearchParams(window.location.search);
       // console.log(urlParams.get('l'));
-      if (urlParams == '') {
-        const source = 0;
-      }
-      else if (urlParams != '') {
+      const source = 0;
+      if (urlParams != '') {
         const source = urlParams.get('l');
       }
       // console.log(source);
