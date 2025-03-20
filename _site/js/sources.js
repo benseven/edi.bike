@@ -1,5 +1,5 @@
 const sources = [
-  "none",                                                         //0 
+  "Website",                                                      //0 
   "A5 Laminate flyer/poster QR code (public and bike shops)",     //1
   "NFC tag or sticker (public)",                                  //2
   "NFC tag or sticker (bike shop register)",                      //3
