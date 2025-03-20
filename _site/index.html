@@ -13,13 +13,16 @@
     document.addEventListener('DOMContentLoaded', function () {
       const urlParams = new URLSearchParams(window.location.search);
       // console.log(urlParams.get('l'));
-      if (urlParams != '') {
-        const source = urlParams.get('l');
-        // console.log(source);
-        console.log(sources[source]);
-        const referrer = sources[source];
-        document.querySelector('#subscribeForm #bd-utm').value = referrer;
+      if (urlParams == '') {
+        const source = 'Website (direct)'
       }
+      else if (urlParams != '') {
+        const source = urlParams.get('l');
+      }
+      // console.log(source);
+      console.log(sources[source]);
+      const referrer = sources[source];
+      document.querySelector('#subscribeForm #bd-utm').value = referrer;
     }, false);
 
     
