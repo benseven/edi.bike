@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("site-css");
   eleventyConfig.addPassthroughCopy("site-js");
   eleventyConfig.addPassthroughCopy("site-assets");
+  eleventyConfig.addPassthroughCopy("files");
 
   // Return your Object options:
   return {
