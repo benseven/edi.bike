@@ -1,5 +1,8 @@
-.view--infra--single p {
-  color: red;
+.view--infra--single {
+  background-color: #180E37;
+}
+.view--infra--single body {
+  background-image: unset;
 }
 
 /*# sourceMappingURL=infra.css.map */
