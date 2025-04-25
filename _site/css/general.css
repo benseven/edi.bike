@@ -6,11 +6,9 @@
   font-family: "dmsans";
   font-style: normal;
   font-weight: 100 900;
-  src: url('../assets/fonts/dmsans-var.ttf') format('truetype');
+  src: url("../assets/fonts/dmsans-var.ttf") format("truetype");
 }
-
 /* -------- */
-
 html {
   background-color: #352066;
   color: #ffffff;
@@ -41,15 +39,7 @@ header {
 .tagline {
   display: inline-block;
   color: #f09439;
-  font-family: "dmsans", system-ui,
-    "Segoe UI",
-    Roboto,
-    Helvetica,
-    Arial,
-    sans-serif,
-    "Apple Color Emoji",
-    "Segoe UI Emoji",
-    "Segoe UI Symbol";
+  font-family: "dmsans", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 400;
   text-align: center;
   margin: 0 auto clamp(1.4rem, 15vmin, 3rem);
@@ -59,7 +49,6 @@ header {
 
 /* -------- */
 /* NAVIGATION */
-
 .nav ul {
   list-style-type: "";
   display: inline-flex;
@@ -92,7 +81,6 @@ header {
 }
 
 /* -------- */
-
 .signup {
   text-align: center;
   margin: 0 auto clamp(1.4rem, 15vmin, 3rem);
@@ -149,7 +137,6 @@ header {
 }
 
 /* -------- */
-
 .signoff {
   text-align: center;
   margin: 0 auto 4rem;
@@ -163,3 +150,5 @@ header {
 .signoff a:active {
   color: #f09439;
 }
+
+/*# sourceMappingURL=general.css.map */

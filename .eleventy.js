@@ -1,10 +1,14 @@
 module.exports = function (eleventyConfig) {
-  // Copy `css/fonts/` to `_site/css/fonts`
-  // Keeps the same directory structure.
-  eleventyConfig.addPassthroughCopy("site-css");
+
+  // eleventyConfig.addPassthroughCopy("site-css");
   eleventyConfig.addPassthroughCopy("site-js");
   eleventyConfig.addPassthroughCopy("site-assets");
   eleventyConfig.addPassthroughCopy("files");
+
+  // Watch CSS files for changes
+  eleventyConfig.setBrowserSyncConfig({
+    files: './_site/css/**/*.css'
+  });
 
   eleventyConfig.setTemplateFormats([
     "md",
