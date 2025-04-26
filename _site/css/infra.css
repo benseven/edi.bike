@@ -3,6 +3,11 @@
 }
 .view--infra--single body {
   background-image: unset;
+  padding: 0;
+  margin: 0;
+}
+.view--infra--single header {
+  background-color: #352066;
 }
 
 /*# sourceMappingURL=infra.css.map */

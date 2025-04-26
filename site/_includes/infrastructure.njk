@@ -6,12 +6,16 @@
   <meta name="viewport" content="width=device-width">
   <title>🚲 edi.bike | {{ title }}</title>
   <link rel="stylesheet" href="../../css/general.css" />
+  <link rel="stylesheet" href="../../css/nav.css" />
   <link rel="stylesheet" href="../../css/infra.css" />
+  <script src="../../js/details-utils.js" />
 
 </head>
 
 <body>
-  <header></header>
+  <header>
+    {% include 'nav.njk' %}
+  </header>
   
 {{ title }}
 {{ subtitle }}

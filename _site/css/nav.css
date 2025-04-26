@@ -1,0 +1,36 @@
+@media only all and (min-width: 40em) {
+  .site-nav-details .summary {
+    display: none;
+  }
+}
+
+.site-nav ul {
+  list-style-type: "";
+  display: inline-flex;
+  flex-wrap: wrap;
+  margin: 0 auto 3rem;
+  padding: 0;
+  width: 100%;
+  column-gap: 0.7rem;
+  row-gap: 1.4rem;
+  justify-content: center;
+  align-items: center;
+}
+.site-nav ul li a {
+  background-color: #180E37;
+  padding: 0.55em 1em 0.65em;
+  color: white;
+  font-weight: 400;
+  font-size: clamp(0.8rem, 3vmin, 1.1rem);
+  text-decoration: none;
+  border-radius: 0.45em;
+  border-bottom: 0.25em solid #583ea8;
+  text-transform: lowercase;
+  white-space: pre;
+}
+.site-nav ul li a:hover,
+.site-nav ul li a:focus-visible {
+  border-color: white;
+}
+
+/*# sourceMappingURL=nav.css.map */

@@ -6,8 +6,8 @@
   <meta name="viewport" content="width=device-width">
   <title>🚲 edi.bike</title>
   <link rel="stylesheet" href="css/general.css" />
-
-  <script src="./js/sources.js"></script>
+  <link rel="stylesheet" href="css/nav.css" />
+  <script src="js/details-utils.js" />
   <script>
 
     document.addEventListener('DOMContentLoaded', function () {
@@ -67,7 +67,10 @@
       </g>
     </svg>
     <span class="tagline">weekly cycle travel news in edinburgh</span>
-    <nav class="nav">
+    <details-utils force-open="(min-width: 40em)">
+  <details class="site-nav-details">
+    <summary class="summary">Menu</summary>
+    <nav class="site-nav">
       <ul>
         <li>
           <a href="https://buttondown.email/edi.bike/archive/">🕰️ Previous Issues</a>
@@ -80,6 +83,9 @@
         </li>
       </ul>
     </nav>
+  </details>
+</details-utils>
+    
   </header>
   <section class="signup">
     <form action="https://buttondown.email/api/emails/embed-subscribe/edi.bike" method="post" target="popupwindow"

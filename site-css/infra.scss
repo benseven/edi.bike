@@ -1,4 +1,14 @@
 .view--infra--single {
-  body {background-image: unset;}
+  
+  body {
+    background-image: unset;
+    padding: 0;
+    margin: 0;
+  }
   background-color: #180E37;
+
+  header {
+    background-color: #352066;
+  }
+
 }
