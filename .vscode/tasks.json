@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Eleventy & Sass Watch",
+      "command": "npm start",
+      "isShellCommand": true,
+      "suppressTaskName": true,
+      "presentation": {
+        "focus": false,
+        "reveal": "always",
+        "panel": "shared",
+        "group": "tasks",
+        "showReuseMessage": true,
+        "clear": true
+      },
+      "runOptions": {
+        "runOn": "folderOpen"
+      },
+      "problemMatcher": []
+    },
+    {
+      "type": "process",
+      "label": "terminal",
+      "command": "/bin/zsh", // <-- your shell here
+      "args": [
+        "-l" // login shell for bash
+      ],
+      "problemMatcher": [],
+      "presentation": {
+        "echo": false, // silence "Executing task ..."
+        "focus": true,
+        "group": "tasks", // same group name as the other terms
+        "panel": "shared"
+      },
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
+}
