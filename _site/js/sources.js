@@ -6,4 +6,5 @@ const sources = [
   "Bike rack sticker (80mmW portrait or smaller reprint) QR code",//4
   "9cm 'Subscribe' Stickers QR Code" ,                            //5
   "Square Business Card QR Code",                                 //6
+  "NFC Tag on Cargo Bike Model",                                 //7
 ]
