@@ -8,6 +8,39 @@
 }
 .view--infra--single header {
   background-color: #352066;
+  padding: 1.4rem 0 1.4rem 0;
+}
+.view--infra--single header .header-container {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 78.875rem;
+}
+@media only all and (min-width: 780px) {
+  .view--infra--single header .header-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .view--infra--single header .header-container .logo {
+    margin: unset;
+  }
+}
+.view--infra--single header .logo {
+  max-width: 15rem;
+}
+.view--infra--single header .site-nav-details .summary {
+  margin-bottom: 0;
+}
+.view--infra--single header .site-nav-details[open] .summary {
+  margin-bottom: 1rem;
+}
+.view--infra--single header .site-nav ul {
+  margin-bottom: 0;
+}
+.view--infra--single .container {
+  word-wrap: break-word;
+  padding: 5vw;
 }
 
 /*# sourceMappingURL=infra.css.map */

@@ -9,6 +9,44 @@
 
   header {
     background-color: #352066;
+    padding: 1.4rem 0 1.4rem 0;
+    .header-container {
+      width: 90vw;
+      margin: 0 auto;
+      max-width: 78.875rem;
+      @media only all and (min-width: 780px) {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        .logo {
+          margin: unset;
+        }
+      }
+    }
+    .logo {
+      max-width: 15rem;
+    }
+    .site-nav-details {
+      .summary {
+        margin-bottom: 0;
+      }
+    &[open] {
+      .summary {
+        margin-bottom: 1rem;
+      }
+    }
+    }
+    .site-nav {
+      ul {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .container {
+    word-wrap: break-word;
+    padding: 5vw;
   }
 
 }
