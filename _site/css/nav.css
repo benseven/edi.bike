@@ -1,10 +1,37 @@
 .site-nav-details .summary {
+  display: inline-flex;
+  justify-content: center;
+  align-content: center;
+  column-gap: 0.4rem;
   margin: 0 0 1rem;
+  padding: 0.4rem 1.1rem;
+  border: 0.1rem solid var(--c-orange--faint);
+  background-color: var(--c-purple--dark);
+  border-radius: 0.35rem;
+  /* hides disclosure triangle */
+  list-style: none;
+}
+.site-nav-details .summary::marker, .site-nav-details .summary::-webkit-details-marker {
+  display: none;
+}
+.site-nav-details .summary::before {
+  content: "+";
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.4em;
+  height: 0.9em;
+  transform: rotate(0deg);
+  transition: 300ms ease all;
+  color: var(--c-orange);
 }
 @media only all and (min-width: 40em) {
   .site-nav-details .summary {
     display: none;
   }
+}
+.site-nav-details[open] .summary::before {
+  transform: rotate(45deg);
+  transition: 300ms ease all;
 }
 
 .site-nav ul {
