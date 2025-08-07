@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .site-nav-details .summary {
   display: inline-flex;
   justify-content: center;
@@ -61,6 +62,23 @@
 .site-nav ul li a:hover,
 .site-nav ul li a:focus-visible {
   border-color: white;
+}
+
+.breadcrumb {
+  color: var(--c-orange--pastel);
+  background-color: var(--c-purple--trans);
+  padding: 0.9rem 1.15rem 1rem 1.75rem;
+}
+.breadcrumb::after {
+  display: inline-block;
+  margin-left: 0.4rem;
+  content: ">";
+  color: white;
+}
+.breadcrumb.breadcrumb--infra::before {
+  display: inline-block;
+  margin-right: 0.4rem;
+  content: "📋";
 }
 
 /*# sourceMappingURL=nav.css.map */
