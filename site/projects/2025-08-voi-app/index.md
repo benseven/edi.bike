@@ -1,12 +1,12 @@
 ---
 tags: resources, projects, hire
-layout: voi-app.njk
+layout: voiapp.njk
 
 title: The Voi mobile app, ahead of Edinburgh launch
 
 ---
 
-Voi app, as per time of publishing (Thursday 21st August, 2025).Click down into the images to see a description for each. You can move between them with arrow keys or the buttons on-screen.
+Voi app, as per time of publishing (Thursday 21st August, 2025). Click down into the images to see a description for each. You can move between them with arrow keys or the buttons on-screen.
 
 <link rel="stylesheet" href="/projects/2025-08-voi-app/assets/photoswipe/photoswipe.css">
 
