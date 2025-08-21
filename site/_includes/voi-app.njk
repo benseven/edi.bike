@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="view--infra--single">
 
 <head>
   <meta charset="utf-8">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body class="layout--nav-header-page layout--infra">
+<body class="layout--nav-header-page layout--voi-app">
   <header>
     <div class="header-container">
       <a href="/">
@@ -58,20 +58,9 @@
   
   <div class="container">
 
-    <a class="breadcrumb breadcrumb--infra" href="/infrastructure/">consultations & infra</a>
+    
 
     <h1>{{ title }}</h1>
-    {{ subtitle }}
-    {{ status }}
-    {{ area }}
-    {{ month }}
-    {{ first_featured.issue_name }}
-    {{ first_featured.issue_url }}
-    {{ start_date }}
-    {{ end_date }}
-    {{ end_time }}
-    {{ construction_date }}
-
     {{ content | safe }}
 
   </div>

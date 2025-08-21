@@ -1,10 +1,8 @@
-.view--infra--single {
+.layout--nav-header-page {
   
-  body {
-    background-image: unset;
-    padding: 0;
-    margin: 0;
-  }
+  background-image: unset;
+  padding: 0;
+  margin: 0;
   background-color: #180E37;
 
   header {
@@ -45,8 +43,12 @@
   }
 
   .container {
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 78.875rem;
+    
     word-wrap: break-word;
-    padding: 5vw;
+    padding: 1rem 0 1.5rem 0;
   }
 
 }

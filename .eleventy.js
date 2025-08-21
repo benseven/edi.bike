@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("site-js");
   eleventyConfig.addPassthroughCopy("site-assets");
   eleventyConfig.addPassthroughCopy("files");
+  eleventyConfig.addPassthroughCopy("*/*/assets/**/**");
 
   // Watch CSS files for changes
   eleventyConfig.setBrowserSyncConfig({
