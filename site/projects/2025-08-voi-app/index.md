@@ -243,4 +243,4 @@ lightbox.init();
     </a>
     <div class="hidden-caption-content">The link from 'Profile' for 'Give us some feedback' links to what appears to be a branded Google form to reach the team.</div>
   </div>
-<div>
+</div>
