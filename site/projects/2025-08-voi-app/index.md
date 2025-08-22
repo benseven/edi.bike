@@ -6,7 +6,7 @@ title: The Voi mobile app, ahead of Edinburgh launch
 
 ---
 
-Voi app, as per time of publishing (Thursday 21st August, 2025). Click down into the images to see a description for each. You can move between them with arrow keys or the buttons on-screen.
+Voi app, as per time of publishing (Thursday 21st August, 2025). Click down into the images to see a description for each. _You can through the gallery with arrow keys, swiping on a touchscreen device, or the buttons on-screen for non-touchscreen devices._
 
 <link rel="stylesheet" href="/projects/2025-08-voi-app/assets/photoswipe/photoswipe.css">
 
@@ -39,9 +39,6 @@ Voi app, as per time of publishing (Thursday 21st August, 2025). Click down into
   .pswp-gallery__item a img {
     max-width: 14rem;
   }
-  .pswp--zoom-allowed .pswp__button--zoom {
-    display: none;
-  }
   .pswp__img {
     max-height: 92vh;
     width: auto !important;
@@ -55,7 +52,9 @@ const options = {
   gallery:'#gallery--voi-app',
   children:'.pswp-gallery__item',
   showHideAnimationType: 'fade',
-  
+  arrowPrev: true,
+  arrowNext: true,
+  zoom: false,
   pswpModule: () => import('/projects/2025-08-voi-app/assets/photoswipe/photoswipe.esm.min.js')
 };
 const lightbox = new PhotoSwipeLightbox(options);
