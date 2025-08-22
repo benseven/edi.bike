@@ -38,8 +38,8 @@ Voi app, as per time of publishing (Thursday 21st August, 2025). Click down into
   .pswp-gallery__item a img {
     max-width: 14rem;
   }
-  .pswp__scroll-wrap, .pswp__bg, .pswp__container, .pswp__item, .pswp__content, .pswp__img, .pswp__zoom-wrap {
-   
+  .pswp--zoom-allowed .pswp__button--zoom {
+    display: none;
   }
   .pswp__img {
     max-height: 92vh;
