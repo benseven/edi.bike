@@ -15,7 +15,8 @@ Voi app, as per time of publishing (Thursday 21st August, 2025). Click down into
     background: rgba(38, 2, 58, 0.9);
     font-size: 1.1rem;
     color: #fff;
-    width: 90vh;
+    width: 90vw;
+    max-width: 60rem;
     padding: 0.8rem 1.2rem;
     border-radius: 4px;
     position: absolute;
@@ -44,6 +45,7 @@ Voi app, as per time of publishing (Thursday 21st August, 2025). Click down into
   .pswp__img {
     max-height: 92vh;
     width: auto !important;
+    transform: translateX(4%);
   }
 </style>
 
