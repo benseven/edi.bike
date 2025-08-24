@@ -11,10 +11,25 @@
       margin-bottom: 1.6rem;
     }
 
-
+    a,
     h2,
     h3 {
       color: var(--c-orange--faint);
+    }
+
+    h2 {
+      padding-top: 2rem;
+      border-top: 0.1rem solid var(--c-purple);
+      margin-top: 1.4rem;
+    }
+    hr+h2 {
+      border-top: unset;
+      margin-top: unset;
+      padding-top: unset;
+    }
+
+    a {
+      text-underline-offset: 0.2rem;
     }
 
     h2:nth-of-type(even), 

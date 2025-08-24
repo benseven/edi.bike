@@ -7,9 +7,23 @@
   border-bottom: 0.1rem solid var(--c-purple);
   margin-bottom: 1.6rem;
 }
+.layout--article .container a,
 .layout--article .container h2,
 .layout--article .container h3 {
   color: var(--c-orange--faint);
+}
+.layout--article .container h2 {
+  padding-top: 2rem;
+  border-top: 0.1rem solid var(--c-purple);
+  margin-top: 1.4rem;
+}
+.layout--article .container hr + h2 {
+  border-top: unset;
+  margin-top: unset;
+  padding-top: unset;
+}
+.layout--article .container a {
+  text-underline-offset: 0.2rem;
 }
 .layout--article .container h2:nth-of-type(even),
 .layout--article .container h3:nth-of-type(odd) {
