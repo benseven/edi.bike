@@ -5,6 +5,31 @@
     font-size: 1.2rem;
     font-weight: 250;
 
+    h1 {
+      padding-bottom: 2rem;
+      border-bottom: 0.1rem solid var(--c-purple);
+      margin-bottom: 1.6rem;
+    }
+
+
+    h2,
+    h3 {
+      color: var(--c-orange--faint);
+    }
+
+    h2:nth-of-type(even), 
+    h3:nth-of-type(odd), {
+      color: pink;
+    }
+
+    hr {
+      margin-top: 3rem;
+      margin-bottom: 3rem;
+      border: unset;
+      outline: unset;
+      border-top: 0.1rem solid var(--c-purple);
+    }
+
     b, strong {
       font-weight: 500;
       color: var(--c-orange--faint);
@@ -14,6 +39,14 @@
       margin-bottom: 1.4em;
       line-height: 1.4;
       max-width: 46em;
+    }
+
+    p + h2 {
+      margin-top: 2.4rem;
+    }
+
+    p img {
+      max-width: 90vw;
     }
 
   }
