@@ -1,0 +1,15 @@
+.layout--article .container {
+  font-size: 1.2rem;
+  font-weight: 250;
+}
+.layout--article .container b, .layout--article .container strong {
+  font-weight: 500;
+  color: var(--c-orange--faint);
+}
+.layout--article .container p {
+  margin-bottom: 1.4em;
+  line-height: 1.4;
+  max-width: 46em;
+}
+
+/*# sourceMappingURL=layout--article.css.map */
