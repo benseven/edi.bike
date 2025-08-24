@@ -150,7 +150,7 @@ The team were keen to reassure press in attendance that accessibility and pedest
 
 ## 🗺️ What exactly does 'City Centre' mean, in terms of the perimiter of use?
 
-This is still being pinned down by team Voi, along with exact parking locations; they're targeting the inclusion of as many higher education campuses as possible, and we're definitely 'beyond the meadows' in terms of the initial zone.
+This is still being pinned down by team Voi, along with exact parking locations; they're targeting the inclusion of as many higher education campuses as possible, and the initial zone was mentioned to those present as within the City Centre and adjacent council wards - but not quite fully finalised.
 
 In terms of forward notice, it seems pretty likely we won't see any further details until the scheme goes live on Wednesday 3rd September.
 
