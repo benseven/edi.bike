@@ -6,7 +6,7 @@ title: Looking ahead to the TRO Sub-Committee Meeting, Thursday 4th September
 
 ---
 
-The meeting papers have been published for the council's [Traffic Regulation Order Sub-Committee](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7796&Ver=4) (or 'TRO Sub') meeting this Thursday 4th September.
+The meeting papers have been published for the council's [Traffic Regulation Order Sub-Committee](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7796&Ver=4){target="_blank" rel="noopen noreferrer"} (or 'TRO Sub') meeting this Thursday 4th September.
 
 This Sub-Committee controversially has been putting safe cycle infrastructure in jeoapardy through their recent decisions and deferrals, so all eyes are on them as they meet to once more quasi-ly adjudicate the statutory roads process in Edinburgh later this week.
 
@@ -17,9 +17,9 @@ This Sub-Committee controversially has been putting safe cycle infrastructure in
 There's a number of matters coming to TRO Sub for their approval this week:
 
 * 🌳 **Meadows to George Street** project, TRO/21/32
-and Redetermination Order RSO/21/08 - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7) » [PDF, page 7]
-* _'Late Reports'_ - 🚲 **Travelling Safely East Area** ETRO/21/28A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9) » [PDF, page 3]
-* _'Late Reports'_ - 🌴 **Travelling Safely North West and Arboretum Place** ETRO/21/27B, ETRO21/30A and ETRO/23/23A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261) » [PDF, page 261]
+and Redetermination Order RSO/21/08 - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
+* _'Late Reports'_ - 🚲 **Travelling Safely East Area** ETRO/21/28A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
+* _'Late Reports'_ - 🌴 **Travelling Safely North West and Arboretum Place** ETRO/21/27B, ETRO21/30A and ETRO/23/23A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
 
 _(There are other matters on the agenda regarding bins and controlled parking areas, but we will generally try and 'stay in our lane' and focus on cycle infrastructure and policy.)_
 
@@ -47,7 +47,7 @@ While the initial 5-year rolling programme of £2.5m will cover a lot of the hig
 
 ### ⬆️ The prioritisation framework for upgrading Travelling Safely schemes
 
-You can read the newly published **Upgrading of Infrastructure at Measures Retained Permanently - Prioritisation Framework and Criteria** at PDF page 140 of [this appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf). 
+You can read the newly published **Upgrading of Infrastructure at Measures Retained Permanently - Prioritisation Framework and Criteria** at PDF page 140 of [this appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf){target="_blank" rel="noopen noreferrer"}. 
 
 It lays out criteria and aims for spending during the five-year rolling programme of upgrades to Travelling Safely schemes.
 
@@ -55,7 +55,7 @@ It lays out criteria and aims for spending during the five-year rolling programm
 
 ### ⏳ The timescale and costs involved in making each Travelling Safely scheme permanent
 
-On the next pages (143-145) of the same [appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf), reside a table of costs, timescales and a map for **Upgrading of Infrastructure at Measures Retained Permanently - Preliminary Cost Estimate and Anticipated Implementation Timescales**. 
+On the next pages (143-145) of the same [appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf){target="_blank" rel="noopen noreferrer"}, reside a table of costs, timescales and a map for **Upgrading of Infrastructure at Measures Retained Permanently - Preliminary Cost Estimate and Anticipated Implementation Timescales**. 
 
 This is a list of every scheme or measure, the corresponding ETRO they were bundled with, costs, when the decision on permanence is expected, and when they could be implemented - **with the longest lead time stretching all the way to 2033/2034.** 😅 
 
@@ -82,7 +82,7 @@ In all cases, there is more than enough justification for not only the financial
 
 ## 🔥 Up this week: East Areas ETRO
 
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9) » [PDF, page 3]
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
 
 _This report also includes some materials on the 'City Centre' ETRO, which was approved by the TRO Sub back in May._
 
@@ -100,13 +100,13 @@ Without further detail from Officers - who had not been expecting to need to pro
 
 The programme of upgrades approved at TEC as part of the prioritisation project is a rolling, £2.5m pot to upgrade Travelling Safely infrastructure across the city, but is being planned and prioritised on a city-wide basis. So there's no guarantee for any one area ETRO coming before the Sub-Committee about the timescale or exact design - because design work will follow the Council's decision to make the ETRO permanent. The ETRO itself consists of minor road closures, waiting, loading and parking restrictions, rather than any detail about what materials are used to create protected cycleways there, or even the cycleways themselves. 
 
-The meeting itself can be [watched back here](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1009303) or you can read [our transcript](https://docs.google.com/document/d/1MgTxWouHu5IF7HuXoAoxHj9WQZYfgSPTziqI7Z15_TQ/edit?tab=t.0) of the proceedings.
+The meeting itself can be [watched back here](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1009303){target="_blank" rel="noopen noreferrer"} or you can read [our transcript](https://docs.google.com/document/d/1MgTxWouHu5IF7HuXoAoxHj9WQZYfgSPTziqI7Z15_TQ/edit?tab=t.0){target="_blank" rel="noopen noreferrer"} of the proceedings.
 
 ---
 
 ### ✍🏽 An Open Letter
 
-This continued overreach and kicking of the proverbial can down the road lead to ourselves and [Spokes](http://spokes.org.uk) penning an [Open Letter to the TRO Sub and TEC Conveners](https://edi.bike/files/2025/publications/Open-Letter-RE-TRO-Sub-Committee-and-the-East-Areas-ETRO.pdf) - as well as copying in many Councillors, executives and Council Officers - calling for greater scrutiny on the remit and actions of the TRO Sub-Committee, who to our eyes are subverting the process and intentions of the Transport Committee and the council's City Mobility Plan, threatening vital protected cycle infrastructure used by residents and visitors to move safely through the East of the city.
+This continued overreach and kicking of the proverbial can down the road lead to ourselves and [Spokes](http://spokes.org.uk){target="_blank" rel="noopen noreferrer"} penning an [Open Letter to the TRO Sub and TEC Conveners](https://edi.bike/files/2025/publications/Open-Letter-RE-TRO-Sub-Committee-and-the-East-Areas-ETRO.pdf){target="_blank" rel="noopen noreferrer"} - as well as copying in many Councillors, executives and Council Officers - calling for greater scrutiny on the remit and actions of the TRO Sub-Committee, who to our eyes are subverting the process and intentions of the Transport Committee and the council's City Mobility Plan, threatening vital protected cycle infrastructure used by residents and visitors to move safely through the East of the city.
 
 The letter was co-signed by sixteen active travel organisations from across the city, underscoring the seriousness of what's at stake here if the TRO Sub is allowed to continue as a 'mini-TEC', undermining policy and the outcomes of what have been really positive changes for those walking, wheeling and cycling.
 
@@ -124,7 +124,7 @@ In the face of this - and hopefully, all eyes within the council and beyond on t
 
 ## 🧭 Up this week: North and West ETROs
 
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261) » [PDF, page 261]
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
 
 More Travelling Safely schemes up for making permanent, this time packaged as:
 
@@ -157,9 +157,9 @@ And again, the TRO Sub has the opportunity here to pay close attention to whethe
 
 ## 🌳 Up this week: Meadows to George Street project
 
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7) » [PDF, page 7]
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
 
-Lastly, but certainly not least-ly: The [Meadows to George Street](https://meadowstogeorgestreet.info/) gets its moment in the statutory sunshine of the TRO Sub. This key infrastructure project sees Forrest Rd, George IV Bridge, North Bank St and The Mound set apart as a key corridor for active travel and public transport, with a bus gates introduced on North Bank Street and Candlemaker Row with only passage for buses, black cabs and cycles allowed. 
+Lastly, but certainly not least-ly: The [Meadows to George Street](https://meadowstogeorgestreet.info/){target="_blank" rel="noopen noreferrer"} gets its moment in the statutory sunshine of the TRO Sub. This key infrastructure project sees Forrest Rd, George IV Bridge, North Bank St and The Mound set apart as a key corridor for active travel and public transport, with a bus gates introduced on North Bank Street and Candlemaker Row with only passage for buses, black cabs and cycles allowed. 
 
 This project sees the (almost) complete pedestrianisation of Forrest Rd - a cycle street linking with the key paths through the Meadows - with traffic re-routed except for cycles and timed vehicular deliveries, leading to a bi-directional protected cycleway down the east side of George IV Bridge and the Mound, linking up to future changes at Hanover St, George St and the popular City Centre West to East Link.
 
