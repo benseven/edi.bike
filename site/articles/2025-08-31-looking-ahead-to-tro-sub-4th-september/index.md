@@ -45,7 +45,7 @@ While the initial 5-year rolling programme of £2.5m will cover a lot of the hig
 
 ---
 
-### ⬆️ The prioritisaion framework for upgrading Travelling Safely schemes
+### ⬆️ The prioritisation framework for upgrading Travelling Safely schemes
 
 You can read the newly published **Upgrading of Infrastructure at Measures Retained Permanently - Prioritisation Framework and Criteria** at PDF page 140 of [this appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf). 
 
