@@ -64,6 +64,34 @@
       max-width: 90vw;
     }
 
+    ul li,
+    ol li {
+      margin-bottom: 0.6em;
+      max-width: 46em;
+    }
+
+    blockquote {
+      display: inline-block;
+      background-color: rgba(245, 195, 203, 0.1);
+      margin: 0;
+      padding: 0.5em 1.5em;
+      p:last-of-type,
+      li:last-of-type {
+        margin-bottom: 1em;
+      }
+    }
+
+    figure {
+      margin: 0;
+      img:not(.pswp-gallery__item a img) {
+        width: 90vw;
+        max-width: 78.875rem;
+      }
+      figcaption {
+        font-size: 0.8em;
+      }
+    }
+
   }
 
 }

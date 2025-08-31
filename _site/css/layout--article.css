@@ -51,5 +51,30 @@
 .layout--article .container p img {
   max-width: 90vw;
 }
+.layout--article .container ul li,
+.layout--article .container ol li {
+  margin-bottom: 0.6em;
+  max-width: 46em;
+}
+.layout--article .container blockquote {
+  display: inline-block;
+  background-color: rgba(245, 195, 203, 0.1);
+  margin: 0;
+  padding: 0.5em 1.5em;
+}
+.layout--article .container blockquote p:last-of-type,
+.layout--article .container blockquote li:last-of-type {
+  margin-bottom: 1em;
+}
+.layout--article .container figure {
+  margin: 0;
+}
+.layout--article .container figure img:not(.pswp-gallery__item a img) {
+  width: 90vw;
+  max-width: 78.875rem;
+}
+.layout--article .container figure figcaption {
+  font-size: 0.8em;
+}
 
 /*# sourceMappingURL=layout--article.css.map */

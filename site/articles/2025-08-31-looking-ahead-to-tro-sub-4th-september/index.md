@@ -23,7 +23,7 @@ _(There are other matters on the agenda regarding bins and controlled parking ar
 
 ## ✨ Some notes of interest
 
-The paperwork mountain involved in all of the different orders coming to this meeting is proving too gnarly to climb for this particular explorer, so here's a number of interesting bits that apply across the city.
+> 🏔️ The paperwork mountain involved in all of the different orders coming to this meeting is a bit gnarly to climb solo, so here's a number of interesting bits that apply across the city as a whole that have emerged from these reports.
 
 In recent meetings both the costs involved for upgrading the 'Travelling Safely' schemes from rubber kerbs to stone kerb segregation and pavement build-outs, and the safety of the existing 'Rosehill Rubber Cycle Lane' kerb/bollards have come into question, and both are addressed in the sections below quoted from these new reports. Additionally, Officers have put together indicative timescales for the entire city's programme, all the way up to 2034.
 
@@ -84,6 +84,8 @@ In all cases, there is more than enough justification for not only the financial
 
 _This report also includes some materials on the 'City Centre' ETRO, which was approved by the TRO Sub back in May._
 
+---
+
 ### 📖 The story so far
 
 This Sub-Committee has twice deferred a decision on making permanent the 'Travelling Safely' schemes in the **East Areas** Experimental Traffic Regulation Order ('ETRO') in recent months. 
@@ -98,7 +100,15 @@ The programme of upgrades approved at TEC as part of the prioritisation project 
 
 The meeting itself can be [watched back here](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1009303) or you can read [our transcript](https://docs.google.com/document/d/1MgTxWouHu5IF7HuXoAoxHj9WQZYfgSPTziqI7Z15_TQ/edit?tab=t.0) of the proceedings.
 
+---
+
+### ✍🏽 An Open Letter
+
 This continued overreach and kicking of the proverbial can down the road lead to ourselves and [Spokes](http://spokes.org.uk) penning an [Open Letter to the TRO Sub and TEC Conveners](https://edi.bike/files/2025/publications/Open-Letter-RE-TRO-Sub-Committee-and-the-East-Areas-ETRO.pdf) - as well as copying in many Councillors, executives and Council Officers - calling for greater scrutiny on the remit and actions of the TRO Sub-Committee, who to our eyes are subverting the process and intentions of the Transport Committee and the council's City Mobility Plan, threatening vital protected cycle infrastructure used by residents and visitors to move safely through the East of the city.
+
+The letter was co-signed by sixteen active travel organisations from across the city, underscoring the seriousness of what's at stake here if the TRO Sub is allowed to continue as a 'mini-TEC', undermining policy and the outcomes of what have been really positive changes for those walking, wheeling and cycling.
+
+---
 
 ### 🔁 Back once again
 
@@ -110,8 +120,52 @@ So we have detail and reassurances from officers;
 
 In the face of this - and hopefully, all eyes within the council and beyond on the TRO Sub and whether it's upholding council policy on safe Active Travel provision - we'll see sense prevail this week and the East Area ETRO made permanent.  
 
-## Up this week: North ETRO
+## 🧭 Up this week: North and West ETROs
 
-Unless made permanent under TROs, the measures implemented by ETRO/21/27B, ETRO/21/30A and ETRO/23/23A will therefore cease on 14 January 2026, 16 December 2025 and 14 January 2026 respectively. 
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261) » [PDF, page 261]
 
-## Up this week: Meadows to George Street project
+More Travelling Safely schemes up for making permanent, this time packaged as:
+
+**'West'** - ETRO/21/30A - expires 16 December 2025
+> * A90 (Queensferry Rd)
+> * Cammo
+> * Drum Brae
+> * Fountainbridge, Dundee St
+> * Lanark Rd
+> * Longstone Rd
+> * Meadowplace Road
+> * Pennywell Rd, Muirhouse
+
+These originally also included measures in Silverknowes, which were then spun out into a standalone ETRO for this area (as with some measures elsewhere in the city).
+
+**'Arboretum Place'** - ETRO/23/23A - expires 14 January 2026
+
+_(A separate ETRO that was split out from the 'North' package when changes needed to be made on the ground during the trial)._
+
+**'North'** - ETRO/21/27B - also expires 14 January 2026
+> * Bellevue, Canonmills
+> * Comely Bank
+> * Crewe Rd South
+> * Ferry Rd
+> * West Shore, Marine Dr
+
+We know that these measures have bedded in, become part of the city's urban fabric, improved conditions for people walking, wheeling and cycling, and have also generated a lot of frothy-mouthed objections - objections which run counter to the Council's policies on a reduction in car kilometres travelled, the City Mobility Plan, and establishing a cycle network for the city so cycling can be a real choice for residents to travel; even if they're just starting out or feel nervous cycling in general traffic.
+
+And again, the TRO Sub has the opportunity here to pay close attention to whether there is any real merit in the objections being put forward, whether they stand up to even basic scrutiny, and pay attention to the newly published prioritisations and costs hurriedly prepared for TRO Sub to consider since their 'special' meeting in early August.
+
+## 🌳 Up this week: Meadows to George Street project
+
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7) » [PDF, page 7]
+
+Lastly, but certainly not least-ly: The [Meadows to George Street](https://meadowstogeorgestreet.info/) gets its moment in the statutory sunshine of the TRO Sub. This key infrastructure project sees Forrest Rd, George IV Bridge, North Bank St and The Mound set apart as a key corridor for active travel and public transport, with a bus gates introduced on North Bank Street and Candlemaker Row with only passage for buses, black cabs and cycles allowed. 
+
+This project sees the (almost) complete pedestrianisation of Forrest Rd - a cycle street linking with the key paths through the Meadows - with traffic re-routed except for cycles and timed vehicular deliveries, leading to a bi-directional protected cycleway down the east side of George IV Bridge and the Mound, linking up to future changes at Hanover St, George St and the popular City Centre West to East Link.
+
+<figure>
+  <img src="images/Meadows-to-George-Street-CEC-walking-cycling-2022.jpg"/>
+  <figcaption>Image: City of Edinburgh Council</figcaption>
+</figure>
+
+## 📰 More coverage next week!
+
+If you haven't already, [subscribe to edi.bike](https://edi.bike) to receive our weekly news digest about cycling in Edinburgh - and stay tuned for the outcomes from this committee.
