@@ -15,15 +15,72 @@ This Sub-Committee controversially has been putting safe cycle infrastructure in
 There's a number of matters coming to TRO Sub for their approval this week:
 
 * 🌳 **Meadows to George Street** project, TRO/21/32
-and Redetermination Order RSO/21/08 - [Report](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7) » [PDF, page 7]
-* _'Late Reports'_ - 🚲 **Travelling Safely East Area** ETRO/21/28A - [Report](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9) » [PDF, page 3]
-* _'Late Reports'_ - 🌴 **Travelling Safely North West and Arboretum Place** ETRO/21/27B, ETRO21/30A and ETRO/23/23A - [Report](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261) » [PDF, page 261]
+and Redetermination Order RSO/21/08 - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7) » [PDF, page 7]
+* _'Late Reports'_ - 🚲 **Travelling Safely East Area** ETRO/21/28A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9) » [PDF, page 3]
+* _'Late Reports'_ - 🌴 **Travelling Safely North West and Arboretum Place** ETRO/21/27B, ETRO21/30A and ETRO/23/23A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261) » [PDF, page 261]
 
 _(There are other matters on the agenda regarding bins and controlled parking areas, but we will generally try and 'stay in our lane' and focus on cycle infrastructure and policy.)_
 
-## 🔥 East Areas ETRO
+## ✨ Some notes of interest
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9) » [PDF, page 3]
+The paperwork mountain involved in all of the different orders coming to this meeting is proving too gnarly to climb for this particular explorer, so here's a number of interesting bits that apply across the city.
+
+In recent meetings both the costs involved for upgrading the 'Travelling Safely' schemes from rubber kerbs to stone kerb segregation and pavement build-outs, and the safety of the existing 'Rosehill Rubber Cycle Lane' kerb/bollards have come into question, and both are addressed in the sections below quoted from these new reports. Additionally, Officers have put together indicative timescales for the entire city's programme, all the way up to 2034.
+
+---
+
+### 💰 'Travelling Safely' upgrades budget and overall programme estimate
+
+While the initial 5-year rolling programme of £2.5m will cover a lot of the highest priority upgrades with regard to safety and the most pressing aesthetic improvements, it could be extended:
+
+> **5.1.5** A preliminary budget level cost estimate for upgrading prioritised measures across the whole Travelling Safely programme is £4.1 million. Further detail is provided in Appendix 27. This estimate has been prepared on the basis of all projects being retained permanently, which will be subject to decisions made at this and future Sub-Committee meetings;
+>
+> **5.1.6** As it is now anticipated that the currently approved five-year rolling programme of infrastructure upgrades would be insufficient to upgrade all prioritised infrastructure, should all schemes be retained permanently, the next annual review of the CMP CIP will recommend that this programme be extended in duration until all prioritised infrastructure is upgraded;
+>
+> **5.1.7** Upgrades to Travelling Safely infrastructure will be delivered on a prioritised basis; and
+>
+> **5.1.8** The planned annual reviews of the CMP CIP will also allow future consideration to be given to further upgrades or replacement of Travelling Safely infrastructure, not prioritised at this stage.
+
+---
+
+### ⬆️ The prioritisaion framework for upgrading Travelling Safely schemes
+
+You can read the newly published **Upgrading of Infrastructure at Measures Retained Permanently - Prioritisation Framework and Criteria** at PDF page 140 of [this appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf). 
+
+It lays out criteria and aims for spending during the five-year rolling programme of upgrades to Travelling Safely schemes.
+
+---
+
+### ⏳ The timescale and costs involved in making each Travelling Safely scheme permanent
+
+On the next pages (143-145) of the same [appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf), reside a table of costs, timescales and a map for **Upgrading of Infrastructure at Measures Retained Permanently - Preliminary Cost Estimate and Anticipated Implementation Timescales**. 
+
+This is a list of every scheme or measure, the corresponding ETRO they were bundled with, costs, when the decision on permanence is expected, and when they could be implemented - **with the longest lead time stretching all the way to 2033/2034.** 😅 
+
+---
+
+### 🤔 The safety of rubber lane defender units
+
+The Councils' own stats show that there have been no injury claims as a result of rubber kerbs since 2023, with the lion's share occurring when the schemes were brand new;
+
+> **4.19** Since these types of units started being installed in Edinburgh in 2020, the Council has received 28 claims for personal injury and three claims for vehicle damage relating to them. Eight of these claims relate to incidents that occurred in 2020, 17 to incidents in 2021, five to incidents in 2022 and one to an incident in 2023. No claims have been received for any incidents occurring since 2023. Eighty percent of claims therefore relate to the 2021-22 period when most of the units were being installed and there has only been one claim received for an incident occurring within the last three years...
+>
+> **4.21** Where specific locations of concern have been identified, either through the receipt of an incident claim or through other means, the road layouts were reviewed and modified, where it was considered that this could reduce the potential for similar incidents to recur.
+>
+> **4.22** The Council does not therefore consider there to now be a significant risk to road safety posed by the soft segregation units.
+>
+> **4.23** Due to their nature and the materials used in their construction, it is anticipated that these units will have a shorter serviceable lifespan than infrastructure built using materials more traditionally used for such purposes, such as asphalt, concrete or natural stone; and therefore, they will eventually require to be replaced or upgraded. 
+>
+> **4.24** However, at some locations it will be possible to retain the current infrastructure without concern until it reaches the end of its serviceable lifespan; at which time it can either be upgraded or replaced on a like-for-like basis.
+
+---
+
+In all cases, there is more than enough justification for not only the financial side being in order, but also the continued use of the materials we have already where Officers deem necessary (or lower priority). For more on why that's significant, read on for a tale of woe about one of the first of these 'Travelling Safely' schemes to come before TRO Sub.
+
+
+## 🔥 Up this week: East Areas ETRO
+
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9) » [PDF, page 3]
 
 _This report also includes some materials on the 'City Centre' ETRO, which was approved by the TRO Sub back in May._
 
@@ -44,3 +101,17 @@ The meeting itself can be [watched back here](https://edinburgh.public-i.tv/core
 This continued overreach and kicking of the proverbial can down the road lead to ourselves and [Spokes](http://spokes.org.uk) penning an [Open Letter to the TRO Sub and TEC Conveners](https://edi.bike/files/2025/publications/Open-Letter-RE-TRO-Sub-Committee-and-the-East-Areas-ETRO.pdf) - as well as copying in many Councillors, executives and Council Officers - calling for greater scrutiny on the remit and actions of the TRO Sub-Committee, who to our eyes are subverting the process and intentions of the Transport Committee and the council's City Mobility Plan, threatening vital protected cycle infrastructure used by residents and visitors to move safely through the East of the city.
 
 ### 🔁 Back once again
+
+So we have detail and reassurances from officers; 
+* There have been no injury claims as a result of 'soft segregation' rubber kerbs since 2023, with a clear peak of safety issues when the materials were first used in the city;
+* There is a costed programme to upgrade materials not only over the next five years, but would be wholly addressed in the long term with another five year extension when reviewed;
+* There are prioritisations being refined on which schemes need the most attention, the most quickly;
+* There is a full schedule of the expected work needed.
+
+In the face of this - and hopefully, all eyes within the council and beyond on the TRO Sub and whether it's upholding council policy on safe Active Travel provision - we'll see sense prevail this week and the East Area ETRO made permanent.  
+
+## Up this week: North ETRO
+
+Unless made permanent under TROs, the measures implemented by ETRO/21/27B, ETRO/21/30A and ETRO/23/23A will therefore cease on 14 January 2026, 16 December 2025 and 14 January 2026 respectively. 
+
+## Up this week: Meadows to George Street project
