@@ -10,6 +10,8 @@ The meeting papers have been published for the council's [Traffic Regulation Ord
 
 This Sub-Committee controversially has been putting safe cycle infrastructure in jeoapardy through their recent decisions and deferrals, so all eyes are on them as they meet to once more quasi-ly adjudicate the statutory roads process in Edinburgh later this week.
 
+![A street sign reads 'pedestrian and cycle zone ends'](./assets/header.jpeg)
+
 ## 📋 Agenda 
 
 There's a number of matters coming to TRO Sub for their approval this week:
