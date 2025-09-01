@@ -17,9 +17,9 @@ This Sub-Committee controversially has been putting safe cycle infrastructure in
 There's a number of matters coming to TRO Sub for their approval this week:
 
 * 🌳 **Meadows to George Street** project, TRO/21/32
-and Redetermination Order RSO/21/08 - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
-* _'Late Reports'_ - 🚲 **Travelling Safely East Area** ETRO/21/28A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
-* _'Late Reports'_ - 🌴 **Travelling Safely North West and Arboretum Place** ETRO/21/27B, ETRO21/30A and ETRO/23/23A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
+and Redetermination Order RSO/21/08 - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10#page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
+* _'Late Reports'_ - 🚲 **Travelling Safely East Area** ETRO/21/28A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
+* _'Late Reports'_ - 🌴 **Travelling Safely North West and Arboretum Place** ETRO/21/27B, ETRO21/30A and ETRO/23/23A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
 
 _(There are other matters on the agenda regarding bins and controlled parking areas, but we will generally try and 'stay in our lane' and focus on cycle infrastructure and policy.)_
 
@@ -82,7 +82,7 @@ In all cases, there is more than enough justification for not only the financial
 
 ## 🔥 Up this week: East Areas ETRO
 
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
 
 _This report also includes some materials on the 'City Centre' ETRO, which was approved by the TRO Sub back in May._
 
@@ -124,7 +124,7 @@ In the face of this - and hopefully, all eyes within the council and beyond on t
 
 ## 🧭 Up this week: North and West ETROs
 
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9&page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
 
 More Travelling Safely schemes up for making permanent, this time packaged as:
 
@@ -157,7 +157,7 @@ And again, the TRO Sub has the opportunity here to pay close attention to whethe
 
 ## 🌳 Up this week: Meadows to George Street project
 
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10&page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
+📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10#page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
 
 Lastly, but certainly not least-ly: The [Meadows to George Street](https://meadowstogeorgestreet.info/){target="_blank" rel="noopen noreferrer"} gets its moment in the statutory sunshine of the TRO Sub. This key infrastructure project sees Forrest Rd, George IV Bridge, North Bank St and The Mound set apart as a key corridor for active travel and public transport, with a bus gates introduced on North Bank Street and Candlemaker Row with only passage for buses, black cabs and cycles allowed. 
 
