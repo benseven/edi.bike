@@ -47,7 +47,7 @@ While the initial 5-year rolling programme of £2.5m will cover a lot of the hig
 
 ### ⬆️ The prioritisation framework for upgrading Travelling Safely schemes
 
-You can read the newly published **Upgrading of Infrastructure at Measures Retained Permanently - Prioritisation Framework and Criteria** at PDF page 140 of [this appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf){target="_blank" rel="noopen noreferrer"}. 
+You can read the newly published **Upgrading of Infrastructure at Measures Retained Permanently - Prioritisation Framework and Criteria** at PDF page 140 of [this appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf#page=140){target="_blank" rel="noopen noreferrer"}. 
 
 It lays out criteria and aims for spending during the five-year rolling programme of upgrades to Travelling Safely schemes.
 
@@ -55,7 +55,7 @@ It lays out criteria and aims for spending during the five-year rolling programm
 
 ### ⏳ The timescale and costs involved in making each Travelling Safely scheme permanent
 
-On the next pages (143-145) of the same [appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf){target="_blank" rel="noopen noreferrer"}, reside a table of costs, timescales and a map for **Upgrading of Infrastructure at Measures Retained Permanently - Preliminary Cost Estimate and Anticipated Implementation Timescales**. 
+On the next pages (143-145) of the same [appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf#page=143){target="_blank" rel="noopen noreferrer"}, reside a table of costs, timescales and a map for **Upgrading of Infrastructure at Measures Retained Permanently - Preliminary Cost Estimate and Anticipated Implementation Timescales**. 
 
 This is a list of every scheme or measure, the corresponding ETRO they were bundled with, costs, when the decision on permanence is expected, and when they could be implemented - **with the longest lead time stretching all the way to 2033/2034.** 😅 
 
