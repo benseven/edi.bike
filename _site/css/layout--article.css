@@ -48,6 +48,11 @@
 .layout--article .container p + h2 {
   margin-top: 2.4rem;
 }
+.layout--article .container p s {
+  color: rgba(255, 255, 255, 0.782);
+  text-decoration-color: rgba(255, 192, 203, 0.812);
+  text-decoration-thickness: 0.2rem;
+}
 .layout--article .container p img {
   max-width: 90vw;
 }
