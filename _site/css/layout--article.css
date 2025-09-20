@@ -81,5 +81,30 @@
 .layout--article .container figure figcaption {
   font-size: 0.8em;
 }
+.layout--article .container .author-credit {
+  color: pink;
+}
+.layout--article .container .byline {
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  margin: -1rem 0 1.4rem 0;
+}
+@media only all and (max-width: 36em) {
+  .layout--article .container .byline {
+    flex-wrap: wrap;
+  }
+}
+.layout--article .container .byline .byline__image {
+  clip-path: circle(50%);
+  width: 25%;
+  height: 25%;
+  max-width: 6.75rem;
+}
+.layout--article .container .byline .byline__desc {
+  color: pink;
+  max-width: 40rem;
+  margin: 0;
+}
 
 /*# sourceMappingURL=layout--article.css.map */

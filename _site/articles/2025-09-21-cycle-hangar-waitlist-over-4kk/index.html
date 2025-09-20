@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>🚲 edi.bike | {{ title }}</title>
+  <title>🚲 edi.bike | Edinburgh&#39;s waiting list for secure parking hangars tops 4,400+</title>
   <link rel="stylesheet" href="../../css/general.css" />
   <link rel="stylesheet" href="../../css/nav.css" />
   <link rel="stylesheet" href="../../css/layout--nav-header-page.css" />
@@ -52,27 +52,53 @@
         </g>
         </svg>
       </a>
-      {% include './nav.njk' %}
+      <details-utils force-open="(min-width: 40em)">
+  <details class="site-nav-details">
+    <summary class="summary"><span class="text">Menu</span></summary>
+    <nav class="site-nav">
+      <ul>
+        <li>
+          <a href="https://buttondown.email/edi.bike/archive/">🕰️ Previous Issues</a>
+        </li>
+        <li>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwDnh8iLY-Usx9PEIHUOAO9d2aMK1hC9yAPx9_OF9ua12lmg/viewform">✏️ Submit an Item</a>
+        </li>
+        <li>
+          <a href="mailto:hello@edi.bike">📧 Get in Touch</a>
+        </li>
+      </ul>
+    </nav>
+  </details>
+</details-utils>
     </div>
   </header>
   
   <div class="container">
 
-    <h1>{{ title }}</h1>
+    <h1>Edinburgh&#39;s waiting list for secure parking hangars tops 4,400+</h1>
 
-    {% if author %}
-      <p class="author-credit"><em>by {{ author }}</em></p>
-    {% endif %}
     
-    {{ content | safe }}
+      <p class="author-credit"><em>by Edward Tissiman</em></p>
+    
+    
+    <p><img src="./assets/map.png" alt="A map of Edinburgh with the demand for cycle hangar spaces plotted as circles of varying sizes, with the largest clusters on city centre streets and especially significant demand in the North East of the city"></p>
+<blockquote>
+<p>There are now 4,400 people waiting for a spot in a secure cycle hangar in Edinburgh - that figure has grown by nearly 1,000 in just the last year. My map of hangars and demand <a href="https://rpubs.com/edtiss/hangars" target="_blank" rel="noopen noreferrer">can be found here</a>, along with a <a href="https://rpubs.com/edtiss/hangars-table" target="_blank" rel="noopen noreferrer">summary table here</a>.</p>
+</blockquote>
+<p>There are 1,500 people who have made a request for a hangar on their street and 2,900 people who are on a waiting list for an existing hangar. Only 1,200 spots are currently provided - the same as last year despite <a href="https://democracy.edinburgh.gov.uk/documents/s76885/Item%207.3%20-%20Secure%20On-Street%20Cycle%20Parking%20and%20Public%20Bike%20Parking%20update.pdf" target="_blank" rel="noopen noreferrer">promises from the Council to increase the number</a> [PDF].</p>
+<p>The most requests have come in from people living on Easter Road; the largest waiting list is at West Montgomery Street with 100 people waiting for a spot in 2 hangars.</p>
+<p>Thanks to Edinburgh Council for making the <a href="https://www.edinburgh.gov.uk/homepage/10467/freedom-of-information-foi-disclosure-log?month=&amp;year=2025&amp;keywords=hangar&amp;action=Search" target="_blank" rel="noopen noreferrer">data available here</a>.</p>
+<p><em>This article was originally published as a</em> <a href="https://bsky.app/profile/edtiss.bsky.social/post/3lyvdgfh7yk2k" target="_blank" rel="noopen noreferrer"><em>thread on Bluesky</em>.</a></p>
 
-    {% if author %}
+
+    
       <hr/>
       <div class="byline">
-        <img src="../author-images/{{ author__img }}" alt="An image of {{ author }}" class="byline__image"/>
-        <p class="byline__desc">{{ author__desc | markdownify | safe }}</p>
+        <img src="../author-images/edtiss.jpg" alt="An image of Edward Tissiman" class="byline__image"/>
+        <p class="byline__desc">Guest author Edward Tissiman is a cyclist and campaigner for safer streets based in Edinburgh, Scotland. He works in economics and has a knack for data-wrangling. Follow him on <a href="https://bsky.app/profile/edtiss.bsky.social/post/3lyvdgfh7yk2k" target="_blank" rel="noopen noreferrer">Bluesky</a> »<br>
+</p>
       </div>
-    {% endif %}
+    
 
 
   </div>

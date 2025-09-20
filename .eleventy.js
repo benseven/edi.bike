@@ -14,11 +14,18 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLib);
 
+  // Markdown filter for frontmatter content
+
+  const markdownify = (content) => markdownLib.renderInline(content);
+
+  eleventyConfig.addFilter('markdownify', markdownify);
+
 
   // eleventyConfig.addPassthroughCopy("site-css");
   eleventyConfig.addPassthroughCopy("site-js");
   eleventyConfig.addPassthroughCopy("site-assets");
   eleventyConfig.addPassthroughCopy("files");
+  eleventyConfig.addPassthroughCopy("articles/author-images/**");
   eleventyConfig.addPassthroughCopy("./site/**/assets/**");
   eleventyConfig.addPassthroughCopy("./site/**/**/assets/**");
 
