@@ -2,7 +2,7 @@
 tags: articles, cec, meeting, roundup
 layout: article.njk
 
-title: October Full Council Meeting Roundup
+title: October's 'Full Council' meeting roundup
 
 author:
 author__desc: 
