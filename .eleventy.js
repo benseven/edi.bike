@@ -21,6 +21,24 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('markdownify', markdownify);
 
 
+  // Date formatting filter
+
+  // This could be made nicer in future using https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat
+
+  const { DateTime } = require("luxon");
+
+  eleventyConfig.addFilter("readablePostDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, {
+      zone: "Europe/London",
+    }).setLocale('en').toLocaleString(DateTime.DATE_FULL);
+  });
+
+  eleventyConfig.addFilter("postDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, {
+      zone: "Europe/London",
+    }).setLocale('en').toISODate();
+  });
+
   // eleventyConfig.addPassthroughCopy("site-css");
   eleventyConfig.addPassthroughCopy("site-js");
   eleventyConfig.addPassthroughCopy("site-assets");

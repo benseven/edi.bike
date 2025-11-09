@@ -1,15 +1,15 @@
 ---
 tags: resources, projects, hire, issue
 layout: article.njk
-date: git Last Modified
+date: Last Modified
 
 title: Keeping Edinburgh's Cycle Parking Free of Hire Bikes
 
 ---
 
-_Last updated {{ page.date }}_
+_Last updated {{ page.date | readablePostDate }}_
 
-## 🚲 Enjoying the ride, and managing the downsides of hire schemes
+## 🚲 Enjoying the ride, and managing the downsides of bike hire
 
 We're big fans of [Voi](https://www.voi.com/), the new e-bike scheme with hundreds of cycles available for hire across the capital. The prices are reasonable, the bikes are fun to ride, and downright handy if you find yourself in town without your own or need to sprinkle some cycling into a multi-modal journey across town.
 
