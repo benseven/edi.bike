@@ -40,6 +40,8 @@ During this 'trial' period in Edinburgh, there are a number of issues cropping u
 
 - 🤖 There is no current rule about cycle rack parking, or enforcement within the mix of artificial intelligence and offshore staff who review parking photos, that would lead to users receiving feedback about using cycle racks to end their trip.
 
+![The app recommending parking in two different sets of racks](./assets/images/app-parking.jpg)
+
 ---
 
 ## 🪧 What we're asking for
