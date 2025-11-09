@@ -58,8 +58,12 @@
 }
 .layout--article .container ul li,
 .layout--article .container ol li {
-  margin-bottom: 0.6em;
+  margin-bottom: 1em;
   max-width: 46em;
+}
+.layout--article .container ul li:last-child,
+.layout--article .container ol li:last-child {
+  margin-bottom: 1.5em;
 }
 .layout--article .container blockquote {
   display: inline-block;
@@ -71,15 +75,26 @@
 .layout--article .container blockquote li:last-of-type {
   margin-bottom: 1em;
 }
-.layout--article .container figure {
+.layout--article .container .pswp-gallery figure {
   margin: 0;
 }
-.layout--article .container figure img:not(.pswp-gallery__item a img) {
+.layout--article .container .pswp-gallery figure img:not(.pswp-gallery__item a img) {
   width: 90vw;
   max-width: 78.875rem;
 }
-.layout--article .container figure figcaption {
+.layout--article .container .pswp-gallery figure figcaption {
   font-size: 0.8em;
+}
+.layout--article .container figure {
+  max-width: 100%;
+  margin: 0 0 3rem;
+}
+.layout--article .container figure img {
+  max-width: 100%;
+}
+.layout--article .container figure figcaption {
+  font-size: 0.9em;
+  padding-top: 0.4em;
 }
 .layout--article .container .author-credit {
   color: pink;

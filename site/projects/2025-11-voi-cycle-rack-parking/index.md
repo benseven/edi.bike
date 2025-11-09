@@ -3,11 +3,13 @@ tags: resources, projects, hire, issue
 layout: article.njk
 date: Last Modified
 
-title: Keeping Edinburgh's Cycle Parking Free of Hire Bikes
+title: 🔒 Keeping Edinburgh's cycle parking free of hire bikes
 
 ---
 
 _Last updated {{ page.date | readablePostDate }}_
+
+![Some well parked Voi bikes](./assets/images/voi.jpeg)
 
 ## 🚲 Enjoying the ride, and managing the downsides of bike hire
 
@@ -19,12 +21,12 @@ During this 'trial' period in Edinburgh, there are a number of issues cropping u
 
 ## 📝 Defining the problem
 
-- 🅿️ **Edinburgh is trying to increase its cycle parking provision**, so that there is somewhere safe to lock up when cyclists reach their destination, enabling more cycling journeys;
-- ⚡️ **The Voi scheme is a great enabler** for more cycling journeys, and having more parking locations make the scheme more useful;
+- 🅿️ **Edinburgh is trying to increase its cycle parking provision** — with somewhere safe to lock up when cyclists reach their destination, more cycling journeys are enabled and encouraged;
+- ⚡️ **The Voi scheme is a great enabler** for short cycling journeys, introducing people to cycling in the city (and to e-bikes) — and having more parking locations make the scheme more useful;
 - 🫥 **Voi parking zones are invisible**, 'geo-fenced' zones, and bikes have to be within these GPS locations for their trip to end, however a lack of precision leads to parking adjacent to the invisible zone;
 - 🔒 **Cycle racks are visible** and seem like the natural home for a bike to rest at the end of its journey - folk are just trying to be neat _(thanks to reader Björn & partner for pointing this out!)_;
 
-> 🚳 Voi cycles **don't need to be in cycle racks**; they feature a central stand to hold up on their own, and they have an internal locking system so they don't get chained up. When they're left in cycle parking, they **block a space to lock up a privately owned bike**, and are heavy and difficult to move (issuing a loud alarm if shifted). 
+> 🚳 Voi cycles **don't need to be in cycle racks**; they feature a central stand to hold up on their own, and they have an internal locking system rather than needing locked to something. When they're left in cycle parking, they **block a space to lock up a privately owned bike**, and are heavy and difficult to move — issuing a loud alarm if shifted. 
 
 ---
 
@@ -60,11 +62,17 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 
 > 📸 Send your photo to [hello+voiracks@edi.bike](mailto:hello+voiracks@edi.bike) with a note of the location.
 
+<figure>
+  <img src="./assets/images/2025-11-03-omni-james-preston.jpeg" />
+  <figcaption>
+    2025-11-03 | Omni Centre | James Preston
+  </figcaption>
+</figure>
 
 <figure>
-  <img src="./assets/images/2025-09-22-bruntsfield.jpeg" />
+  <img src="./assets/images/2025-11-01-chambers-st.jpeg" />
   <figcaption>
-    2025-09-22 | Bruntsfield | edi.bike
+    2025-11-01 | Chambers St | edi.bike
   </figcaption>
 </figure>
 
