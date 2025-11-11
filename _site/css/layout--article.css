@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .layout--article .container {
   font-size: 1.2rem;
   font-weight: 250;
@@ -85,16 +86,23 @@
 .layout--article .container .pswp-gallery figure figcaption {
   font-size: 0.8em;
 }
-.layout--article .container figure {
-  max-width: 100%;
+.layout--article .container figure:not(.pswp-gallery__item) {
+  width: fit-content;
+  max-width: 75rem;
   margin: 0 0 3rem;
 }
-.layout--article .container figure img {
+.layout--article .container figure:not(.pswp-gallery__item) img {
   max-width: 100%;
 }
-.layout--article .container figure figcaption {
+.layout--article .container figure:not(.pswp-gallery__item) figcaption {
   font-size: 0.9em;
-  padding-top: 0.4em;
+  padding: 0.6em;
+  margin-top: -0.38rem;
+  background-color: rgba(245, 195, 203, 0.1);
+  color: var(--c-orange--faint);
+}
+.layout--article .container figure:not(.pswp-gallery__item) figcaption::before {
+  content: "ℹ️";
 }
 .layout--article .container .author-credit {
   color: pink;

@@ -101,15 +101,22 @@
       }
     }
 
-    figure {
-      max-width: 100%;
+    figure:not(.pswp-gallery__item) {
+      width: fit-content;
+      max-width: 75rem;
       margin: 0 0 3rem;
       img {
         max-width: 100%;
       }
       figcaption {
         font-size: 0.9em;
-        padding-top: 0.4em;
+        padding: 0.6em;
+        margin-top: -0.38rem;
+        background-color: rgba(245, 195, 203, 0.1);
+        color: var(--c-orange--faint);
+        &::before {
+          content: 'ℹ️';
+        }
       }
     }
 

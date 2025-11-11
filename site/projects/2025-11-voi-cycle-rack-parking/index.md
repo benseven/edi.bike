@@ -40,7 +40,130 @@ During this 'trial' period in Edinburgh, there are a number of issues cropping u
 
 - 🤖 There is no current rule about cycle rack parking, or enforcement within the mix of artificial intelligence and offshore staff who review parking photos, that would lead to users receiving feedback about using cycle racks to end their trip.
 
-![The app recommending parking in two different sets of racks](./assets/images/app-parking.jpg)
+<figure>
+  <img src="./assets/images/app-parking.jpg" />
+  <figcaption>
+    The Voi app recommending parking in two different sets of racks at Drumsheugh Pl, and at Bristo Sq / Potterow 
+  </figcaption>
+</figure>
+
+### 📱 View 16 more locations where Voi appear to depict parking in cycle racks
+Click to view larger images in a gallery:
+
+<link rel="stylesheet" href="/projects/2025-11-voi-cycle-rack-parking/assets/photoswipe/photoswipe.css">
+
+<style>
+  .pswp__custom-caption {
+    background-color: rgba(23, 16, 48, 1.00);
+    color: var(--c-orange--faint);
+    font-size: 1.1rem;
+    width: 90vw;
+    max-width: 60rem;
+    padding: 0.8rem 1.2rem;
+    border-radius: 4px;
+    position: absolute;
+    left: 50%;
+    bottom: 8px;
+    transform: translateX(-50%);
+  }
+  .pswp__custom-caption::before {
+    content: 'ℹ️';
+    display: inline-block;
+    margin-right: 0.6em;
+  }
+  .pswp__custom-caption a {
+    color: #fff;
+    text-decoration: underline;
+  }
+  .hidden-caption-content {
+    display: none;
+  }
+  .pswp-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+  .pswp-gallery__item {
+    margin: 0;
+  }
+  .pswp-gallery__item a img {
+    max-width: 14rem;
+  }
+  .pswp__img {
+    max-height: 92vh;
+    width: auto !important;
+    transform: translateX(4%);
+  }
+</style>
+
+<script type="module">
+import PhotoSwipeLightbox from '/articles/2025-08-24-voi-hire-bikes-media-launch/assets/photoswipe/photoswipe-lightbox.esm.min.js';
+const options = {
+  gallery:'#gallery--voi-media-launch',
+  children:'.pswp-gallery__item',
+  showHideAnimationType: 'fade',
+  arrowPrev: true,
+  arrowNext: true,
+  zoom: false,
+  pswpModule: () => import('/articles/2025-08-24-voi-hire-bikes-media-launch/assets/photoswipe/photoswipe.esm.min.js')
+};
+const lightbox = new PhotoSwipeLightbox(options);
+lightbox.on('uiRegister', function() {
+  lightbox.pswp.ui.registerElement({
+    name: 'custom-caption',
+    order: 9,
+    isButton: false,
+    appendTo: 'root',
+    html: 'Caption text',
+    onInit: (el, pswp) => {
+      lightbox.pswp.on('change', () => {
+        const currSlideElement = lightbox.pswp.currSlide.data.element;
+        let captionHTML = '';
+        if (currSlideElement) {
+          const hiddenCaption = currSlideElement.querySelector('.hidden-caption-content');
+          if (hiddenCaption) {
+            // get caption from element with class hidden-caption-content
+            captionHTML = hiddenCaption.innerHTML;
+          } else {
+            // get caption from alt attribute
+            captionHTML = currSlideElement.querySelector('img').getAttribute('alt');
+          }
+        }
+        el.innerHTML = captionHTML || '';
+      });
+    }
+  });
+});
+lightbox.init();
+</script>
+
+<div class="pswp-gallery pswp-gallery--with-caption" id="gallery--voi-media-launch">
+  <figure class="pswp-gallery__item">
+    <a href="./assets/images/app-parking-2.jpg" data-pswp-width="1198" data-pswp-height="649" target="_blank">
+      <img src="./assets/images/app-parking-2.jpg" >
+    </a>
+    <figcaption class="hidden-caption-content">The Voi app depicting cycle rack parking at Bowmont Place, and close to racks at Dundas St</figcaption>
+  </figure>
+  <figure class="pswp-gallery__item">
+    <a href="./assets/images/app-parking-3.jpg" data-pswp-width="1198" data-pswp-height="649" target="_blank">
+      <img src="./assets/images/app-parking-3.jpg" >
+    </a>
+    <figcaption class="hidden-caption-content">The Voi app depicting cycle racks (but no Voi bikes) at Coates Cres and blocking racks at Grosvenor Cres</figcaption>
+  </figure>
+  <figure class="pswp-gallery__item">
+    <a href="./assets/images/app-parking-4.jpg" data-pswp-width="1198" data-pswp-height="649" target="_blank">
+      <img src="./assets/images/app-parking-4.jpg" >
+    </a>
+    <figcaption class="hidden-caption-content">The Voi app depicting cycle parking right up to racks at Haymarket Station, and within racks at the Edinburgh Futures Institute in Quartermile</figcaption>
+  </figure>
+  <figure class="pswp-gallery__item">
+    <a href="./assets/images/app-parking-5.jpg" data-pswp-width="1198" data-pswp-height="649" target="_blank">
+      <img src="./assets/images/app-parking-5.jpg" >
+    </a>
+    <figcaption class="hidden-caption-content">The Voi app showing cycle parking blocking the end of racks at George Sq, and right up to racks also in George Sq</figcaption>
+  </figure>  
+   
+</div>
 
 ---
 
@@ -63,6 +186,27 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 ## 👁️ Rack parking, in pictures
 
 > 📸 Send your photo to [hello+voiracks@edi.bike](mailto:hello+voiracks@edi.bike) with a note of the location.
+
+<figure>
+  <img src="./assets/images/2025-11-11-ferry-rd-north-fort-st-clarissa-sutherland.jpeg" />
+  <figcaption>
+    2025-11-11 | Ferry Rd at North Fort St | Clarissa Sutherland
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-10-Leith-Walk-Martin-McDonnell.jpeg" />
+  <figcaption>
+    2025-11-10 | Pret on Leith Walk | Martin McDonnell
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-10-dundas-john-edward.jpeg" />
+  <figcaption>
+    2025-11-10 | Bottom of Dundas St | John Edward
+  </figcaption>
+</figure>
 
 <figure>
   <img src="./assets/images/2025-11-03-omni-james-preston.jpeg" />
