@@ -188,6 +188,28 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 > 📸 Send your photo to [hello+voiracks@edi.bike](mailto:hello+voiracks@edi.bike) with a note of the location.
 
 <figure>
+  <img src="./assets/images/2025-11-12-greenhill-gardens-liam-aiton.jpeg" />
+  <figcaption>
+    2025-11-12 | Greenhill Gardens | Liam Aiton 
+  </figcaption>
+</figure>
+
+
+<figure>
+  <img src="./assets/images/2025-11-11-drumsheugh-gardens-mark-baker.jpeg" />
+  <figcaption>
+    2025-11-11 | Drumsheugh Gardens | Mark Baker
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-11-usher-hall-matt-mcarthur.jpeg" />
+  <figcaption>
+    2025-11-11 | Usher Hall, Lothian Rd | Matt McArthur
+  </figcaption>
+</figure>
+
+<figure>
   <img src="./assets/images/2025-11-11-ferry-rd-north-fort-st-clarissa-sutherland.jpeg" />
   <figcaption>
     2025-11-11 | Ferry Rd at North Fort St | Clarissa Sutherland
