@@ -13,6 +13,11 @@
 .layout--article .container h3 {
   color: var(--c-orange--faint);
 }
+.layout--article .container a > a,
+.layout--article .container h2 > a,
+.layout--article .container h3 > a {
+  color: white;
+}
 .layout--article .container h2 {
   padding-top: 2rem;
   border-top: 0.1rem solid var(--c-purple);

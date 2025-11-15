@@ -20,6 +20,12 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter('markdownify', markdownify);
 
+  // Filter to do pipe separators with margins, e.g. in a horizontal list of links
+
+  eleventyConfig.addShortcode("pipespacer", function() {
+    return `<span class="util--pipespacer">|</span>`
+  });
+
 
   // Date formatting filter
 
