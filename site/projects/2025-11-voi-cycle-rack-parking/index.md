@@ -188,12 +188,39 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 > 📸 Send your photo to [hello+voiracks@edi.bike](mailto:hello+voiracks@edi.bike) with a note of the location.
 
 <figure>
+  <img src="./assets/images/2025-11-15-1000-Kirkgate-Valla-Moodie.jpg" />
+  <figcaption>
+    2025-11-15 at 10:00 | Kirkgate | Valla Moodie 
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-15-Dundas-Iain-Ritson.jpg" />
+  <figcaption>
+    2025-11-15 | Dundas Street | Iain Ritson 
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-14-Omni-St-Filip.jpg" />
+  <figcaption>
+    2025-11-14 | Omni Centre | Filip 
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-14-1100-Omni-Simon-Preston.jpg" />
+  <figcaption>
+    2025-11-14 at 11am | Omni Centre | Simon Preston 
+  </figcaption>
+</figure>
+
+<figure>
   <img src="./assets/images/2025-11-12-greenhill-gardens-liam-aiton.jpeg" />
   <figcaption>
     2025-11-12 | Greenhill Gardens | Liam Aiton 
   </figcaption>
 </figure>
-
 
 <figure>
   <img src="./assets/images/2025-11-11-drumsheugh-gardens-mark-baker.jpeg" />
