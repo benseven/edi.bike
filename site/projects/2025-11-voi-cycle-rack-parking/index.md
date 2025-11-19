@@ -13,7 +13,7 @@ _Last updated {{ page.date | readablePostDate }}_
 
 ## 🚲 Enjoying the ride, and managing the downsides of bike hire
 
-> ⬇️ [Jump to the Photomap and Gallery](#rack-parking-in-pictures) »
+> ⬇️ [Jump to: Photomap and Gallery](#rack-parking-in-pictures) »
 
 We're big fans of [Voi](https://www.voi.com/), the new e-bike scheme with hundreds of cycles available for hire across the capital. The prices are reasonable, the bikes are fun to ride, and downright handy if you find yourself in town without your own or need to sprinkle some cycling into a multi-modal journey across town.
 
