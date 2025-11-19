@@ -1,7 +1,7 @@
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
 
-module.exports = function (eleventyConfig) {
+module.exports = async function (eleventyConfig) {
   // Markdown and attribs plugin
   const mdOptions = {
     html: true,
@@ -25,6 +25,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("pipespacer", function() {
     return `<span class="util--pipespacer">|</span>`
   });
+
+  // Enable automatic IDs for linking to headings
+
+  const { IdAttributePlugin } = await import("@11ty/eleventy");
+
+  eleventyConfig.addPlugin(IdAttributePlugin);
 
 
   // Date formatting filter

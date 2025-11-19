@@ -13,6 +13,8 @@ _Last updated {{ page.date | readablePostDate }}_
 
 ## 🚲 Enjoying the ride, and managing the downsides of bike hire
 
+> ⬇️ [Jump to the Photomap and Gallery](#rack-parking-in-pictures) »
+
 We're big fans of [Voi](https://www.voi.com/), the new e-bike scheme with hundreds of cycles available for hire across the capital. The prices are reasonable, the bikes are fun to ride, and downright handy if you find yourself in town without your own or need to sprinkle some cycling into a multi-modal journey across town.
 
 During this 'trial' period in Edinburgh, there are a number of issues cropping up with the impact of the bikes on the streetscape - and as some had predicted, the parking of the bikes is creating some less than ideal situations for pedestrians and cyclists alike. Among these is **the parking of Voi bikes in cycle parking racks**, which we're taking up with Voi as something we'd like to see action on.
@@ -187,6 +189,37 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 
 > 📸 Send your photo to [hello+voiracks@edi.bike](mailto:hello+voiracks@edi.bike) with a note of the location.
 
+### 🗺️ Cycle rack parking photomap
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11ypMYa6hSnjid1HMFuv78IyAdwpVo0w&ehbc=2E312F&noprof=1" width="1200" height="600" style="max-width: 100%; max-height: 60vh"></iframe>
+
+> 📍 [View the Google Map in a new tab](https://www.google.com/maps/d/u/0/edit?mid=11ypMYa6hSnjid1HMFuv78IyAdwpVo0w&usp=sharing){target="_blank" rel="noopen noreferrer"} »
+
+---
+
+### 📸 Photo gallery
+
+<figure>
+  <img src="./assets/images/2025-11-18-Chambers-St-Archie-Dymoke.jpg" />
+  <figcaption>
+    2025-11-18 | Chambers St | Archie Dymoke 
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-18-bruntsfield-linda-hutton.jpg" />
+  <figcaption>
+    2025-11-18 | Greenhill Gdns, Bruntsfield | Linda Hutton 
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-15-drumsheugh-gardens-bob-spetz.jpg" />
+  <figcaption>
+    2025-11-15 | Drumsheugh Gdns | Bob Spetz 
+  </figcaption>
+</figure>
+
 <figure>
   <img src="./assets/images/2025-11-15-1000-Kirkgate-Valla-Moodie.jpg" />
   <figcaption>
@@ -219,6 +252,20 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-12-greenhill-gardens-liam-aiton.jpg" />
   <figcaption>
     2025-11-12 | Greenhill Gardens | Liam Aiton 
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-12-1300-bristo-square-donald-noble.jpg" />
+  <figcaption>
+    2025-11-12 around 13:00 | Bristo Sq | Donald Noble 
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-12-1300-middle-meadow-walk-donald-noble.jpg" />
+  <figcaption>
+    2025-11-12 around 13:00 | Middle Meadow Walk | Donald Noble 
   </figcaption>
 </figure>
 
@@ -284,6 +331,8 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
     2025-09-12 | The Meadows | edi.bike
   </figcaption>
 </figure>
+
+> 📸 Send your photo to [hello+voiracks@edi.bike](mailto:hello+voiracks@edi.bike) with a note of the location.
 
 ---
 
