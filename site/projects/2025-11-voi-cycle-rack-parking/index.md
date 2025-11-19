@@ -216,70 +216,70 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-12-greenhill-gardens-liam-aiton.jpeg" />
+  <img src="./assets/images/2025-11-12-greenhill-gardens-liam-aiton.jpg" />
   <figcaption>
     2025-11-12 | Greenhill Gardens | Liam Aiton 
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-11-drumsheugh-gardens-mark-baker.jpeg" />
+  <img src="./assets/images/2025-11-11-drumsheugh-gardens-mark-baker.jpg" />
   <figcaption>
     2025-11-11 | Drumsheugh Gardens | Mark Baker
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-11-usher-hall-matt-mcarthur.jpeg" />
+  <img src="./assets/images/2025-11-11-usher-hall-matt-mcarthur.jpg" />
   <figcaption>
     2025-11-11 | Usher Hall, Lothian Rd | Matt McArthur
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-11-ferry-rd-north-fort-st-clarissa-sutherland.jpeg" />
+  <img src="./assets/images/2025-11-11-ferry-rd-north-fort-st-clarissa-sutherland.jpg" />
   <figcaption>
     2025-11-11 | Ferry Rd at North Fort St | Clarissa Sutherland
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-10-Leith-Walk-Martin-McDonnell.jpeg" />
+  <img src="./assets/images/2025-11-10-Leith-Walk-Martin-McDonnell.jpg" />
   <figcaption>
     2025-11-10 | Pret on Leith Walk | Martin McDonnell
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-10-dundas-john-edward.jpeg" />
+  <img src="./assets/images/2025-11-10-dundas-john-edward.jpg" />
   <figcaption>
     2025-11-10 | Bottom of Dundas St | John Edward
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-03-omni-james-preston.jpeg" />
+  <img src="./assets/images/2025-11-03-omni-james-preston.jpg" />
   <figcaption>
     2025-11-03 | Omni Centre | James Preston
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-01-chambers-st.jpeg" />
+  <img src="./assets/images/2025-11-01-chambers-st.jpg" />
   <figcaption>
     2025-11-01 | Chambers St | edi.bike
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-09-22-bruntsfield.jpeg" />
+  <img src="./assets/images/2025-09-22-bruntsfield.jpg" />
   <figcaption>
     2025-09-22 | Bruntsfield | edi.bike
   </figcaption>
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-09-12-meadows.jpeg" />
+  <img src="./assets/images/2025-09-12-meadows.jpg" />
   <figcaption>
     2025-09-12 | The Meadows | edi.bike
   </figcaption>
