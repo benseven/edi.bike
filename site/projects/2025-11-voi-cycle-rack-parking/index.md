@@ -25,7 +25,7 @@ During this 'trial' period in Edinburgh, there are a number of issues cropping u
 
 - 🅿️ **Edinburgh is trying to increase its cycle parking provision** — with somewhere safe to lock up when cyclists reach their destination, more cycling journeys are enabled and encouraged;
 - ⚡️ **The Voi scheme is a great enabler** for short cycling journeys, introducing people to cycling in the city (and to e-bikes) — and having more parking locations make the scheme more useful;
-- 🫥 **Voi parking zones are invisible**, 'geo-fenced' zones, and bikes have to be within these GPS locations for their trip to end, however a lack of precision leads to parking adjacent to the invisible zone;
+- 🫥 **Voi parking zones are invisible**, 'geo-fenced' zones, and bikes have to be within these GPS locations for their trip to end, however a lack of precision leads to parking adjacent to the invisible zone; **if parking zones were marked out, issues with blocking footways and cycle racks would be greatly reduced**.
 - 🔒 **Cycle racks are visible** and seem like the natural home for a bike to rest at the end of its journey - folk are just trying to be neat _(thanks to reader Björn & partner for pointing this out!)_;
 
 > 🚳 Voi cycles **don't need to be in cycle racks**; they feature a central stand to hold up on their own, and they have an internal locking system rather than needing locked to something. When they're left in cycle parking, they **block a space to lock up a privately owned bike**, and are heavy and difficult to move — issuing a loud alarm if shifted. 
