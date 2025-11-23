@@ -56,7 +56,5 @@ I note the Department of Transport TSM Chapter 8, repeated in the [councils own 
 
 Kind regards,
 
-Robert Ainsworth
-
-For Spokes Planning Group
+Spokes Planning Group
 

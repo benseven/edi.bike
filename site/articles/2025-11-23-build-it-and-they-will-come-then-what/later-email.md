@@ -28,7 +28,5 @@ It should be possible to conduct these works without a closure of the path and w
 
 Kind regards,
 
-Robert Ainsworth
-
-For Spokes Planning Group
+Spokes Planning Group
 
