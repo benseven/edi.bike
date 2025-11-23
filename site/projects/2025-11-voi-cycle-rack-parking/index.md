@@ -221,7 +221,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 </figure>
 
 <figure>
-  <img src="./assets/images/2025-11-21-0907-St-Andrews-Sq-anaïs-guillemaud.jpg" />
+  <img src="./assets/images/2025-11-21-0907-St-Andrews-Sq-anais-guillemaud.jpg" />
   <figcaption>
     2025-11-21 09:07 | St. Andrew Sq | Anaïs Guillemaud 
   </figcaption>
