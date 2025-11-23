@@ -48,13 +48,13 @@ This week’s ‘monster of the week’? Come Friday 21st, as per the end of Mel
 
 The [resulting discussion thread](https://bsky.app/profile/robbieainsworth.bsky.social/post/3m64tzglp522n ) will give you a sense of how this news went down with path users; it’s akin to closing a rabbit-hole in a fence and encouraging the rabbits to use a handy diversion through the adjacent pie factory’s ‘INBOUND’ gate. Crewe Toll roundabout is one of the most unsafe cycling experiences to be had, and in a city like Edinburgh that’s truly saying something - suggesting users of a quiet and off-road path just take on the gargantuan, saturated five-arm-two-lane roundabout is beyond laughable. 
 
-Behind the scenes, Robbie (of Spokes’ planning group, and this ‘ere newsletter) was given a heads up by roads officers on Thursday, and was able to submit [a detailed email](./initial-email){target="_blank"} Friday morning. Thanks to Robbie and the Planning Group’s endeavours, by early Saturday morning [Councillors were posting having been reassured that the path would reopen](https://www.facebook.com/share/16XXzBDieP/?mibextid=wwXIfr ), lessons would be learned, and an alternative would be sought. 
+Following the news, Spoke's Planning Group submitted [a detailed email](https://bsky.app/profile/spokes.org.uk/post/3m65ydsfh222d) Friday morning. Thanks to the Planning Group’s endeavours, by early Saturday morning [Councillors were posting having been reassured that the path would reopen](https://www.facebook.com/share/16XXzBDieP/?mibextid=wwXIfr), lessons would be learned, and an alternative would be sought.
 
 In reality, the path remained closed on Saturday, with promises that on-duty officers would be contacted to get the route reinstated.
 
-> What's come to light is that the new fence is installed with permission on the council's land, and is a continuation of the exact same fence installed by Leonardo in 2010 without closing the path. The 2010 planning drawings state this commitment to keep the path open during works, presumably part of agreement with the City of Edinburgh Council and now forgotten.
+> What's come to light is that the new fence is installed with permission on the council's land, and is a continuation of the exact same fence installed by Leonardo in 2010 without closing the path. The [2010 planning drawings](https://i.postimg.cc/Km3WKM6J/2010-fence-construction-west-of-Crewe-Road-N.png) state this commitment to keep the path open during works, presumably part of agreement with the City of Edinburgh Council and now forgotten.
 
-This was raised by Robbie in [a subsequent email](./later-email){target="_blank"} to CEC officers and Councillors.
+This was raised by Spokes in [a subsequent email](./later-email){target="_blank"} to CEC officers and Councillors.
 
 ---
 
