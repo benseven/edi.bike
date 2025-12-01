@@ -200,9 +200,44 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 ### 📸 Photo gallery
 
 <figure>
+  <img src="./assets/images/2025-11-24-dalmeny-st-tracy-griffen.jpg" />
+  <figcaption>
+    2025-11-24 | Dalmeny St at Leith Walk | Tracy Griffen
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-24-shrubhll-walk-elaine-appleby.jpg" />
+  <figcaption>
+    2025-11-24 | Shrubhill Walk | Elaine Appleby
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-24-dalmeny-st-elaine-appleby.jpg" />
+  <figcaption>
+    2025-11-24 | Dalmeny St at Leith Walk | Elaine Appleby
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-23-leith-links-andrew-lamberton.jpg" />
+  <figcaption>
+    2025-11-23 | Leith Links, Southwest corner | Andrew Lamberton
+  </figcaption>
+</figure>
+
+<figure>
   <img src="./assets/images/2025-11-23-Ferry-Rd-North-Fort-St-Luke-Collins.jpg" />
   <figcaption>
     2025-11-23 | Ferry Rd at North Fort St | Luke Collins
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/2025-11-22-landsdowne-cres-richard-bogle.jpg" />
+  <figcaption>
+    2025-11-22 | Landsdowne Cres at Palmerston Pl | Richard Bogle
   </figcaption>
 </figure>
 
