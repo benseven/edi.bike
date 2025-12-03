@@ -200,9 +200,18 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 ### 📸 Photo gallery
 
 <figure>
+  <img src="./assets/images/2025-12-02-Raeburn-Place-Martin-McDonnell.jpg" />
+  <figcaption>
+    2025-12-02 | Raeburn Place | Martin McDonnell
+    <span class="parking-details">Spaces: 4 | Blocked: 1 (25%)</span>
+  </figcaption>
+</figure>
+
+<figure>
   <img src="./assets/images/2025-11-24-dalmeny-st-tracy-griffen.jpg" />
   <figcaption>
     2025-11-24 | Dalmeny St at Leith Walk | Tracy Griffen
+    <span class="parking-details">Spaces: 8 | Blocked: ~2 (25%)</span>
   </figcaption>
 </figure>
 
@@ -210,6 +219,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-24-shrubhll-walk-elaine-appleby.jpg" />
   <figcaption>
     2025-11-24 | Shrubhill Walk | Elaine Appleby
+    <span class="parking-details">Spaces: 16 | Blocked: 1 (6%)</span>
   </figcaption>
 </figure>
 
@@ -217,6 +227,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-24-dalmeny-st-elaine-appleby.jpg" />
   <figcaption>
     2025-11-24 | Dalmeny St at Leith Walk | Elaine Appleby
+    <span class="parking-details">Spaces: 8 | Blocked: ~3 (37%)</span>
   </figcaption>
 </figure>
 
@@ -224,6 +235,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-23-leith-links-andrew-lamberton.jpg" />
   <figcaption>
     2025-11-23 | Leith Links, Southwest corner | Andrew Lamberton
+    <span class="parking-details">Spaces: 6 | Blocked: ~2 (33%)</span>
   </figcaption>
 </figure>
 
@@ -231,6 +243,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-23-Ferry-Rd-North-Fort-St-Luke-Collins.jpg" />
   <figcaption>
     2025-11-23 | Ferry Rd at North Fort St | Luke Collins
+    <span class="parking-details">Spaces: 6 | Blocked: ~2 (33%) - plus access into parked cycles</span>
   </figcaption>
 </figure>
 
@@ -238,6 +251,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-22-landsdowne-cres-richard-bogle.jpg" />
   <figcaption>
     2025-11-22 | Landsdowne Cres at Palmerston Pl | Richard Bogle
+    <span class="parking-details">Spaces: 6 | Blocked: ~4 (66%)</span>
   </figcaption>
 </figure>
 
@@ -245,6 +259,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-22-greenhill-gardens-elaine-appleby.jpg" />
   <figcaption>
     2025-11-22 | Greenhill Gdns | Elaine Appleby
+    <span class="parking-details">Spaces: 4 | Blocked: ~2 (50%)</span>
   </figcaption>
 </figure>
 
@@ -252,6 +267,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-22-broughton-rd-tesco-matt-mcarthur.jpg" />
   <figcaption>
     2025-11-22 | Broughton Rd Tesco (should be parked on nearby Warriston path) | Matt McArthur 
+    <span class="parking-details">Spaces: 18 | Blocked: 1 (5%)</span>
   </figcaption>
 </figure>
 
@@ -259,6 +275,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-21-0907-St-Andrews-Sq-anais-guillemaud.jpg" />
   <figcaption>
     2025-11-21 09:07 | St. Andrew Sq | Anaïs Guillemaud 
+    <span class="parking-details">Spaces: 16 | Blocked: ~4 (25%)</span>
   </figcaption>
 </figure>
 
@@ -266,6 +283,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-19-drumsheugh-pl-alex-engel.jpg" />
   <figcaption>
     2025-11-19 | Drumsheugh Gdns | Alex Engel 
+    <span class="parking-details">Spaces: 6 | Blocked: 3 (50%)</span>
   </figcaption>
 </figure>
 
@@ -273,6 +291,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-18-Chambers-St-Archie-Dymoke.jpg" />
   <figcaption>
     2025-11-18 | Chambers St | Archie Dymoke 
+    <span class="parking-details">Spaces: 8 | Blocked: ~5 (62%)</span>
   </figcaption>
 </figure>
 
@@ -280,6 +299,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-18-bruntsfield-linda-hutton.jpg" />
   <figcaption>
     2025-11-18 | Greenhill Gdns, Bruntsfield | Linda Hutton 
+    <span class="parking-details">Spaces: 4 | Blocked: 3 (75%)</span>
   </figcaption>
 </figure>
 
@@ -287,6 +307,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-17-landsdowne-cres-palmerston-pl-elaine-appleby.jpg" />
   <figcaption>
     2025-11-17 | Landsdowne Cres at Palmerston Pl | Elaine Appleby 
+    <span class="parking-details">Spaces: 6 | Blocked: ~2 (33%)</span>
   </figcaption>
 </figure>
 
@@ -294,6 +315,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-15-drumsheugh-gardens-bob-spetz.jpg" />
   <figcaption>
     2025-11-15 | Drumsheugh Gdns | Bob Spetz 
+    <span class="parking-details">Spaces: 6 | Blocked: 2 (33%)</span>
   </figcaption>
 </figure>
 
@@ -301,13 +323,15 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-15-1000-Kirkgate-Valla-Moodie.jpg" />
   <figcaption>
     2025-11-15 at 10:00 | Kirkgate | Valla Moodie 
+    <span class="parking-details">Spaces: 14 | Blocked: ~4 (28%)</span>
   </figcaption>
 </figure>
 
 <figure>
   <img src="./assets/images/2025-11-15-Dundas-Iain-Ritson.jpg" />
   <figcaption>
-    2025-11-15 | Dundas Street | Iain Ritson 
+    2025-11-15 | Dundas Street | Iain Ritson
+    <span class="parking-details">Spaces: 6 | Blocked: ~3 (50%)</span> 
   </figcaption>
 </figure>
 
@@ -315,6 +339,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-14-Omni-St-Filip.jpg" />
   <figcaption>
     2025-11-14 | Omni Centre | Filip 
+    <span class="parking-details">Spaces: 20 | Blocked: ~7 (35%)</span>
   </figcaption>
 </figure>
 
@@ -322,6 +347,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-14-1100-Omni-Simon-Preston.jpg" />
   <figcaption>
     2025-11-14 at 11am | Omni Centre | Simon Preston 
+    <span class="parking-details">Spaces: 20 | Blocked: ~4 (20%)</span>
   </figcaption>
 </figure>
 
@@ -329,20 +355,23 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-12-greenhill-gardens-liam-aiton.jpg" />
   <figcaption>
     2025-11-12 | Greenhill Gardens | Liam Aiton 
+    <span class="parking-details">Spaces: 4 | Blocked: 3 (75%)</span>
   </figcaption>
 </figure>
 
 <figure>
   <img src="./assets/images/2025-11-12-1300-bristo-square-donald-noble.jpg" />
   <figcaption>
-    2025-11-12 around 13:00 | Bristo Sq | Donald Noble 
+    2025-11-12 around 13:00 | Bristo Sq | Donald Noble
+    <span class="parking-details">Spaces: 12 | Blocked: 1 (8%)</span> 
   </figcaption>
 </figure>
 
 <figure>
   <img src="./assets/images/2025-11-12-1300-middle-meadow-walk-donald-noble.jpg" />
   <figcaption>
-    2025-11-12 around 13:00 | Middle Meadow Walk | Donald Noble 
+    2025-11-12 around 13:00 | Middle Meadow Walk | Donald Noble
+    <span class="parking-details">Spaces: ~36 | Blocked: 4 (17%)</span> 
   </figcaption>
 </figure>
 
@@ -350,6 +379,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-11-drumsheugh-gardens-mark-baker.jpg" />
   <figcaption>
     2025-11-11 | Drumsheugh Gardens | Mark Baker
+    <span class="parking-details">Spaces: 6 | Blocked: 1 (16%)</span>
   </figcaption>
 </figure>
 
@@ -357,6 +387,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-11-usher-hall-matt-mcarthur.jpg" />
   <figcaption>
     2025-11-11 | Usher Hall, Lothian Rd | Matt McArthur
+    <span class="parking-details">Spaces: 12 | Blocked: 4 (33%)</span>
   </figcaption>
 </figure>
 
@@ -364,6 +395,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-11-ferry-rd-north-fort-st-clarissa-sutherland.jpg" />
   <figcaption>
     2025-11-11 | Ferry Rd at North Fort St | Clarissa Sutherland
+    <span class="parking-details">Spaces: 6 | Blocked: 2 (33%)</span>
   </figcaption>
 </figure>
 
@@ -371,6 +403,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-10-Leith-Walk-Martin-McDonnell.jpg" />
   <figcaption>
     2025-11-10 | Pret on Leith Walk | Martin McDonnell
+    <span class="parking-details">Spaces: 8 | Blocked: 2 (25%)</span>
   </figcaption>
 </figure>
 
@@ -378,6 +411,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-10-dundas-john-edward.jpg" />
   <figcaption>
     2025-11-10 | Bottom of Dundas St | John Edward
+    <span class="parking-details">Spaces: 6 | Blocked: 2 (33%)</span>
   </figcaption>
 </figure>
 
@@ -385,6 +419,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-03-omni-james-preston.jpg" />
   <figcaption>
     2025-11-03 | Omni Centre | James Preston
+    <span class="parking-details">Spaces: 20 | Blocked: ~6 (30%)</span>
   </figcaption>
 </figure>
 
@@ -392,6 +427,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-11-01-chambers-st.jpg" />
   <figcaption>
     2025-11-01 | Chambers St | edi.bike
+    <span class="parking-details">Spaces: 8 | Blocked: 2 (25%)</span>
   </figcaption>
 </figure>
 
@@ -399,6 +435,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-09-22-bruntsfield.jpg" />
   <figcaption>
     2025-09-22 | Bruntsfield | edi.bike
+    <span class="parking-details">Spaces: 4 | Blocked: 1 (25%)</span>
   </figcaption>
 </figure>
 
@@ -406,6 +443,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
   <img src="./assets/images/2025-09-12-meadows.jpg" />
   <figcaption>
     2025-09-12 | The Meadows | edi.bike
+    <span class="parking-details">Spaces: 6 | Blocked: 3 (50%)</span>
   </figcaption>
 </figure>
 
