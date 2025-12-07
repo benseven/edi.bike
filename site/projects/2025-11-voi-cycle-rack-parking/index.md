@@ -11,9 +11,15 @@ _Last updated {{ page.date | readablePostDate }}_
 
 ![Some well parked Voi bikes](./assets/images/voi.jpeg)
 
+---
+
 ## 🚲 Enjoying the ride, and managing the downsides of bike hire
 
-> ⬇️ [Jump to: Photomap and Gallery](#rack-parking-in-pictures) »
+> ⚠️ See our 🅿️ [Hire bikes blocking cycle parking: December update](/articles/2025-12-07-hire-bike-parking-update/){target="_blank"} about our conversation with Voi and the next steps for our campaign »
+
+---
+
+⬇️ [Jump to: Photomap and Gallery](#rack-parking-in-pictures) »
 
 We're big fans of [Voi](https://www.voi.com/), the new e-bike scheme with hundreds of cycles available for hire across the capital. The prices are reasonable, the bikes are fun to ride, and downright handy if you find yourself in town without your own or need to sprinkle some cycling into a multi-modal journey across town.
 
@@ -198,6 +204,14 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 ---
 
 ### 📸 Photo gallery
+
+<figure>
+  <img src="./assets/images/2025-12-07-haymarket-chris-hill.jpg" />
+  <figcaption>
+    2025-12-07 | Haymarket | Chris Hill
+    <span class="parking-details">Spaces: 8 | Blocked: 1 (12%)</span>
+  </figcaption>
+</figure>
 
 <figure>
   <img src="./assets/images/2025-12-02-Raeburn-Place-Martin-McDonnell.jpg" />
