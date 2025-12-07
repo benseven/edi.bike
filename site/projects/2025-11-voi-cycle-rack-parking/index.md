@@ -214,6 +214,14 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 </figure>
 
 <figure>
+  <img src="./assets/images/2025-12-04-1130-Chambers-St-Carol-Howard-Williams.jpg" />
+  <figcaption>
+    2025-12-04 | Chambers St | Carol Howard-Williams
+    <span class="parking-details">Spaces: 8 | Blocked: 5 (62%)</span>
+  </figcaption>
+</figure>
+
+<figure>
   <img src="./assets/images/2025-12-02-Raeburn-Place-Martin-McDonnell.jpg" />
   <figcaption>
     2025-12-02 | Raeburn Place | Martin McDonnell
