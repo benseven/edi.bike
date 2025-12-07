@@ -1,5 +1,5 @@
 ---
-tags: resources, projects, hire, issue
+tags: resources, projects, hire, issue, cec
 layout: article.njk
 date: Last Modified
 
