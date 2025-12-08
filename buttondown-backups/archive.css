@@ -1,0 +1,374 @@
+.header-navigation-container {
+  background-color: #322163;
+}
+
+.header-navigation-container a.header-brand {
+  text-transform: lowercase;
+}
+
+.header-navigation h1 {
+  margin: 0 auto 0.8rem auto;
+}
+
+.header-navigation-container a.header-brand::before {
+  content: '';
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  background: url('https://assets.buttondown.email/images/1360101f-a791-42e9-a7be-aec2812f34cc.png');
+  background-size: 2rem 2rem;
+}
+
+.header-navigation-container .header-brand-icon,
+.header-navigation-container a.header-brand::before {
+  display: none;
+}
+
+.header-navigation-nav {
+  background-color: #322163;
+}
+
+.header-navigation-nav-handle {
+  display: none;
+}
+
+.header-navigation a {
+  color: white;
+}
+
+button.header-navigation-toggle {
+  color: white;
+}
+
+.archive__email-web-header {
+  grid-row: 1;
+}
+
+@media (max-width: 600px) {
+  .header-navigation nav {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .header-navigation-link svg {
+    display: none;
+  }
+}
+
+@media (min-width: 480px) {
+  .header-navigation>div {
+    flex-direction: row;
+  }
+
+  .header-navigation h1 {
+    margin: 0;
+  }
+
+  .header-navigation-link svg {
+    display: initial;
+  }
+}
+
+.email-body {
+  padding-top: 2rem;
+}
+
+.email-body date {
+  display: none;
+}
+
+/* This is the banner image paragraph */
+.email-body>.email-body-web-header>p {
+  margin-top: 0;
+}
+
+.email-body>.email-body-web-header>p>img {
+  max-width: 100%;
+}
+
+@media (max-width: 911px) {
+  .email-body>.email-body-web-header>p>img {
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: -1rem;
+  }
+}
+
+article {
+  max-width: 880px;
+}
+
+blockquote {
+  border-radius: 0;
+  border: 0;
+}
+
+* {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.email-body-content p,
+.email-body-content ul li,
+.email-body-content ol li {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji !important;
+  font-size: 1rem !important;
+  color: #555555;
+}
+
+.email-body-content a {
+  text-decoration-color: #b6a9ed;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #170e35;
+  }
+
+  h1.subject {
+    color: white;
+  }
+
+  h2.description {
+    border-color: #352066 !important;
+  }
+
+  .email-body-content h3 {
+    color: #FFC993 !important;
+  }
+
+  .email-body-content p,
+  .email-body-content ul li,
+  .email-body-content ol li {
+    color: #bab9b9;
+  }
+
+  .email-body-content a {
+    color: #FFC993;
+    text-decoration-color: #936232;
+  }
+
+  hr {
+    border-color: #352066 !important;
+  }
+
+}
+
+.email-body-content .buttondown-button {
+  display: inline-block !important;
+  max-width: 100% !important;
+  padding: 12px 22px !important;
+  border-radius: 25px !important;
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+  color: white !important;
+}
+
+.email-body-content div iframe {
+  margin-bottom: 1.5rem;
+}
+
+.email-body-content .lightbox-button {
+  display: block;
+  margin: 0 auto;
+}
+
+.email-body-content p+hr,
+.email-body-content ul+hr,
+.email-body-content ol+hr {
+  margin-top: 8px;
+}
+
+.subject {
+  font-size: clamp(1.1rem, 5vw, 34px);
+  color: #482870;
+  font-family: unset;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2.description {
+  font-size: clamp(0.9rem, 3.2vw, 22px) !important;
+  font-weight: 100;
+  color: #BA5D00;
+  margin-bottom: 2rem !important;
+  text-align: center;
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 1.4em;
+}
+
+.email-body-content h3 {
+  color: #482870;
+}
+
+.email-body-content h2+p,
+.email-body-content h3+p,
+.email-body-content h4+p {
+  margin-top: 20px;
+}
+
+.email-body-content blockquote {
+  background-color: unset;
+  padding: 6px 0 8px 20px;
+  border-left: 4px solid #ef9533;
+}
+
+.email-body-content blockquote p {
+  margin: 0.6em 0 0.6em 0;
+}
+
+.email-body-content p+div:has(> hr),
+.email-body-content .captioned-image-container+div:has(> hr) {
+  margin-top: -20px;
+}
+
+figcaption {
+  margin-bottom: 32px;
+  font-style: italic;
+}
+
+.subscribe_button {
+  margin-bottom: 40px;
+}
+
+figure {
+  margin: 0;
+}
+
+figure img {
+  border-radius: 0;
+  border: 0;
+  transition: unset;
+}
+
+figure img:hover {
+  transform: unset;
+}
+
+.archive__email-content {
+  margin-top: unset;
+}
+
+.email-body-content ul+ul {
+  margin-top: -20px;
+}
+
+.email-body-content h2:not(.description) {
+  font-size: 1.7em;
+  line-height: 1.16em;
+  margin: -5px 0 !important;
+}
+
+.email-body-content h3 {
+  font-size: 1.475em;
+  line-height: 1.16em;
+  margin: -5px 0 !important;
+}
+
+.email-body-content h4 {
+  font-size: 1.225em;
+  line-height: 1.16em;
+  margin: 8px 0 !important;
+}
+
+hr {
+  width: 100%;
+  border-width: 1px;
+  border-color: #cccccc;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+[role=subscribe_button]>a {
+  background-color: #5d44c3 !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.email-body-content date {
+  display: none;
+}
+
+.email-body-content {
+  display: grid;
+}
+
+.email-body-content .description {
+  margin-bottom: 16px;
+}
+
+/* 'Archive' front page */
+
+.subscribe-container .subscribe p {
+  text-align: center;
+  width: 80%;
+  max-width: 36rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#subscribe-form .button-container {
+  margin-top: 1rem;
+}
+
+#subscribe-form .button-container .unactivated-buttons sniper-link {
+  display: none;
+}
+
+#subscribe-form input[type=email] {
+  border-width: 2px;
+  border-color: #bbbbbb;
+  max-width: 26rem;
+  margin: 0 auto;
+  width: 100%;
+}
+
+#subscribe-form [type=button],
+#subscribe-form .widget a[type=button] {
+  background-color: #5d44c3 !important;
+  width: auto;
+  max-width: 14rem;
+  margin: 0 auto;
+  border-radius: 25px !important;
+}
+
+.email-body-container .buttondown-custom-button {
+  margin: 0 !important;
+}
+
+.email-body-container .buttondown-custom-button a.buttondown-button {
+  margin-top: 0 !important;
+  margin-bottom: 1.4rem !important;
+}
+
+.related-email-header-image {
+  border: 1px solid #cccccc;
+}
+
+.related-emails-widget {
+  padding-top: 1.4rem;
+}
+
+.related-email p {
+  display: none;
+}
+
+.comment-input {
+  display: none !important;
+}
+
+.related-emails-widget .related-email-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  border: unset;
+  background-color: unset;
+  border-radius: unset;
+}
+
+.related-emails-widget .related-email-container .related-email {
+  border: 1px solid var(--medium-color);
+  background-color: var(--very-light-color);
+  border-radius: calc(var(--block-margin) / 2);
+}

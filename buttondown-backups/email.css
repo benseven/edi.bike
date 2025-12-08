@@ -1,0 +1,98 @@
+div table {
+  max-width: 800px !important;
+  border: none !important;
+}
+
+table div hr {
+  width: 100%;
+  border-width: 1px;
+  border-color: #dddddd;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+div table * {
+  color: #555555;
+}
+
+div table figcaption {
+  margin-bottom: 24px;
+}
+
+.newsletter-body figure {
+  text-align: center;
+}
+
+blockquote {
+  background-color: transparent !important;
+  padding: 6px 0 8px 20px !important;
+  border-left: 4px solid #ef9533 !important;
+  border-radius: 0 !important;
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+}
+
+div table a strong {
+  color: #5d44c3 !important;
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+}
+
+div table .buttondown-button {
+  display: inline-block !important;
+  max-width: 100% !important;
+  padding: 12px 22px !important;
+  border-radius: 25px !important;
+  font-size: 16.5px !important;
+  font-weight: 500 !important;
+  -webkit-text-size-adjust: none;
+  color: white !important;
+}
+
+div table a.buttondown-button strong {
+  color: white !important;
+}
+
+div table p {
+  line-height: 26px !important;
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+}
+
+div table p a {
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+}
+
+div table p strong {
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+}
+
+div table p em {
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+}
+
+div table blockquote em {
+  font-size: 16.5px !important;
+  -webkit-text-size-adjust: none;
+}
+
+table div h2 {
+  font-size: 2em;
+  line-height: 1.16em !important;
+  margin: 8px 0 !important;
+}
+
+table div h3 {
+  font-size: 1.775em;
+  line-height: 1.3em !important;
+  margin: 8px 0 !important;
+}
+
+table div h4 {
+  font-size: 1.425em;
+  line-height: 1.3em !important;
+  margin: 8px 0 !important;
+}
