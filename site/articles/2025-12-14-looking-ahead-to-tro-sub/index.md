@@ -2,7 +2,7 @@
 tags: articles, hire, press
 layout: article.njk
 
-title: 📋 TRO Sub-Committee Meeting agenda for Tuesday 16th December 2025
+title: 📋 TRO Sub-committee meeting agenda for Tuesday 16th December 2025
 
 ---
 
