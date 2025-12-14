@@ -120,17 +120,22 @@ Drummond Street, Simpson Loan and Wishaw Terrace"**.
 
 ## 🙈 Living Streets and the nuisance of people on bikes, again
 
-Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St — the **primary cause of pedestrian deaths and serious injuries UK-wide**, no less — Living Streets Edinburgh have [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopen noreferrer"} to the proposed introduction of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to exist in the same space courteously - including but not limited to **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
+Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St, Living Streets Edinburgh have [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopen noreferrer"} to the proposed introduction of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to coexist in the same space. Such spaces include, but are not limited to, **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
+
+<figure>
+  <img src="./assets/stats.png"/>
+  <figcaption>Hmmmm, <a target="_blank" rel="noopen noreferrer" href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-pedestrian-factsheet-2024/reported-road-casualties-in-great-britain-pedestrian-factsheet-2024#which-vehicles-are-involved-in-collisions-with-pedestrians"> which one of these</a> shall we focus on?</figcaption>
+</figure>
 
 Shall we have a look through it point by point?
 
 > Rose Street is the closest thing that Edinburgh has to a pedestrianised street. 
 
-Always good to open an argument by decimating it yourself. **Rose St is not a pedestrianised street** - it is a carriageway with time-limited loading on its main strip, and 24hr one-way access for motor vehicles to its various lanes. Leaping to its defence in the face of a few more bikes and saying nothing about its persistent motor vehicle access is very much the Turkeys voting for Christmas while decrying the Easter Bunny.
+Always good to open an argument by decimating it. **Rose St is not a pedestrianised street** - it is a carriageway with time-limited loading on its main strip, and 24hr one-way access for motor vehicles to its various lanes. Leaping to its defence in the face of a few more bikes and saying nothing about its persistent motor vehicle access is very much the Turkeys voting for Christmas while decrying the Easter Bunny.
 
 > Cycling through the street, as opposed to accessing the shops and restaurants on it by bike, should be strongly discouraged. 
 
-Remember that story about the pedestrian collision with someone cycling through Rose St, a cycling option that's already permitted? You don't, because it hasn't happened at any significant level in either severity nor frequency.
+Remember that story about the pedestrian collision with someone cycling through Rose St, where cycling is already permitted? You don't, because it hasn't happened at any significant level in either severity nor frequency.
 
 The idea that there is even any extant mechanism by which one can allow cycle access only for local destinations is also fantasy.
 
@@ -172,7 +177,9 @@ This won't be surprising to our readers, but at times of high footfall, it is ge
 
 Nobody is looking to use Rose Street as their new commuting go-to. The changes being proposed are consistent with elsewhere in the city, will enable certain cycling journeys more direct access to their destination, and otherwise are a tiny sliver of the active travel story in Edinburgh. 
 
-It's exhausting to see so much hand-waving from folks over something with so little impact, and feeling like there's a bun fight over every possible opportunity to make cycling in the capital more viable. 
+**This energy could have been far better spent lobbying Voi to make the length of Rose St a go-slow zone for their hire bikes, and that would have had far more impact on pedestrian safety than worrying about which way law-abiding cycle travellers are allowed to roll down it.**
+
+It's exhausting to see so much hand-waving from folks over something with so little impact. 
 
 ---
 
