@@ -136,7 +136,7 @@ The idea that there is even any extant mechanism by which one can allow cycle ac
 
 > Encouraging cycling on this unique street would invite conflict with pedestrians, as has been widely acknowledged and especially create a more hostile space for older, disabled and blind people. Even in the Netherlands and Copenhagen’s famous Strøget, cycling on pedestrian shopping streets is discouraged – or prohibited entirely.
 
-_"As has been widely acknowledged"_ — where, and by whom? Or below, in a single report into something that's no longer being proposed?
+_"As has been widely acknowledged"_ — where, and by whom? Mainstream media parroting NIMBY talking points don't count. Or perhaps below, in a single report into something that's no longer being proposed?
 
 > Council officials recommend setting aside objections by LSEG, Edinburgh Access Panel and New Town and Broughton Community Council to proposals to allow two-way cycling on Rose Street in a report to the TRO subcommittee on 11 October 2025.
 > 
