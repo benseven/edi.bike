@@ -25,7 +25,7 @@ _(There are other matters on the agenda regarding controlled parking areas, but 
 
 ---
 
-### 🪄 Travelling Safely - South Area ETRO/21/29A
+## 🪄 Travelling Safely - South Area ETRO/21/29A
 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
 The 'Experimental Traffic Regulation Orders' (ETROs) for the covid-era 'Travelling Safely' schemes have been gradually ending, with the North, East and West area ETRO packages being made permanent at the last sub-committee meeting. The deadline for some of these ETROs were later, partly as the original 'South' package was later subdivided to have separate orders for **Comiston Rd / Braid Rd** and the **Greenbank to Meadows Quiet Route** individually - and the remaining, more newly issued 'South' areas ETRO now has its day at committee to be made into a permanent order.
@@ -45,13 +45,13 @@ _(Some of these pertain to separate orders spun out of the original South ETRO p
 
 ---
 
-#### 🗺️ Extent of the 'South' area
+### 🗺️ Extent of the 'South' area
 
 The 'South' areas ETRO includes protected cycleways on the **Buccleuch Street corridor** (including Lothian Street, Potterrow and Chapel Street); **Causewayside corridor** (including Ratcliffe Terrace); **Craigmillar Park corridor** (including Minto Street, Mayfield Gardens and Suffolk Road); **Gilmerton Road**, **Mayfield Road** and **Old Dalkeith Road**. 
 
 ---
 
-#### 👏🏼 Support for the measures
+### 👏🏼 Support for the measures
 
 Pages [4 to 8 of the Report PDF](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=4){target="_blank" rel="noopen noreferrer"} detail objections to the South scheme - before and after the 'spin out' of the separate ETROs from its original form:
 
@@ -67,7 +67,7 @@ The title of the table below is incorrect, but when Braid Rd, Comiston Rd and th
 
 ---
 
-#### 👁️ Monitoring scheme impacts
+### 👁️ Monitoring scheme impacts
 
 > **"The data collected shows that the measures have regular levels of use and the reallocation of road space as part of programme has not had a negative impact on general traffic journey times."** 
 
@@ -81,7 +81,7 @@ The report contains around fifteen pages of cycling counting data and informatio
 
 ---
 
-#### 💬 Feedback from consultation
+### 💬 Feedback from consultation
 
 Skipping the raw and unfiltered responses provided in 'Appendix 6', [**Appendix 7** from page 194](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=194){target="_blank" rel="noopen noreferrer"} of the report PDF is a summary of the themes raised in the feedback, including a response from Council officers and whether any action is being considered in response. 
 
@@ -118,7 +118,7 @@ Drummond Street, Simpson Loan and Wishaw Terrace"**.
 
 16 supporting comments, 1 neutral (enquiry) and 10 objections were received during consultation. Of these, three were from _"statutory consultees for the purposes of this Traffic Regulation Order"_ - namely the Edinburgh Access Panel, Living Streets Edinburgh, and New Town and Broughton Community Council.
 
-### 🙈 Living Streets and the bane of the cyclistas
+## 🙈 Living Streets and the bane of the cyclistas
 
 Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St — the **primary cause of pedestrian deaths and serious injuries UK-wide**, no less — Living Streets Edinburgh [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopen noreferrer"} to the terrible and dangerous notion of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to exist in the same space courteously - including but not limited to **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
 
@@ -142,7 +142,7 @@ _"As has been widely acknowledged"_ — where, and by whom? Or below, in a singl
 > 
 > The report claims that there is no intention to use Rose Street as an alternative cycle route to George Street. However, the report to TEC (30 January 2025, Item 7.2) which first suggested exempting Rose Street from the one-way prohibition set out exactly this as the rationale for this exemption: “4.21 Redirecting cyclists down Rose Street offers a low-cost alternative route [to George Street] that can be implemented quickly without the need for major infrastructure changes.” Using Rose Street as a cycling route “presents a quick and low-cost solution”. These comments were made under the heading: “CCWEL Alternative Routes Prior to George Street Completion”.
 
-LSEG are correct that a report came to TEC in January exploring possible cycle diversions during the redevelopment of George St. Thistle St (and its continuances) and Rose St were both looked at as options.
+LSEG are correct that a report came to TEC in January exploring possible temporary cycle diversions  leading up to — and during — the redevelopment of George St. Thistle St (and its continuances) and Rose St were both looked at as options, as well as the potential for Queen St being used as an alternate route for cycle traffic.
 
 However, **these were ruled out at TEC in June** in favour of requiring contractors to maintain two-way cycle access on George St itself for the duration of the works. The decision [recorded at page 19 of the minutes](https://democracy.edinburgh.gov.uk/documents/g7248/Printed%20minutes%2026th-Jun-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=1#page=19){target="_blank" rel="noopen noreferrer"} includes as its point 9, from the Green group amendment, **"To agree that, for the duration of the works, two-way cycling would be retained along the entire street wherever possible"**.
 
