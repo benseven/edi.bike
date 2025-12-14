@@ -131,6 +131,7 @@ blockquote {
 
   :root {
     --color-foreground: #ffffff;
+    --color-action-dark: #5d44c3;
   }
 
   body {
@@ -148,6 +149,13 @@ blockquote {
 
   h1.subject {
     color: white;
+  }
+
+  h1+figure,
+  h2+figure,
+  h3+figure,
+  h4+figure {
+    margin-top: 1.2rem;
   }
 
   h2.description {
@@ -373,6 +381,7 @@ hr {
 }
 
 .email-body-container .buttondown-custom-button a.buttondown-button {
+  background-color: #5d44c3 !important;
   margin-top: 0 !important;
   margin-bottom: 1.4rem !important;
 }
