@@ -48,6 +48,10 @@ button.header-navigation-toggle {
   grid-row: 1;
 }
 
+.email-list hr {
+  width: 100%;
+}
+
 @media (max-width: 600px) {
   .header-navigation nav {
     flex-direction: row;
@@ -133,6 +137,15 @@ blockquote {
     background-color: #170e35;
   }
 
+  .header-navigation-link.archive-search-trigger {
+    color: #170e35;
+  }
+
+  .email-list .email-metadata {
+    color: #FFC993;
+    margin-bottom: 0.5rem;
+  }
+
   h1.subject {
     color: white;
   }
@@ -148,7 +161,7 @@ blockquote {
   .email-body-content p,
   .email-body-content ul li,
   .email-body-content ol li {
-    color: #bab9b9;
+    color: #d9d6d6;
   }
 
   .email-body-content a {
@@ -313,6 +326,14 @@ hr {
 }
 
 /* 'Archive' front page */
+
+@media (prefers-color-scheme: dark) {
+  #subscribe-form .card {
+    background-color: #3F3284;
+    border: 0;
+    text-align: center;
+  }
+}
 
 .subscribe-container .subscribe p {
   text-align: center;
