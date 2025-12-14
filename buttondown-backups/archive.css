@@ -1,3 +1,7 @@
+:root {
+  --width-content: 880px;
+}
+
 .header-navigation-container {
   background-color: #322163;
 }
@@ -120,6 +124,11 @@ blockquote {
 }
 
 @media (prefers-color-scheme: dark) {
+
+  :root {
+    --color-foreground: #ffffff;
+  }
+
   body {
     background-color: #170e35;
   }
@@ -212,6 +221,11 @@ h2.description {
   background-color: unset;
   padding: 6px 0 8px 20px;
   border-left: 4px solid #ef9533;
+  margin-bottom: 1.2rem;
+}
+
+.email-body-content blockquote+hr {
+  margin-top: 0.6rem;
 }
 
 .email-body-content blockquote p {
