@@ -167,7 +167,7 @@ Putting aside that Officers don't decide which way folks cycle through the city 
 
 1. **Consistent Policy:** the council are gradually working through one-way streets in the city and allowing contraflow cycling. For the cohesion of route planning before or during a cycle across the city, cyclists being able to predict that one-way streets are permissable to travel down both ways on a cycle is a safer approach than either entirely disallowing them (and sending cycles round convoluted routes to reach destinations) or doing so in an inconsistent fashion (with only some one-way streets offering contraflow cycling legally);
 
-2. **Reaching Destinations:** anyone who has cycled through areas with high pedestrian footfall does so because they need to be there. A small subset of Rose St's cycle usage will come from folks using it as a through-route; but the street is rich with shopping and leisure destinations as well as places of work, and these will account for the vast majority of journeys. To allow someone access from the nearest crossing road into Rose St, without having to ride round three blocks to access it with the flow of the one-way, helps make travelling by bike a more viable choice by not providing unnecessary routing friction.
+2. **Reaching Destinations:** anyone who has cycled through areas with high pedestrian footfall does so because they need to be there. A small subset of Rose St's cycle usage will come from folks using it as a through-route; but the street is rich with shopping and leisure destinations as well as places of work, and these will account for the vast majority of journeys. To allow someone access from the nearest crossing road into Rose St, without having to ride round three blocks to access it with the flow of the one-way, helps make travelling by bike a more viable choice by not causing unnecessary routing friction.
 
 > The report went on to acknowledge that “integrating cyclists into a space primarily designed for pedestrians presents challenges. The narrow width of Rose Street, combined with the high footfall at certain times, could lead to safety concerns between cycling and walking/wheeling.” 
 
@@ -176,8 +176,6 @@ This won't be surprising to our readers, but at times of high footfall, it is ge
 > While most cyclists are considerate of other road users, we don’t believe that the suggested mitigating measures such as “Share with Care” signage would be effective in deterring those who are not. We hope therefore that the Committee will uphold our objection to the TRO allowing two-way cycling on Rose Street.
 
 Nobody is looking to use Rose Street as their new commuting go-to. The changes being proposed are consistent with elsewhere in the city, will enable certain cycling journeys more direct access to their destination, and otherwise are a tiny sliver of the active travel story in Edinburgh. 
-
-**This energy could have been far better spent lobbying Voi to make the length of Rose St a go-slow zone for their hire bikes, and that would have had far more impact on pedestrian safety than worrying about which way law-abiding cycle travellers are allowed to roll down it.**
 
 It's exhausting to see so much hand-waving from folks over something with so little impact. 
 
