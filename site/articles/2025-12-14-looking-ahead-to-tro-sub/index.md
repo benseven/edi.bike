@@ -118,9 +118,9 @@ Drummond Street, Simpson Loan and Wishaw Terrace"**.
 
 16 supporting comments, 1 neutral (enquiry) and 10 objections were received during consultation. Of these, three were from _"statutory consultees for the purposes of this Traffic Regulation Order"_ - namely the Edinburgh Access Panel, Living Streets Edinburgh, and New Town and Broughton Community Council.
 
-## 🙈 Living Streets and the bane of the cyclistas
+## 🙈 Living Streets and the nuisance of people on bikes, again
 
-Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St — the **primary cause of pedestrian deaths and serious injuries UK-wide**, no less — Living Streets Edinburgh [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopen noreferrer"} to the terrible and dangerous notion of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to exist in the same space courteously - including but not limited to **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
+Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St — the **primary cause of pedestrian deaths and serious injuries UK-wide**, no less — Living Streets Edinburgh have [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopen noreferrer"} to the proposed introduction of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to exist in the same space courteously - including but not limited to **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
 
 Shall we have a look through it point by point?
 
@@ -136,7 +136,11 @@ The idea that there is even any extant mechanism by which one can allow cycle ac
 
 > Encouraging cycling on this unique street would invite conflict with pedestrians, as has been widely acknowledged and especially create a more hostile space for older, disabled and blind people. Even in the Netherlands and Copenhagen’s famous Strøget, cycling on pedestrian shopping streets is discouraged – or prohibited entirely.
 
-_"As has been widely acknowledged"_ — where, and by whom? Mainstream media parroting NIMBY talking points don't count. Or perhaps below, in a single report into something that's no longer being proposed?
+_"As has been widely acknowledged"_ - only for one definition of '[widely](https://www.dsl.ac.uk/entry/snd/wide_adj_adv)'. Having cycles going both ways on Rose St is barely different to the status quo, where there are already cyclists using the space to reach destinations on Rose St and its lanes. If we turn to the Strava global heatmap, we see that at least among Strava users, Rose St is essentially a non-entity with minimal cycle traffic already.
+
+![The Strava heatmap for the centre of Edinburgh](./assets/strava.png)
+
+This is very unlikely to significantly change just because cyclists can enter Rose St from more cross-streets - the clear delineation here is that Princes St, George St and Queen St are more suitable for Eastern / Western passage. 
 
 > Council officials recommend setting aside objections by LSEG, Edinburgh Access Panel and New Town and Broughton Community Council to proposals to allow two-way cycling on Rose Street in a report to the TRO subcommittee on 11 October 2025.
 > 
@@ -162,7 +166,7 @@ Putting aside that Officers don't decide which way folks cycle through the city 
 
 > The report went on to acknowledge that “integrating cyclists into a space primarily designed for pedestrians presents challenges. The narrow width of Rose Street, combined with the high footfall at certain times, could lead to safety concerns between cycling and walking/wheeling.” 
 
-This won't be surprising to our readers, but at times of high footfall, it is generally easier and safer for all involved if the rider dismounts (for those who are able to). It's also possible to cycle at a slower than walking space, to pause and wait for gaps or to give way, and generally co-exist. **All of this happens already on Rose St**. There is a real _'those others over there'_ vibe to a lot of this written objection - out there in the real world, user conflicts in public space are largely mitigated through our own humanity rather than requiring hand-wringing, policy-led mediation.
+This won't be surprising to our readers, but at times of high footfall, it is generally easier and safer for all involved if the rider dismounts (for those who are able to). It's also possible to cycle at a slower than walking space, to pause and wait for gaps or to give way, and generally co-exist. **All of this happens already on Rose St**. There is a real _'those others over there'_ vibe to a lot of this written objection - out there in the real world, user conflicts in public space are largely mitigated through our own humanity and compassion rather than requiring hand-wringing, policy-led mediation.
 
 > While most cyclists are considerate of other road users, we don’t believe that the suggested mitigating measures such as “Share with Care” signage would be effective in deterring those who are not. We hope therefore that the Committee will uphold our objection to the TRO allowing two-way cycling on Rose Street.
 
