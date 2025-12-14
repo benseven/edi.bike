@@ -2,7 +2,7 @@
 tags: articles, hire, press
 layout: article.njk
 
-title: TRO Sub-Committee Meeting agenda for Tuesday 16th December 2025
+title: 📋 TRO Sub-Committee Meeting agenda for Tuesday 16th December 2025
 
 ---
 
@@ -10,165 +10,166 @@ The meeting papers have been published for the council's [Traffic Regulation Ord
 
 The sub-committee exists to make 'quasi-judicial' decisions on Traffic Regulation Orders, which have a specific statutory framework that has to be followed, considering objections to proposals in an isolated and self-contained manner (i.e. cannot be lobbied or externally influenced). The 'TRO Sub' survived a recent review process which concluded that while the remit and processes around the committee need to be clearly outlined and convened, it would continue to be the way that the City of Edinburgh Council ('CEC') makes the final decision on 'making' the Traffic Orders that shape our streets.
 
-At their last meeting, on the 4th September, we saw an important victory following our [open letter with Spokes and sixteen other organisations](), which saw a course-correction from the Council regarding the remit of the committee — who on multiple occassions, deferred making a decision on the 'East Areas' segregated on-road cycleways becoming permanent in Duddingston, Willowbrae, London Rd and beyond, nearly leading to the order expiring and the removal of the cycleways.
+At their last meeting, on the 4th September, we saw an important victory following our [open letter with Spokes and sixteen other organisations](https://buttondown.com/edi.bike/archive/edibike-an-open-letter-to-the-city-of-edinburgh/){target="_blank"}, which lead to a course-correction from the Council regarding the remit of the committee — who on multiple occassions, deferred making a decision on the 'East Areas' segregated on-road cycleways becoming permanent in Duddingston, Willowbrae, London Rd and beyond, nearly leading to the order expiring and the removal of the cycleways.
 
 
 ## 📋 Agenda 
 
-There's a number of matters coming to TRO Sub for their approval this week:
+While we're not expecting anything as dramatic this Tuesday, there's still some cycling-related orders up for decision on the sub-committee's agenda:
 
-* 🌳 **Meadows to George Street** project, TRO/21/32
-and Redetermination Order RSO/21/08 - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10#page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
-* _'Late Reports'_ - 🚲 **Travelling Safely East Area** ETRO/21/28A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
-* _'Late Reports'_ - 🌴 **Travelling Safely North West and Arboretum Place** ETRO/21/27B, ETRO21/30A and ETRO/23/23A - [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
 
-_(There are other matters on the agenda regarding bins and controlled parking areas, but we will generally try and 'stay in our lane' and focus on cycle infrastructure and policy.)_
+* 🪄 4.3 **Travelling Safely - South Area** ETRO/21/29A - 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+* ↕️ 4.4 **One Way Streets Exemptions for Cyclists Batch One** TRO/24/27 - 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91696/4.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
-## ✨ Some notes of interest
-
-> 🏔️ The paperwork mountain involved in all of the different orders coming to this meeting is a bit gnarly to climb solo, so here's a number of interesting bits that apply across the city as a whole that have emerged from these reports.
-
-In recent meetings both the costs involved for upgrading the 'Travelling Safely' schemes from rubber kerbs to stone kerb segregation and pavement build-outs, and the safety of the existing 'Rosehill Rubber Cycle Lane' kerb/bollards have come into question, and both are addressed in the sections below quoted from these new reports. Additionally, Officers have put together indicative timescales for the entire city's programme, all the way up to 2034.
+_(There are other matters on the agenda regarding controlled parking areas, but we will generally try and 'stay in our lane' and focus on cycle infrastructure and policy.)_
 
 ---
 
-### 💰 'Travelling Safely' upgrades budget and overall programme estimate
+### 🪄 Travelling Safely - South Area ETRO/21/29A
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
-While the initial 5-year rolling programme of £2.5m will cover a lot of the highest priority upgrades with regard to safety and the most pressing aesthetic improvements, it could be extended:
+The 'Experimental Traffic Regulation Orders' (ETROs) for the covid-era 'Travelling Safely' schemes have been gradually ending, with the North, East and West area ETRO packages being made permanent at the last sub-committee meeting. The deadline for some of these ETROs were later, partly as the original 'South' package was later subdivided to have separate orders for **Comiston Rd / Braid Rd** and the **Greenbank to Meadows Quiet Route** individually - and the remaining, more newly issued 'South' areas ETRO now has its day at committee to be made into a permanent order.
 
-> **5.1.5** A preliminary budget level cost estimate for upgrading prioritised measures across the whole Travelling Safely programme is £4.1 million. Further detail is provided in Appendix 27. This estimate has been prepared on the basis of all projects being retained permanently, which will be subject to decisions made at this and future Sub-Committee meetings;
+> By way of a bit of background, our look ahead at the previous meeting's agenda includes some prior reading on the following:
 >
-> **5.1.6** As it is now anticipated that the currently approved five-year rolling programme of infrastructure upgrades would be insufficient to upgrade all prioritised infrastructure, should all schemes be retained permanently, the next annual review of the CMP CIP will recommend that this programme be extended in duration until all prioritised infrastructure is upgraded;
+> * ✨ The rolling 'Travelling Safely' upgrades budget and overall programme estimate to upgrade routes from 'Rosehill Defender' bollards to kerb segregation (like existing lanes at London Rd, Lasswade Rd, Holyrood Rd)
+> * 📊 The prioritisation framework used when upgrading Travelling Safely schemes - how it's decided where in the city it's most pressing to make the change from bollards to kerbs
+> * 💰 Breakdowns of costings and timelines to upgrade all Travelling Safely routes to kerb segregation (and where necessary, small amendments to layouts)
+> * 🤔 The safety and suitability of rubber 'Rosehill lane defender' units
 >
-> **5.1.7** Upgrades to Travelling Safely infrastructure will be delivered on a prioritised basis; and
+> ➡️ You can [read that coverage here](/articles/2025-08-31-looking-ahead-to-tro-sub-4th-september#travelling-safely-upgrades-budget-and-overall-programme-estimate). These points and their relevant documentation are also included for Councillors as appendices on the South areas ETRO report coming to Committee.
+
+Digging into the report, there's a lot there (particularly with appendixes of legalistic TRO advertisements and endless street plans) but here's our highlights.
+
+_(Some of these pertain to separate orders spun out of the original South ETRO package, as they date back to when it was all under one project)._
+
+---
+
+#### 🗺️ Extent of the 'South' area
+
+The 'South' areas ETRO includes protected cycleways on the **Buccleuch Street corridor** (including Lothian Street, Potterrow and Chapel Street); **Causewayside corridor** (including Ratcliffe Terrace); **Craigmillar Park corridor** (including Minto Street, Mayfield Gardens and Suffolk Road); **Gilmerton Road**, **Mayfield Road** and **Old Dalkeith Road**. 
+
+---
+
+#### 👏🏼 Support for the measures
+
+Pages [4 to 8 of the Report PDF](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=4){target="_blank" rel="noopen noreferrer"} detail objections to the South scheme - before and after the 'spin out' of the separate ETROs from its original form:
+
+> **"The majority of representations received in response to the first advert related entirely to one or more of the following three schemes: Braid Road, Comiston Road and the Greenbank to Meadows Quiet Connection. These three schemes were originally advertised under ETRO/21/29 but were not included in ETRO/21/29A and are now the subject of separate scheme specific ETROs.**"
+
+In aggregate, there was just as much support for the schemes as there were objectors:
+
+![Table of objections to the south scheme ETRO](./assets/south-objections-1.png)
+
+The title of the table below is incorrect, but when Braid Rd, Comiston Rd and the Greenbank to Meadows Quiet route are removed from consideration as they're now in separate processes, and only comments relevant to the 'South areas' ETRO are included, these are overwhelmingly supportive: 
+
+![Table of objections to the south scheme ETRO](./assets/south-objections-2.png)
+
+---
+
+#### 👁️ Monitoring scheme impacts
+
+> **"The data collected shows that the measures have regular levels of use and the reallocation of road space as part of programme has not had a negative impact on general traffic journey times."** 
+
+📄 The **2024 Summary Report** by Stantec for the Travelling Safely schemes [can be found beginning at page 59](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=59){target="_blank" rel="noopen noreferrer"} of the report PDF. Nothing particularly surprising; some interesting stats on peak times to and from town, including routes that buck common direction trends.
+
+📄 The **2025 Travelling Safely Supplementary Monitoring Summary Report – Southern Routes**, also carried out by Stantec, [can be found starting from page 86](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=86){target="_blank" rel="noopen noreferrer"} of the report PDF. 
+
+For reasons known only to themselves, Stantec undertook re-measuring the levels of cycling in the schemes — originally captured in June 2023 — in 4°C weather in February 2025. This, it won't surprise you to learn, means the comparative user counts in the report are about as useful as a political manifesto pledge. [Appendix 14 at page 249](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=249){target="_blank" rel="noopen noreferrer"} features Officers' response to the monitoring and evaluation of the routes, which does mention this seasonality snafu - and in spite of the summer vs. winter data, two corridors did see a significant increase in cycle journeys between these points of measurement.
+
+The report contains around fifteen pages of cycling counting data and information on journey times.
+
+---
+
+#### 💬 Feedback from consultation
+
+Skipping the raw and unfiltered responses provided in 'Appendix 6', [**Appendix 7** from page 194](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=194){target="_blank" rel="noopen noreferrer"} of the report PDF is a summary of the themes raised in the feedback, including a response from Council officers and whether any action is being considered in response. 
+
+It's disappointing to see a key issue with the **Craigmillar Park Corridor** scheme noted, but no further action slated:
+
+> **Despite restrictions and prohibitions, unauthorised motor vehicle drivers regularly load/unload and/or park on advisory lanes and/or bus lanes during bus lane operating hours impeding the intended use of the space and benefits for cyclists and buses.**
+
+This has been many folks experience of this corridor, coupled with a dreadful quality of road surface making riding within the segregated space something of a dangerous experience in itself; we would have loved to have seen Officers propose how measures could be strengthened to combat this unauthorised use of the lanes here rather than wishing they didn't.
+
+[Appendix 9 from page 203](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=203){target="_blank" rel="noopen noreferrer"} contains a list of **"Recommended amendments to restrictions not trialled on the ground and locations with 24hr loading restrictions"**. Some of these are loading restrictions that have never actually been enacted; but others are a relaxation around loading that we would very much hope don't negatively impact the experience of cycling safely through the area.
+
+---
+
+The precedent has been set in September that the Travelling Safely schemes are a vital addition to Edinburgh's on-road cycle network and should be made permanent; our hope is that this prevails for these South schemes too come the voting on Tuesday.
+
+---
+
+## ↕️ One Way Streets Exemptions for Cyclists Batch One TRO/24/27
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91696/4.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+
+> **Proposals in TRO/24/27 would exempt pedal cycles from existing one-way orders. The proposals would be introduced, alongside complementary measures such as additional signage and road markings, on the following streets:**
 >
-> **5.1.8** The planned annual reviews of the CMP CIP will also allow future consideration to be given to further upgrades or replacement of Travelling Safely infrastructure, not prioritised at this stage.
+> 4.2.1 **Cassel’s Lane**;
+> 4.2.2 **Circus Lane**;
+> 4.2.3 **Drummond Street**;
+> 4.2.4 **Richmond Lane**;
+> 4.2.5 **Rose Street**;
+> 4.2.6 **Simpson Loan**;
+> 4.2.7 **Thistle Street**; and
+> 4.2.8 **Wishaw Terrace**.
+
+As per the report, **"No objections were received to the proposals for Cassel’s Lane, Circus Lane,
+Drummond Street, Simpson Loan and Wishaw Terrace"**. 
+
+16 supporting comments, 1 neutral (enquiry) and 10 objections were received during consultation. Of these, three were from _"statutory consultees for the purposes of this Traffic Regulation Order"_ - namely the Edinburgh Access Panel, Living Streets Edinburgh, and New Town and Broughton Community Council.
+
+### 🙈 Living Streets and the bane of the cyclistas
+
+Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St — the **primary cause of pedestrian deaths and serious injuries UK-wide**, no less — Living Streets Edinburgh [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopen noreferrer"} to the terrible and dangerous notion of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to exist in the same space courteously - including but not limited to **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
+
+Shall we have a look through it point by point?
+
+> Rose Street is the closest thing that Edinburgh has to a pedestrianised street. 
+
+Always good to open an argument by decimating it yourself. **Rose St is not a pedestrianised street** - it is a carriageway with time-limited loading on its main strip, and 24hr one-way access for motor vehicles to its various lanes. Leaping to its defence in the face of a few more bikes and saying nothing about its persistent motor vehicle access is very much the Turkeys voting for Christmas while decrying the Easter Bunny.
+
+> Cycling through the street, as opposed to accessing the shops and restaurants on it by bike, should be strongly discouraged. 
+
+Remember that story about the pedestrian collision with someone cycling through Rose St, a cycling option that's already permitted? You don't, because it hasn't happened at any significant level in either severity nor frequency.
+
+The idea that there is even any extant mechanism by which one can allow cycle access only for local destinations is also fantasy.
+
+> Encouraging cycling on this unique street would invite conflict with pedestrians, as has been widely acknowledged and especially create a more hostile space for older, disabled and blind people. Even in the Netherlands and Copenhagen’s famous Strøget, cycling on pedestrian shopping streets is discouraged – or prohibited entirely.
+
+_"As has been widely acknowledged"_ — where, and by whom? Or below, in a single report into something that's no longer being proposed?
+
+> Council officials recommend setting aside objections by LSEG, Edinburgh Access Panel and New Town and Broughton Community Council to proposals to allow two-way cycling on Rose Street in a report to the TRO subcommittee on 11 October 2025.
+> 
+> The report claims that there is no intention to use Rose Street as an alternative cycle route to George Street. However, the report to TEC (30 January 2025, Item 7.2) which first suggested exempting Rose Street from the one-way prohibition set out exactly this as the rationale for this exemption: “4.21 Redirecting cyclists down Rose Street offers a low-cost alternative route [to George Street] that can be implemented quickly without the need for major infrastructure changes.” Using Rose Street as a cycling route “presents a quick and low-cost solution”. These comments were made under the heading: “CCWEL Alternative Routes Prior to George Street Completion”.
+
+LSEG are correct that a report came to TEC in January exploring possible cycle diversions during the redevelopment of George St. Thistle St (and its continuances) and Rose St were both looked at as options.
+
+However, **these were ruled out at TEC in June** in favour of requiring contractors to maintain two-way cycle access on George St itself for the duration of the works. The decision [recorded at page 19 of the minutes](https://democracy.edinburgh.gov.uk/documents/g7248/Printed%20minutes%2026th-Jun-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=1#page=19){target="_blank" rel="noopen noreferrer"} includes as its point 9, from the Green group amendment, **"To agree that, for the duration of the works, two-way cycling would be retained along the entire street wherever possible"**.
+
+The standing democratic decision on Rose St as a potential diversion route is formed not only of the original report LSEG are quoting above, **BUT ALSO the decisions that follow it**. You can't pick and choose from past meetings what to present as the Council's plans without manipulating the truth of the record. The same was true of recent campaigns claiming cycling would be 'discouraged' on the Roseburn Path if the tram ran down it, reflecting a failure to understand that **an original report alone does not represent a council position if it is amended at committee before passing**.
+
+If LSEG still believes that the reason to make Rose St two-way for cycling is to work around George St redevelopment (when the record states it is not) — what do they believe the purpose of making the other seven streets in this TRO two-way is?
+
+> Accordingly, we retain our concerns that removing the one-way exemption would mean that Rose Street could still very much be seen by officers as a viable alternative through-route across the city by bicycle. If Rose Street is no longer considered as a suitable cycle route, then the rationale for introducing the TRO in the first place falls away.
+
+Putting aside that Officers don't decide which way folks cycle through the city for them, and that Rose St is out of the way and not a good option for most east-west-east journeys; there are two — good, reasonable and measured — reasons to introduce two-way cycling on Rose St.
+
+1. **Consistent Policy:** the council are gradually working through one-way streets in the city and allowing contraflow cycling. For the cohesion of route planning before or during cycling across the city, cyclists being able to predict that one-way streets are permissable to travel down both ways on a cycle is a safer approach than either entirely disallowing them (and sending cycles round convoluted routes to reach destinations) or doing so in an inconsistent fashion (with only some one-way streets offering contraflow cycling legally);
+
+2. **Reaching Destinations:** anyone who has cycled through areas with high pedestrian footfall does so because they need to be there. A small subset of Rose St's cycle usage will come from folks using it as a through-route; but the street is rich with shopping and leisure destinations as well as places of work, and these will account for the vast majority of journeys. To allow someone access from the nearest crossing road into Rose St, without having to ride round three blocks to access it with the flow of the one-way, helps make travelling by bike a more viable choice by not providing unnecessary routing friction.
+
+> The report went on to acknowledge that “integrating cyclists into a space primarily designed for pedestrians presents challenges. The narrow width of Rose Street, combined with the high footfall at certain times, could lead to safety concerns between cycling and walking/wheeling.” 
+
+This won't be surprising to our readers, but at times of high footfall, it is generally easier and safer for all involved if the rider dismounts (for those who are able to). It's also possible to cycle at a slower than walking space, to pause and wait for gaps or to give way, and generally co-exist. **All of this happens already on Rose St**. There is a real _'those others over there'_ vibe to a lot of this written objection - out there in the real world, user conflicts in public space are largely mitigated through our own humanity rather than requiring hand-wringing, policy-led mediation.
+
+> While most cyclists are considerate of other road users, we don’t believe that the suggested mitigating measures such as “Share with Care” signage would be effective in deterring those who are not. We hope therefore that the Committee will uphold our objection to the TRO allowing two-way cycling on Rose Street.
+
+Nobody is looking to use Rose Street as their new commuting go-to. The changes being proposed are consistent with elsewhere in the city, will enable certain cycling journeys more direct access to their destination, and otherwise are a tiny sliver of the active travel story in Edinburgh. 
+
+It's exhausting to see so much hand-waving from folks over something with so little impact, and feeling like there's a bun fight over every possible opportunity to make cycling in the capital more viable. 
 
 ---
-
-### ⬆️ The prioritisation framework for upgrading Travelling Safely schemes
-
-You can read the newly published **Upgrading of Infrastructure at Measures Retained Permanently - Prioritisation Framework and Criteria** at PDF page 140 of [this appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf#page=140){target="_blank" rel="noopen noreferrer"}. 
-
-It lays out criteria and aims for spending during the five-year rolling programme of upgrades to Travelling Safely schemes.
-
----
-
-### ⏳ The timescale and costs involved in making each Travelling Safely scheme permanent
-
-On the next pages (143-145) of the same [appendix PDF](https://democracy.edinburgh.gov.uk/documents/s87677/Appendix%2013%20-%2028%20NWA.pdf#page=143){target="_blank" rel="noopen noreferrer"}, reside a table of costs, timescales and a map for **Upgrading of Infrastructure at Measures Retained Permanently - Preliminary Cost Estimate and Anticipated Implementation Timescales**. 
-
-This is a list of every scheme or measure, the corresponding ETRO they were bundled with, costs, when the decision on permanence is expected, and when they could be implemented - **with the longest lead time stretching all the way to 2033/2034.** 😅 
-
----
-
-### 🤔 The safety of rubber lane defender units
-
-The Councils' own stats show that there have been no injury claims as a result of rubber kerbs since 2023, with the lion's share occurring when the schemes were brand new;
-
-> **4.19** Since these types of units started being installed in Edinburgh in 2020, the Council has received 28 claims for personal injury and three claims for vehicle damage relating to them. Eight of these claims relate to incidents that occurred in 2020, 17 to incidents in 2021, five to incidents in 2022 and one to an incident in 2023. No claims have been received for any incidents occurring since 2023. Eighty percent of claims therefore relate to the 2021-22 period when most of the units were being installed and there has only been one claim received for an incident occurring within the last three years...
->
-> **4.21** Where specific locations of concern have been identified, either through the receipt of an incident claim or through other means, the road layouts were reviewed and modified, where it was considered that this could reduce the potential for similar incidents to recur.
->
-> **4.22** The Council does not therefore consider there to now be a significant risk to road safety posed by the soft segregation units.
->
-> **4.23** Due to their nature and the materials used in their construction, it is anticipated that these units will have a shorter serviceable lifespan than infrastructure built using materials more traditionally used for such purposes, such as asphalt, concrete or natural stone; and therefore, they will eventually require to be replaced or upgraded. 
->
-> **4.24** However, at some locations it will be possible to retain the current infrastructure without concern until it reaches the end of its serviceable lifespan; at which time it can either be upgraded or replaced on a like-for-like basis.
-
----
-
-In all cases, there is more than enough justification for not only the financial side being in order, but also the continued use of the materials we have already where Officers deem necessary (or lower priority). For more on why that's significant, read on for a tale of woe about one of the first of these 'Travelling Safely' schemes to come before TRO Sub.
-
-
-## 🔥 Up this week: East Areas ETRO
-
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=9){target="_blank" rel="noopen noreferrer"} » [PDF, page 3]
-
-_This report also includes some materials on the 'City Centre' ETRO, which was approved by the TRO Sub back in May._
-
----
-
-### 📖 The story so far
-
-This Sub-Committee has twice deferred a decision on making permanent the 'Travelling Safely' schemes in the **East Areas** Experimental Traffic Regulation Order ('ETRO') in recent months. 
-
-In May, TRO Sub felt they couldn't approve the schemes becoming permanent without knowing there was funding in place to upgrade the materials used for them - funding that was subsequently approved by the Transport & Environment Committee ('TEC') as part of the catchily-named _'City Mobility Plan Capital Investment Programme'_, a ten-year plan listing in priority order the projects the council want to take on in infrastructure, placemaking and public realm.  
-
-With the clock ticking down on the East ETRO's expiry date, the TRO Sub scheduled a 7th August 'special' meeting to review once more - after funding would have been approved or denied - and try to make a decision. This time, TRO Sub managed to get bogged down in the detail of how schemes would be implemented, which are arguably beyond the scope of the Sub-Committee, such as which materials the cycle lane segregation was comprised of, and the timescale for it receiving upgrades.
-
-Without further detail from Officers - who had not been expecting to need to provide it - the TRO Sub elected to once more kick the can down the road, leaving very little time between their meeting this week to finally decide, and the expiry of the East Areas ETRO in late October.
-
-The programme of upgrades approved at TEC as part of the prioritisation project is a rolling, £2.5m pot to upgrade Travelling Safely infrastructure across the city, but is being planned and prioritised on a city-wide basis. So there's no guarantee for any one area ETRO coming before the Sub-Committee about the timescale or exact design - because design work will follow the Council's decision to make the ETRO permanent. The ETRO itself consists of minor road closures, waiting, loading and parking restrictions, rather than any detail about what materials are used to create protected cycleways there, or even the cycleways themselves. 
-
-The meeting itself can be [watched back here](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1009303){target="_blank" rel="noopen noreferrer"} or you can read [our transcript](https://docs.google.com/document/d/1MgTxWouHu5IF7HuXoAoxHj9WQZYfgSPTziqI7Z15_TQ/edit?tab=t.0){target="_blank" rel="noopen noreferrer"} of the proceedings.
-
----
-
-### ✍🏽 An Open Letter
-
-This continued overreach and kicking of the proverbial can down the road lead to ourselves and [Spokes](http://spokes.org.uk){target="_blank" rel="noopen noreferrer"} penning an [Open Letter to the TRO Sub and TEC Conveners](https://edi.bike/files/2025/publications/Open-Letter-RE-TRO-Sub-Committee-and-the-East-Areas-ETRO.pdf){target="_blank" rel="noopen noreferrer"} - as well as copying in many Councillors, executives and Council Officers - calling for greater scrutiny on the remit and actions of the TRO Sub-Committee, who to our eyes are subverting the process and intentions of the Transport Committee and the council's City Mobility Plan, threatening vital protected cycle infrastructure used by residents and visitors to move safely through the East of the city.
-
-The letter was co-signed by sixteen active travel organisations from across the city, underscoring the seriousness of what's at stake here if the TRO Sub is allowed to continue as a 'mini-TEC', undermining policy and the outcomes of what have been really positive changes for those walking, wheeling and cycling.
-
----
-
-### 🔁 Back once again
-
-So we have detail and reassurances from officers; 
-* There have been no injury claims as a result of 'soft segregation' rubber kerbs since 2023, with a clear peak of safety issues when the materials were first used in the city;
-* There is a costed programme to upgrade materials not only over the next five years, but would be wholly addressed in the long term with another five year extension when reviewed;
-* There are prioritisations being refined on which schemes need the most attention, the most quickly;
-* There is a full schedule of the expected work needed.
-
-In the face of this - and hopefully, all eyes within the council and beyond on the TRO Sub and whether it's upholding council policy on safe Active Travel provision - we'll see sense prevail this week and the East Area ETRO made permanent.  
-
-## 🧭 Up this week: North and West ETROs
-
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/b26852/Late%20Reports%2004th-Sep-2025%2010.00%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf?T=9#page=261){target="_blank" rel="noopen noreferrer"} » [PDF, page 261]
-
-More Travelling Safely schemes up for making permanent, this time packaged as:
-
-**'West'** - ETRO/21/30A - expires 16 December 2025
-> * A90 (Queensferry Rd)
-> * Cammo
-> * Drum Brae
-> * Fountainbridge, Dundee St
-> * Lanark Rd
-> * Longstone Rd
-> * Meadowplace Road
-> * Pennywell Rd, Muirhouse
-
-These originally also included measures in Silverknowes, which were then spun out into a standalone ETRO for this area (as with some measures elsewhere in the city).
-
-**'Arboretum Place'** - ETRO/23/23A - expires 14 January 2026
-
-_(A separate ETRO that was split out from the 'North' package when changes needed to be made on the ground during the trial)._
-
-**'North'** - ETRO/21/27B - also expires 14 January 2026
-> * Bellevue, Canonmills
-> * Comely Bank
-> * Crewe Rd South
-> * Ferry Rd
-> * West Shore, Marine Dr
-
-We know that these measures have bedded in, become part of the city's urban fabric, improved conditions for people walking, wheeling and cycling, and have also generated a lot of frothy-mouthed objections - objections which run counter to the Council's policies on a reduction in car kilometres travelled, the City Mobility Plan, and establishing a cycle network for the city so cycling can be a real choice for residents to travel; even if they're just starting out or feel nervous cycling in general traffic.
-
-And again, the TRO Sub has the opportunity here to pay close attention to whether there is any real merit in the objections being put forward, whether they stand up to even basic scrutiny, and pay attention to the newly published prioritisations and costs hurriedly prepared for TRO Sub to consider since their 'special' meeting in early August.
-
-## 🌳 Up this week: Meadows to George Street project
-
-📄 [Report and appendices](https://democracy.edinburgh.gov.uk/documents/g7796/Public%20reports%20pack%2004th-Sep-2025%2010.00%20Traffic%20Regulation20Orders%20Sub-Committee.pdf?T=10#page=7){target="_blank" rel="noopen noreferrer"} » [PDF, page 7]
-
-Lastly, but certainly not least-ly: The [Meadows to George Street](https://meadowstogeorgestreet.info/){target="_blank" rel="noopen noreferrer"} gets its moment in the statutory sunshine of the TRO Sub. This key infrastructure project sees Forrest Rd, George IV Bridge, North Bank St and The Mound set apart as a key corridor for active travel and public transport, with a bus gates introduced on North Bank Street and Candlemaker Row with only passage for buses, black cabs and cycles allowed. 
-
-This project sees the (almost) complete pedestrianisation of Forrest Rd - a cycle street linking with the key paths through the Meadows - with traffic re-routed except for cycles and timed vehicular deliveries, leading to a bi-directional protected cycleway down the east side of George IV Bridge and the Mound, linking up to future changes at Hanover St, George St and the popular City Centre West to East Link.
-
-<figure>
-  <img src="images/Meadows-to-George-Street-CEC-walking-cycling-2022.jpg"/>
-  <figcaption>Image: City of Edinburgh Council</figcaption>
-</figure>
 
 ## 📰 More coverage next week!
 
-If you haven't already, [subscribe to edi.bike](https://edi.bike) to receive our weekly news digest about cycling in Edinburgh - and stay tuned for the outcomes from this committee.
+If you haven't already, [subscribe to edi.bike](https://edi.bike) to receive our weekly news digest about cycling in Edinburgh - and stay tuned for the outcomes from this committee meeting.
