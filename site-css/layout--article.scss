@@ -92,6 +92,9 @@
         margin-bottom: 1em;
       }
     }
+    blockquote:has(.util--pipespacer) > p {
+      max-width: 100%;
+    }
 
     .pswp-gallery figure {
       margin: 0;

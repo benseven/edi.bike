@@ -81,6 +81,9 @@
 .layout--article .container blockquote li:last-of-type {
   margin-bottom: 1em;
 }
+.layout--article .container blockquote:has(.util--pipespacer) > p {
+  max-width: 100%;
+}
 .layout--article .container .pswp-gallery figure {
   margin: 0;
 }
