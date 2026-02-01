@@ -50,11 +50,15 @@ According to the report:
 
 The daily average movements through the space are 69 cycles and 19 vehicles; there are a number of other interesting insights [in the Report's appendices](https://democracy.edinburgh.gov.uk/documents/s93338/St%20James%20Square%20access%20arrangements%20-%20appendix%201%20-%209.pdf){target="_blank" rel="noopen noreferrer"}.
 
+#### 🗳️ Amendments and Addendums
+
 An [SNP addendum](https://democracy.edinburgh.gov.uk/documents/b27352/Motions%20and%20Amendments%2029th-Jan-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopen noreferrer"} [PDF page 9] points out the developer's contradictions in proposed designs for the square and underground car park, and looks to add restrictions on the number of vehicles allowed per day to the Standard Operating Plan. This of course has to be agreed with the developer, who could refuse it.
 
 A further Green addendum proposed improved crossing facilities or other interventions for pedestrian safety for  Multrees Walk at Elder St, given continued traffic to the square and bus station there. In moving this position Councillors noted that their group are not happy with the continued presence of vehicles in the square, but are aware of the legal difficulties the committee faces in trying to get these reduced.
 
 On learning that the administration's position was to accept the Green and SNP addenda, the _People's Trustworthy Party for the Protection of Vehicle Incursion into Public Space_ — known colloquially as the Tories — mobilised and moved the report as-is. Somewhat surprisingly, Cllr Kevin Lang for the Liberal Democrats followed up another pro-vehicle monothought from the Conservatives with some real fire in the belly, and encouraged in contribution that committee continues to try to fight for this space as a public square free of motor vehicles, which was a welcome spectacle.
+
+#### 👨🏼‍⚖️ Decision
 
 **Another classic 9-2 vote in favour of the administration position**, so the future of St James Square now sits with officers for negotiations between the Council and the custodians of the Golden Turd.
 
@@ -73,9 +77,13 @@ There's a real danger that these summaries end up just being me having a hearty 
 
 (No different this time, I'm afraid. I'm only human).
 
+#### 🗳️ Amendments and Addendums
+
 Not only did this motion calling for review of the City Mobility Plan ('CMP') receive derision for asking of TEC something already due to come this year (the CMP is reviewed on a two-year cycle); but the administration tabled a thorough disassembly / restructure of the motion (an 'amendment' in name alone) only to then hear directly from the Tory councillors in their wee speeches and promptly withdraw it and move for '**No Action**' on the item instead.
 
 The Lib Dems popped their heads above the parapet with an amendment to make some of the language about Controlled Parking Zones — which have been popular in some areas of the city, and frothily chewed out in others — more representative of how these have played out across the city, but largely to take the Conservatives side in being skeptical of the CMP from the sidelines, with no real political capital at stake either. The Conservatives (seemingly glad of a rare ally) accepted this amendment to their position.
+
+#### 👨🏼‍⚖️ Decision
 
 **A Labour / SNP / Green progression of seven councillors** vs. votes from the four skeptics saw this motion duly consigned to the Tory recycling basket. 
 
@@ -99,6 +107,8 @@ We're sure skeptical local councillors probably know better than 200 transport p
 
 💬 The motion was later discussed by Councillors from 5h 23m 33s into [the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1059311){target="_blank" rel="noopen noreferrer"}.
 
+#### 🗳️ Amendments and Addendums, Decision
+
 The Green group accepted an amendment from the administration to receive updates on the proposed filter by Business Bulletin — rather than a full report to committee — and unfortunately also fully accepted an amendment from the Conservative group regarding monitoring the effects of filtering, which is fair enough, but required an update to TEC within 'two cycles', which is 16 weeks or around four months.
 
 The reason this is slightly unfortunate is that it can take between six months and a year and a half to see the full effects (and benefits) of filtering, in terms of traffic evaporation and longer-term behaviour change. Looking back at [Aecom's monitoring plans for the low traffic neighbourhood aspects of Corstorphine Connections](https://www.edinburgh.gov.uk/downloads/file/30342/corstorphine-ltn-monitoring-plan){target="_blank" rel="noopen noreferrer"}, for example, expected milestones were at the six month and twelve month mark. Monitoring as immediate as is being suggested may yield some immediate benefit for the residents on the street, but will not ultimately provide an accurate set of data for the medium to long term traffic patterns in the area.
@@ -112,8 +122,9 @@ The reason this is slightly unfortunate is that it can take between six months a
 
 After some [social media handbaggery](https://bsky.app/profile/stephenjenkinson.bsky.social/post/3mdfba7c7v22b){target="_blank" rel="noopen noreferrer"} early in the week, in the end this debate went fairly smoothly.
 
-
 > At the September 2025 meeting of TEC, it was agreed that an update on the Cycle Hire Scheme provided by [Voi](https://www.voi.com/){target="_blank" rel="noopen noreferrer"} would be provided to Councillors via the Business Bulletin every six months during the two-year trial of the scheme.
+
+#### 🗳️ Amendments and Addendums
 
 An [amendment from the administration](https://democracy.edinburgh.gov.uk/documents/b27352/Motions%20and%20Amendments%2029th-Jan-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=26){target="_blank" rel="noopen noreferrer"} [PDF page 26] initially sought to replace the contents of the motion — which would establish a briefing in the next couple of months from Voi and CEC officers for stakeholder groups like Spokes and Living Streets — with supportive information on the status quo, namely the current ad-hoc engagement with groups and weekly meetings between Voi and officers. This included a brief patronage update: 
 
@@ -132,6 +143,8 @@ Meanwhile [an amendment from the Conservatives](https://democracy.edinburgh.gov.
 Cllr Booth reiterated Green group support — in spite of [misleading headlines from the Evening News](https://www.edinburghnews.scotsman.com/news/edinburgh-cycle-hire-scheme-criticised-by-greens-over-teething-problems-5490850){target="_blank" rel="noopen noreferrer"} — and the desire to strengthen the scheme during the trial period with stakeholder input.
 
 Cllr Jenkinson, in moving the Labour position, acknowledged the existence of teething issues with the scheme, and highlighted again the success of the scheme so far. Cllr Whyte, in moving the Conservative amendment, pointed to how unclear parking space locations are for the general public, especially those who do not use Voi bikes. He also mentioned that the use of parking spaces on the carriageway for the hire scheme had previously been discussed.
+
+#### 👨🏼‍⚖️ Decision
 
 Cllr Booth's response was to accept Labour's offering as an addendum — i.e. tacked on to the end of their motion — and to accept the Conservative amendment in full (acknowledging a rare moment of agreement between the parties). **This position established enough consensus that it was accepted by the administration** and moved forward without requiring a vote.
 
