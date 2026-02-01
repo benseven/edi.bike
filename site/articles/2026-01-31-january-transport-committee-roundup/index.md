@@ -19,9 +19,7 @@ The City of Edinburgh Council's **Transport and Environment Committee** ('TEC') 
 ### 💰 7.2 Edinburgh Visitor Levy: City Operations and Infrastructure Investment Theme 
 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s93326/Visitor%20Levy-%20City%20Operations%20and%20Infrastructure%20Report.pdf){target="_blank" rel="noopen noreferrer"} [PDF]  {% pipespacer %} ℹ️ [Our background on this item](/articles/2026-01-24-january-transport-committee-agenda#7-2-edinburgh-visitor-levy-city-operations-and-infrastructure-investment-theme){target="_blank"} » 
 
-Quite an involved topic - going through a series of checks and balances regarding how Visitor Levy or 'tourist tax' funds should be spent in the city. The aims of this report before TEC were to:
-
-Note the scheme's objectives and 'process of assessment' - including how projects are prioritised and consulted on; and to more specifically give the nod on the [list of projects](https://democracy.edinburgh.gov.uk/documents/s93329/Appendix%203-%20City%20Operations%20and%20Infrastructure%20Recommended%20Projects.pdf) [Appendix 3 PDF] to fund from the new revenue stream. For a final decision, the report is then referred on to become part of the Council’s budget setting process. 
+Quite an involved topic - going through a series of checks and balances regarding how Visitor Levy or 'tourist tax' funds should be spent in the city. The aims of this report before TEC were to note the scheme's objectives and 'process of assessment' - including how projects are prioritised and consulted on; and to more specifically give the nod on the [list of projects](https://democracy.edinburgh.gov.uk/documents/s93329/Appendix%203-%20City%20Operations%20and%20Infrastructure%20Recommended%20Projects.pdf) [Appendix 3 PDF] to fund from the new revenue stream. For a final decision, the report is then referred on to become part of the Council’s budget setting process. 
 
 Headlines for cycling within projects slated to receive VL funds are another run at **Princes Street Public Realm Design** (including the gardens); improvements to cycle superhighway **Rose St** (/sarcasm), part-financing the huge **George Street and First New Town** project which would at last 'complete' the City Centre West to East Link, and changes to **Porty Prom** and **Cramond Foreshore** that would have some effect on active travel routes in these areas too.
 
@@ -112,13 +110,34 @@ The reason this is slightly unfortunate is that it can take between six months a
 
 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s93362/Motion%20by%20Cllr%20Booth%20-%20Voi%20Cycle%20Hire%20Scheme.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} ℹ️ [Our background on this item](/articles/2026-01-24-january-transport-committee-agenda#9-3-motion-by-councillor-booth-voi-cycle-hire-scheme){target="_blank"} »
 
+After some [social media handbaggery](https://bsky.app/profile/chasbooth.bsky.social/post/3mdfgnr4l4k2j){target="_blank" rel="noopen noreferrer"} early in the week, in the end this debate went fairly smoothly.
 
 
-At the September 2025 meeting of TEC, it was agreed that an update on the Cycle Hire Scheme provided by [Voi](https://www.voi.com/){target="_blank" rel="noopen noreferrer"} would be provided to Councillors via the Business Bulletin every six months during the two-year trial of the scheme.
+> At the September 2025 meeting of TEC, it was agreed that an update on the Cycle Hire Scheme provided by [Voi](https://www.voi.com/){target="_blank" rel="noopen noreferrer"} would be provided to Councillors via the Business Bulletin every six months during the two-year trial of the scheme.
 
+An [amendment from the administration](https://democracy.edinburgh.gov.uk/documents/b27352/Motions%20and%20Amendments%2029th-Jan-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=26){target="_blank" rel="noopen noreferrer"} [PDF page 26] initially sought to replace the contents of the motion — which would establish a briefing in the next couple of months from Voi and CEC officers for stakeholder groups like Spokes and Living Streets — with supportive information on the status quo, namely the current ad-hoc engagement with groups and weekly meetings between Voi and officers. This included a brief patronage update: 
 
+> Notes the success of the Voi Edinburgh cycle hire scheme, which since its launch in September 2025 has seen over 25,000 riders making more than 171,000 trips, covering a distance of well over 417,000 km.
 
-This is vital to address the public realm costs of the cycle hire scheme; which while excellent and performing very well, is also creating issues in some locations with blocked pavements and crossings, as well as saturating available cycle rack parking — the source of [our campaign on the issue](http://localhost:8081/projects/2025-11-voi-cycle-rack-parking/){target="_blank" rel="noopen noreferrer"}. Voi are clearly capable and willing to intervene and make the scheme as successful for everyone, cycle users or not - but the requirement to engage with stakeholders being set by TEC is vital to give officers the political backing and remit to ensure these issues are being looked at.
+Meanwhile [an amendment from the Conservatives](https://democracy.edinburgh.gov.uk/documents/b27352/Motions%20and%20Amendments%2029th-Jan-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=27){target="_blank" rel="noopen noreferrer"} [PDF page 27] was a surprisingly positive addition, adding to the list of stakeholder groups _"Community Councils who have bike parks [sic] in their areas"_ - and additional work in terms of reporting ahead of briefings to stakeholder groups with some welcome accountability mechanisms:
+
+> Further agrees that the briefing referred to in 2.1 will be supported by a short written briefing note, to be circulated to committee members in advance, setting out: 
+>
+> (a) the main operational issues identified since the launch of the cycle hire scheme, including reports of obstruction and bike congestion;
+> (b) actions already taken to address these issues including the use, or possible use, of actions agreed by Committee when approving the scheme trial; and
+> (c) any further actions planned, with indicative timescales.
+>
+> 2.4 Further agrees that the update provided to committee will include details of the impacts on pedestrians and disabled people.
+
+Cllr Booth reiterated Green group support — in spite of [misleading headlines from the Evening News](https://www.edinburghnews.scotsman.com/news/edinburgh-cycle-hire-scheme-criticised-by-greens-over-teething-problems-5490850){target="_blank" rel="noopen noreferrer"} — and the desire to strengthen the scheme during the trial period with stakeholder input.
+
+Cllr Jenkinson, in moving the Labour position, acknowledged the existence of teething issues with the scheme, and highlighted again the success of the scheme so far. Cllr Whyte, in moving the Conservative amendment, pointed to how unclear parking space locations are for the general public, especially those who do not use Voi bikes. He also mentioned that the use of parking spaces on the carriageway for the hire scheme had previously been discussed.
+
+Cllr Booth's response was to accept Labour's offering as an addendum — i.e. tacked on to the end of their motion — and to accept the Conservative amendment in full (acknowledging a rare moment of agreement between the parties). This position established enough consensus that it was accepted by the administration and moved forward without a vote.
+
+For [our campaign on issues around cycle parking](/projects/2025-11-voi-cycle-rack-parking/){target="_blank" rel="noopen noreferrer"}, this is a key enabler in feeding back to Voi with other groups, placing scrutiny not only on the teething issues being reported on the scheme but importantly whether any measures are successfully tackling these. It also establishes TEC oversight and accountability in the steps needed to smooth out the rough edges of the scheme over the coming months. 
+
+We're hopeful that we will see progress on these issues — through some of the levers Voi and CEC officers have available — to ease small but meaningful difficulties experienced by the public as a result of the hire scheme.
 
 ---
 
