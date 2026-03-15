@@ -1,5 +1,5 @@
 ---
-tags: articles, cityscope, atip, etro, quieteroutes, roadworks
+tags: articles, cityscope, atip, etro, quietroutes, roadworks
 layout: article.njk
 
 title: 🗺️ City Scope launches new 'Cycle Scope' tool
