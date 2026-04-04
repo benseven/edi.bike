@@ -17,7 +17,9 @@ _For the first time in these web articles, we're directly linking back to our ag
 
 📄 [Rolling Actions Log](https://democracy.edinburgh.gov.uk/documents/s96671/Rolling%20Actions%20Log%20-%2002.04.26.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
 
-Following up on a successful Green motion at last TEC to get a briefing for stakeholder organisations with Voi and Officers around teething issues with the ebike hire scheme, Cllr Booth asked if a specific date had been set for the workshop. It seems diaries are being checked, with the session expected to take place some time in May. 
+Following up on a successful Green motion at last TEC to get a briefing for stakeholder organisations with Voi and Officers around teething issues with the ebike hire scheme, Cllr Booth asked if a specific date had been set for the workshop. 
+
+It seems diaries are being checked, with the session expected to take place **some time in May**. 
 
 ---
 
@@ -33,7 +35,7 @@ Addendums brought by the SNP, Lib Dem and Green groups proposed action to move t
 
 In questions, Cllr Lang clarified with officers that there is a basis for this to move forward under already devolved powers - requiring secondary legislation, but with Wales having already set a precedent for making such an adjustment in order to begin to roll such crossings out. With Fiona Hyslop intending to step down at the Scottish elections, Cllr Lang also made the point of wanting to keep momentum on the issue even with a change of Transport Secretary on the cards.
 
-In summarising, Green group councillor Kayleigh Kinross-O'Neill stated, having seen such crossings in action on a working trip to Belgium, that they are "such a small change that makes such a big difference" for walkers and wheelers alike.
+In summarising, Green group councillor Kayleigh Kinross-O'Neill stated, having seen such crossings in action on a working trip to Belgium, said that they are _"such a small change that makes such a big difference"_ for walkers and wheelers alike.
 
 **Committee agreed to proceed** (via a combined addendum) with the proposed collaboration with the Convention of Scottish Local Authorities and on finding a way to implement side road zebra crossings in Scotland, with Cllr Osler noting that as the capital city, we should be pushing these kinds of measures forward.
 
@@ -60,6 +62,12 @@ The proposal to create a quarterly 'Infrastructure Forum' took an interesting tu
 Cllr Booth asked - whether the council was respecting its sustainable transport hierarchy by not having cycling and walking stakeholders involved in this forum. A fair question!
 
 The answer from officers was that this list has grown, and originally consisted only of infrastructure owners, and was later expanded - so agreed that stakeholders like Spokes and Living Streets should be included. 
+
+In a [post on Bluesky](https://bsky.app/profile/robbieainsworth.bsky.social/post/3mioqbhvw6227), **edi.bike** contributor Robbie said:
+
+> _"Another step in the right direction for temporary disruption on Edinburgh's cycle network. With the correct planning, many cities are managing to keep cycle routes open through major construction works."_ — Robbie Ainsworth
+
+Robbie also linked to [this interesting article](https://mobycon.com/updates/putting-cyclists-first-how-rotterdam-is-rewriting-the-rules-for-construction/){target="_blank" rel="noopen noreferrer"} about disruption management in Rotterdam, who have made signficant improvements to prioritise consideration of cycling during major works.
 
 ---
 
@@ -95,20 +103,19 @@ Otherwise, a consensus was formed from the majority of the addendum content - dr
 
 * A Conservative addendum proposed to move forward but with the caveats that TEC should be given future updates detailing enforcement of other stopping locations, routing of coaches in and out of the city, and accessibility concerns - for example the difference in elevation from King Stables Rd to destinations like the castle. In proposing, the Conservative member also mentioned the need for proper enforcement at other common stopping locations such as Charlotte Square.
 
-These addendums were accepted by the administration at committee.
+These addendums were accepted by the administration at committee, and the report passed.
 
 ---
 
 ### 🚲 Late Report - 'Greenbank to Meadows Quiet Connection'
 
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#9-2-motion-by-councillor-booth-implications-of-standards-commission-decision-for-greenbank-to-meadows-quiet-route){target="_blank"} {% pipespacer %} 📄 [Green Motion (withdrawn)](https://democracy.edinburgh.gov.uk/documents/s96686/9.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} 🌐 [edi.bike - Project history](/articles/2026-03-15-braids-estate-filters-return-to-transport-committee/){target="_blank"}
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#9-2-motion-by-councillor-booth-implications-of-standards-commission-decision-for-greenbank-to-meadows-quiet-route){target="_blank"} {% pipespacer %} 📄 [Late Report](https://democracy.edinburgh.gov.uk/documents/b27834/Late%20Reports%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} 📄 [Green Motion (withdrawn)](https://democracy.edinburgh.gov.uk/documents/s96686/9.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} 🌐 [edi.bike - Project history](/articles/2026-03-15-braids-estate-filters-return-to-transport-committee/){target="_blank"}
 
 Originally we were expecting a [Green group motion](https://democracy.edinburgh.gov.uk/documents/s96686/9.pdf){target="_blank" rel="noopen noreferrer"} [PDF] which put this on the table for April's meeting, however in light of the Late Report by CEC officers being ruled urgent and included in the committee's agenda, the Green group withdrew the motion at the meeting in favour of an addendum to the report.
 
 #### 💬 Deputations
 * 📺 Verbal Deputation [40m 30s into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/2424000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} by [Blackford Safe Routes](https://blackfordsaferoutes.co.uk/){target="_blank" rel="noopen noreferrer"}
 * 📺 Verbal Deputation [48m into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/2877000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} on behalf of Braid Avenue residents
-* 📝 [Written Deputation](){target="_blank" rel="noopen noreferrer"} by [Blackford Safe Routes](https://blackfordsaferoutes.co.uk/){target="_blank" rel="noopen noreferrer"}
 * 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=15){target="_blank" rel="noopen noreferrer"} [PDF, p15] by Braid Avenue residents
 * 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=16){target="_blank" rel="noopen noreferrer"} [PDF, p16] by Whitehouse Loan group
 * 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=17){target="_blank" rel="noopen noreferrer"} [PDF, p17] by [Spokes](https://spokes.org.uk)
@@ -161,7 +168,7 @@ In moving the Liberal Democrat addendum calling for Option B, Cllr Kevin Lang sa
 
 To answer that for Cllr Lang, who claimed to be _"the only member of the committee who was a member and part of the discussion back in 2024"_, we're happy to spell it out: 
 
-> You offered a limited suite of choices to local residents based solely on plans that were drawn up alongside two councillors — one from your own party! — who have since been censured at a standards hearing for their involvement in plans that would undoubtedly affect them personally **because they lived right on the route**. The thing that's fundamentally changed in the last two years is **this misconduct has been scrutinised** and as a result those plans are tainted; not to mention that of those limited choices, only 47% of residents who responded to the consultation backed the option you're pressing as though it's the _will of the people_, rather than something you couldn't even get half of the self-selecting consultees to favour.
+> You offered a limited suite of choices to local residents based solely on plans that were drawn up alongside two councillors — one from your own party! — who have since been censured at a standards hearing for their involvement in plans that would undoubtedly affect them personally **because they lived right on the route**. The thing that's fundamentally changed in the last two years is **this misconduct has been scrutinised and publicly called out** and as a result those plans are tainted; not to mention that of those limited choices, only 47% of residents who responded to the consultation backed the option you're pressing as though it's the _will of the people_, rather than something you couldn't even get half of the self-selecting consultees to favour.
 
 Anyhoo...
 
@@ -181,7 +188,9 @@ At last, to bring us to the vote, convener Cllr Stephen Jenkinson put forward th
 > 
 > _But I do think that taking more time to consider things that we've been considering over five years is not an appropriate measure for a community which is split... I do think that getting to a point where we're making a decision is probably going to be helpful for everybody."_ 
 
-With **7 votes to 4** - 2 Labour, 2 Green and 3 SNP vs. 2 Lib Dem and 2 Tory councillors - the matter passes to the **TRO Sub-Committee on 2nd June** to make permanent. 
+---
+
+With **7 votes to 4** in favour of permanence - 2 Labour, 2 Green and 3 SNP vs. 2 Lib Dem and 2 Tory councillors - the matter passes to the **TRO Sub-Committee on 2nd June** to make permanent. 
 
 While we're not yet out of the woods for this key active travel corridor, it has been implied by Council insiders that there are not strong grounds for removal of the scheme lurking in the objections that will be considered at TRO Sub.
 
@@ -196,9 +205,13 @@ While we're not yet out of the woods for this key active travel corridor, it has
 
 🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#8-1-road-safety-and-local-traffic-improvement-delivery-programme-update){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96696/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} [Appendix 1 - Road Safety projects](https://democracy.edinburgh.gov.uk/documents/s96698/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update%20-%20Appendix%201.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} [Appendix 2 - LTI Projects](https://democracy.edinburgh.gov.uk/documents/s96697/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update%20-%20Appendix%202.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
 
-* Lib Dem amendment concerned with level of progress https://democracy.edinburgh.gov.uk/documents/b27879/Motions%20and%20Amendments%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=22 (p22)
+> 📺 [Webcast from 4h 13m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/15180000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} onwards.
 
+This item attracted a fairly damning [Lib Dem amendment](https://democracy.edinburgh.gov.uk/documents/b27879/Motions%20and%20Amendments%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=22){target="_blank" rel="noopen noreferrer"} [PDF, p22] concerned with (and breaking down) the level of progress being made. 
 
+Officers referenced that a team of nine people at the peak of the safety team has dwindled to six, and that this should be addressed - but also that these are complex schemes each with their own background to get to grips with, and that there are many other external factors that can slow these down and take up officer time.
+
+The report and Lib Dem amendment passed without requiring a vote.
 
 ---
 
@@ -206,9 +219,11 @@ While we're not yet out of the woods for this key active travel corridor, it has
 
 🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#8-2-communicating-road-and-pavement-improvements){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96680/Communicating%20Road%20and%20Pavement%20Improvements.pdf){target="_blank" rel="noopen noreferrer"} [PDF] 
 
-* Lib Dem addendum asking for Business Bulletin update on this item in one year;
+> 📺 [Webcast from 4h 27m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/16019000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} onwards.
 
-* Conservative addendum picks up on earlier proposals for ward-level information published to the website in future.
+A Liberal Democrat addendum asked for Business Bulletin update on this item, coming back to TEC in one year's time; and a Conservative addendum picks up on earlier proposals for ward-level information published to the Council's website in future.
+
+This also passed with addenda incorporated, with a minor verbal adjustment to the Conservative addendum to _"keep the scope appropriate"_.
 
 ---
 
@@ -220,13 +235,27 @@ While we're not yet out of the woods for this key active travel corridor, it has
 
 🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#9-1-motion-by-councillor-mowat-rsas-and-tros){target="_blank"} {% pipespacer %} 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s96685/9.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
-* Lib Dem addendum - unsurprising - adds "whether the TRO sub-committee can competently take RSAs into account under its current remit."
+> 📺 [Webcast from 5h 2m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/18126000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} onwards.
 
-* Green addendum asks - "Whether RSA recommendations are assessed on the basis of the extent to which they will help to deliver City Mobility Plan objectives, or respect the transport hierarchy" and "Whether RSAs also include unusual or inherent risks that it is not possible to design out."
+This came about following a Freedom of Information request from New Town & Broughton Community Council, who clearly were unhappy following the introduction of several of the contraflow cycle streets recently agreed at the Transport Committee. 
 
+(Whether that's an appropriate position for a Community Council to adopt given their duties to only meaningfully engage with, pass on and represent the views of their constituents we'll leave to your imagination; surely nobody would use a Community Council as a vehicle for a small and unrepresentative gaggle of grumblers... 🫠) 
 
+* A Lib Dem addendum - unsurprisingly - added _"whether the TRO sub-committee can competently take RSAs into account under its current remit."_
+
+* A Green addendum asked - _"Whether RSA recommendations are assessed on the basis of the extent to which they will help to deliver City Mobility Plan objectives, or respect the transport hierarchy"_ and _"Whether RSAs also include unusual or inherent risks that it is not possible to design out."_
+
+For the Greens, Cllr Booth did a fantastic job of rebutting the potential for this increasing the scope of the TRO Sub-committee's powers:
+
+ > _"I think there is a value in having a report in the public domain. I think the answer to Councillor Lang's question is almost certainly no, that the role of the TRO Sub-committee is not to design the scheme - that's what the road safety assessments are for. The role of the TRO Sub-committee is to consider the order, and the Road Safety Assessment is not directly relevant to that - I expect that that's what the report will say._
+ > 
+ > _I think there is a value in having that report in the public domain to explain that. I would also add that I think, the road safety assessments that have been published as part of FOIs are not necessarily complete. In many cases there will be two or three road safety assessments as part of a scheme - so in some cases one of those will have been published but not others._ 
+ >
+ > _In many other cases, the road safety assessment highlights safety concerns which can't be designed out. They are either inherent in the design of the road layout or in some other scheme. So I think having engaged in conversation on this, I think there are a lot of concerns about that. I think the value of the report would be to put those into public domain._
+
+Cllr Mowat, in moving her Motion, accepted the Lib Dem addendum in full, and the second of the Green's additions (leaving out the CMP and hierarchy point); this was accepted by all parties and passed.
 
 
 ---
 
-The Transport & Environment Committee next meets on **Thursday, 18th June 2026**, and we'll have a coverage on edi.bike as ever.
+The Transport & Environment Committee next meets on **Thursday, 18th June 2026**, and we'll have coverage, as ever, on edi.bike.
