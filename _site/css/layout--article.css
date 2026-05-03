@@ -28,6 +28,11 @@
   margin-top: unset;
   padding-top: unset;
 }
+.layout--article .container h1 + h2 {
+  border-top: unset;
+  margin-top: unset;
+  padding-top: unset;
+}
 .layout--article .container a {
   text-underline-offset: 0.2rem;
 }

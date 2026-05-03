@@ -31,6 +31,12 @@
       padding-top: unset;
     }
 
+    h1+h2 {
+      border-top: unset;
+      margin-top: unset;
+      padding-top: unset;
+    }
+
     a {
       text-underline-offset: 0.2rem;
     }
