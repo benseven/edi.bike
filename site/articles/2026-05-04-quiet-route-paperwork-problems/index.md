@@ -74,8 +74,8 @@ If these filters are interdependent, why is the Braid Road filter **part of a se
 
 Is this, in fact, just further capitulating to a vocal minority of drivers locally? It cannot be overstated how dangerous the relatively new parallel crossings here will become with the reintroduction of southbound traffic firing up Braid Road just to avoid traffic signals on the Comiston Road corridor. **This is a factor that even the most vocal of the quiet route’s opponents had come to terms with**, and their group haven’t been calling for this filter to be removed. Why are we not only fighting minority opponents attempting to pull out properly-advertised modal filters, **but the Officers who implemented them too?**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rnyp0Jktx0A?si=5GMqsjEJTJ9FUOfL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-<br/><br/>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/rnyp0Jktx0A' frameborder='0' allowfullscreen></iframe></div>
+<br/>
 
 > **"_In any other sensible world, when a mistake is made in the paperwork, IT IS FIXED - not by changing the physical world to match the incorrect documents, but by updating the text._** 
 >
