@@ -64,16 +64,16 @@ This is not surprising given that these are popular routes, and that as per inde
 
 ### 🌳 Greenbank to Meadows Quiet Route
 
-![An annoted map showing a route through city streets with photographs at different points](./assets/images/G2M-Map-Update-2026-thumbnail--v2--smaller.jpg)
+![An annotated map showing a route through city streets with photographs at different points](./assets/images/G2M-Map-Update-2026-thumbnail--v2--smaller.jpg)
 _Our updated map of the Greenbank to Meadows Quiet Route -_ [download as PDF](../../../files/2026/05-G2M-Map-Update/G2M-Map-Update-2026--v2.pdf){target="_blank" rel="noopen noreferrer" download} »
 
-The quiet route was absolutely the focus of debate and questions for officers, mired as this scheme has been by a long saga of consultative mismanagement, and inteference from since-censured local councillors. 
+The quiet route was absolutely the focus of debate and questions for officers, mired as this scheme has been by a long saga of consultative mismanagement, and interference from since-censured local councillors. 
 
-Officers were profuse and respectful in their apologies for wording issues with the legal advertising wording of filters at Canaan Lane, Braid Avenue and Hermitage Gardens; the orders in question were created at a time when the team had over forty legal orders to produce for safe space measures during the COVID-19 pandemic. This is a brutal issue to be at the heart of and have to be accountable for, and officers were very clear in their answers, reasoning and their contrition for these recently discovered problems hampering a full decision on the scheme.
+Officers were profuse and respectful in their apologies for wording issues with the advertisement of measures at Canaan Lane, Braid Avenue and Hermitage Gardens; the orders in question were created at a time when the team had over forty legal orders to produce for safe space measures during the COVID-19 pandemic. This is a brutal issue to be at the heart of and have to be accountable for, and officers were very clear in their answers, reasoning and their contrition for these recently discovered problems hampering a full decision on the scheme.
 
 The volume of orders during the pandemic led to mistakes - in part it would seem due to the contractor in use - which were then carried forward from the initial TTRO to two further ETROs covering the quiet route, without checks on whether the orders' wording matched the implementation on the ground. For measures in an ETRO to be a valid 'experiment' and pass to be made permanent, they have to be implemented as described.
 
-> Canaan Lane's order makes reference to an 'access to Newbattle Terrace' that officers say does not actually exist - _we have a different intepretation which matches the plans, but this is rather moot by this point._ Braid Avenue and Hermitage Gardens' diagonal filters were not even close to correctly described, making the description of the motor vehicle prohibition in the legal orders bear essentially no resemblance at all to what was trialled. Because of the ETRO process, officers hands truly did seem to be tied on all of these items, and they could not progress to be made permanent at this meeting.
+> Canaan Lane's order makes reference to an 'access to Newbattle Terrace' that officers say does not actually exist - _we have a different interpretation which matches the plans, but this is rather moot by this point._ Braid Avenue and Hermitage Gardens' diagonal filters were not even close to correctly described, making the description of the motor vehicle prohibition in the legal orders bear essentially no resemblance at all to what was trialled. Because of the ETRO process, officers' hands truly did seem to be tied on all of these items, and they could not progress to be made permanent at this meeting.
 
 As it happens, the Council made the move in the last couple of years to less arduous 'map-based TROs', where it's pretty much impossible to have this kind of issue arise - so fortunately, we should never see its like again.
 
@@ -91,7 +91,7 @@ The position that the Labour administration moved was to accept the Officers rep
 
 ![A pair of wooden planters block access to a road but leave space for cycles to pass through](./assets/images/braid-road.jpeg)
 
-Cllr Jack Caldwell asked a key question regarding the data that lead officers to their recommendation for this filter. The answer was that monitoring data exists only before _any_ of the filters were put in place, and after _all_ of the filters were put in place - so any ill effects being alluded to by officers in this filter remaining were based on best guesses rather than information about this specific filter.
+Cllr Jack Caldwell asked a key question regarding the data that led officers to their recommendation for this filter. The answer was that monitoring data exists only before _any_ of the filters were put in place, and after _all_ of the filters were put in place - so any ill effects being alluded to by officers in this filter remaining were based on best guesses rather than information about this specific filter.
 
 > This tipped the balance, as there is no party whip on a quasi-judicial sub-committee such as this one - so while Conservative Cllr Mowat and Lib Dem Cllr Davidson backed the administration in only making permanent the two northernmost filters at Bruntsfield Links and Strathearn Rd, Green and SNP councillors were joined by Lib Dem Cllr Jack Caldwell in voting to also retain the Braid Rd filter with 5-4 votes.
 
@@ -105,7 +105,7 @@ The Transport & Environment Committee ('TEC') will meet on the 18th of June, whi
 
 While a commitment was sought at TRO Sub that these filters would not be removed ahead of a Transport Committee decision, this was not forthcoming. However, it seems highly likely they will stay for at least long enough for this to return to TEC.
 
-The administration have ruled out another ETRO, which seems appropriate given that this is no longer an experiment. We've run an experiment, **and it's been succesful**.
+The administration have ruled out another ETRO, which seems appropriate given that this is no longer an experiment. We've run an experiment, **and it's been successful**.
 
 ---
 
