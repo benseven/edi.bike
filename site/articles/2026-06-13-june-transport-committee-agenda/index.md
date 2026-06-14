@@ -123,7 +123,7 @@ Counting both Canaan Lane and Clinton Road in the grand scheme, this puts us at 
 
 So what of the other two filters?
 
-![A modal filter comprised of red and white metal fencing units spans a junction in the sunshine](./assets/images/braidave.jpeg)
+![A parent rides a cargo trike with child onboard down a wide road towards a modal filter that is comprised of red and white metal fencing units spanning a junction](./assets/images/braidave.jpeg)
 
 The other two measures with issues in their legal paperwork, at **Cluny Drive / Braid Avenue** and **Cluny Drive / Hermitage Gardens**, are slated for removal.
 
