@@ -179,6 +179,9 @@ Still some way to go for campaigners on either 'side' of the north-south mass tr
 
 There are, of course, [published Motions](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7661&Ver=4){target="_blank" rel="noopen noreferrer"} at this stage - but none of these are directly cycle-relevant, and amendments to other items have not yet been published.
 
+The Transport & Enviroment Committee will meet this **Thursday, 18th June 2026**, and we'll have a round-up in our subsequent issues.
+
 ---
 
-The Transport & Enviroment Committee will meet this **Thursday, 18th June 2026**, and we'll have a round-up in our subsequent issues.
+✨ **Want to leave a tip?**
+<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopen noreferrer"/></a>
