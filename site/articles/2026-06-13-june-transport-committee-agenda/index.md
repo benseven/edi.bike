@@ -168,7 +168,7 @@ Depending on where you read about this, the consultation either proves completel
 
 Of course, nearly every campaign and outlet that has covered the news also manages to omit that this is a public opinion piece, and is only one contribution to the decision-making process. A decent summary is [this one by the Edinburgh Reporter](https://theedinburghreporter.co.uk/2026/06/tram-consultation-results-fairly-inconclusive/).
 
-Still some way to go for campaigners on either 'side' of the north-south mass transit and active travel conundrum. More from us if this report is discussed at committee, and later in September.
+Still some way to go for campaigners on either 'side' of the north-south mass transit and active travel conundrum. More from us if this report is discussed at committee, and otherwise later in September.
 
 
 ---
