@@ -13,6 +13,17 @@ title: 🚦 Crossing Closures Complaint, 14th June 2026
   <figcaption>Human beings continue to fulfil human transport needs, in spite of naïve car-centric crossing closures | Image: Spokes Planning Group</figcaption>
 </figure>
 
+Whilst road works are essential to delivering improvements for Edinburgh streets and maintaining utility infrastructure, consideration needs to be given to the impacts of works on all road users - not just motor vehicles. On one of these streets, Marchmont Rd, Scottish Water demonstrated last year that it is possible to keep the Meadows Path toucan crossing open by implementing a simple one-way restriction:
+
+<figure>
+  <img src="./assets/marchmont-open.jpg">
+  <figcaption>Scottish Water works in 2025 kept the crossing open using a one-way road traffic layout | Image: Spokes Planning Group</figcaption>
+</figure>
+
+Where contractors have reacted to a perceived risk by a misguided attempt to close a walking and cycling facility, we need the council as the Roads Authority to step in and demand walking and cycling is prioritised. **Indeed, they have a statutory duty to do so.**
+
+---
+
 > Dear [CEC Citywide road coordination manager],
 > 
 > I'm writing on behalf of Spokes, The Lothian Cycle Campaign, and Living Streets Edinburgh Group to unfortunately raise a complaint regarding the coordination of roadworks near crossings of the busy walking and cycling Meadows Path at Hope Park Crescent and Marchmont Road. 
