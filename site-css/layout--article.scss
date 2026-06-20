@@ -79,6 +79,10 @@
       max-width: 90vw;
     }
 
+    p em {
+      color: var(--c-orange--faint);
+    }
+
     ul li,
     ol li {
       margin-bottom: 1em;

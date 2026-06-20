@@ -39,45 +39,36 @@ The Business Bulletin is home to less significant items that don't warrant a ful
 #### 🎤 Deputation
 📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"} from 0h 20m
 
-Residents of Royal Park Terrace and Spring Gardens again gave deputation; they mention significant increases in traffic particularly when 4,000 cars use street on Saturdays.
+Residents from Spring Gardens and Royal Park Terrace return once again to the committee to give deputation, having visited in January of this year and made the case for a single modal filter on their streets to prevent it from being used as an alternative to main artery London Road, particularly on weekends when Holyrood Park is closed to through-traffic.
 
-Concerned CMP is not appropriate as it's for major projects, and mentioned how low cost a filter intervention is, so are asking whether there are other routes through.
+Traffic surveys in 2025 showed that this residential road deals with 1,800 vehicle movements per weekday, which is already high for the comparatively low number of residents on the street; and this more than **doubles on a Saturday to 4,000**, with only slightly less (3,500) on a Sunday during Historic & Environment Scotland's closures of the park roads under their control.
 
-The deputation made it very clear that in addition to residents vehicles being clipped by through-traffic, there is a high amount of danger from the speed of passing vehicles often.
+Residents report traffic moving through at dangerous speeds, as well as parked vehicles belonging to residents being frequently clipped by through-traffic. They expressed concern at whether the project being assessed against the _City Mobility Plan Capital Investment Programme_ was appropriate, as it seems at least on the surface to be for major projects with significant financial costs - and mentioned that by comparison, a single modal filter costs significantly less than the majority of the projects listed there.
 
-Aston Q: where's best for the modal filter?
-A: As a group we've had many conversations, placement affects different residents, there is also a lot of rat-running through Abbey Lane and Abbeyhill. Right by the park entrance where RPT becomes SG looks best
+In questions to the residents' deputation, Councillors enquired about residents opinion on the best placement for a filter; and the potential route for funding and implementation through the Local Traffic Improvement Programme ('LTIP'). Residents mentioned that they had been working with local Councillors on a potential application for LTIP, but they noted that there has never been a modal filter funded by the programme, nor any measures that have needed traffic modelling and analysis prior to implementation.
 
-Booth Q: Surprised by recommendation that this be included in CMP CIP - have you had any conversations with officers, councillors about routes like LTIP?
-A: Had conversations with Alex Staniforth who supported LTIP application - we are worried there has not been a single filter funded through this programme, but it looks like changes to that programme might be needed... traffic modelling needed is motor-centric.
+> **On this item, it has to be said that — foreshadowing an incredibly poor decision on the Greenbank to Meadows Quiet Route — placing such a heavy focus on traffic flow, rather than a timely intervention when local residents raise safety issues says an awful lot about who's really at the top of the transport hierarchy in Edinburgh.** 
 
-Mowat Q: Is this an issue that happens during park closure times, rather than all of the time?
-A: Traffic survey was May 2025, 1800 vehicles on weekdays, 4,000 on Saturday 3,500 on Sunday. During the week, already a rat-run as not that many residents who live on the streets.
-
-Lang Q: ~32m in but missed it.
-A: We have not had answers from officers as to whether the project can be funded through LTIP 
-Booth: I have applied for a filter through LTIP in Leith Ward and have been told by officers it cannot go ahead
+<hr/>
 
 #### 💬 Discussion and Questions for Officers
 📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"} from 1h 33m
 
-Question from KL; RPT, heard dep, can officers explain why it's thought CMP CIP is the route to explore and solve this problem rather than LTIP?
+In questioning Officers later in the session, Councillors asked why it was felt that the _City Mobility Plan Capital Investment Programme_ ('CMP CIP') was the correct route, rather than another scheme like LTIP.
 
-DP: CMP CIP is our attempt at channeling all our decision making to this committee, there are rolling programmes of small interventions within it, and when this was introduced along with an annual review, that's what we're trying to stick to so we don't end up in the situation that led to the need for it in the first place, i.e. managing workload. Point about cost - just one of the elements of scoring for CMP CIP, a low cost doesn't disadvantage it.
+The answer from Officers is regarding how their workload was being managed prior to the CMP CIP, which is an organised, scored and prioritised list of projects across the next ten years. This also has an annual review, so is considered something of a rolling and living target rather than a fixed list; officers described the landscape prior to the exercise as having had _"lots and lots of projects all over the place, and too many to deal with"_ - as well as part of the objective of prioritising interventions and publishing the programme being an _"attempt at channeling all our decision-making to this committee"_ and provide greater transparency on the workload for the various teams involved in delivering these projects. 
 
-DS: Strategic nature of the location, and an interest for similar in Duddingston Village; LTIP is to do exasctly as petitioners outlined, but the strategic proximity with city centre and with CCT... _waffles_
+On Royal Park Terrace, the point about the relative cost was noted as being just one of the elements of scoring for CMP CIP, and that a low cost would not disadvantage the measure in the scoring exercise. 
 
-KL: Given criteria set out for LTIP, even if it requires adjustment, oversubscribed so might not go through, but there's nothing to prevent this going through it. Intention is to mitigate impact of traffic on local communities. Where there are close relationships with wider traffic management proposals have to look closely.
+Officers were asked directly whether there was anything about the proposal that could prevent modal filters going through LTIP. On paper, while the request from the residents falls exactly within what LTIP is intended for — to mitigate impact of traffic on local communities — one could paraphrase Officers general response here as being that the proximity of this location to Holyrood Park is considered 'strategic', more or less because the roads through the park are not within the council team's control but are under the purview of Historic & Environment Scotland who have previously consulted on removing through-traffic in the park altogether. 
 
-CB: More detailed traffic analysis required - why? 
+(This was carefully talked around indirectly at committee, but in trying to summarise - that seems to be what's giving pause, with Officers keen to take care _"where there are close relationships with wider traffic management proposals."_)
 
-DP: Linked to the strategic importance of this location, trying to work through CCT, complex area with 'lots of interdependencies' - can't be viewed in isolation and needs to be considered with traffic movements overall. (This is an approach Ed flagged as highly motor-centric - with the management of road traffic prioritised above the safety of residents, softly softly). 
+From 📺 _1h 42m_ Cllr Aston returned with a follow-up question on timescales, pointing out that from the original motion / deputation in January 2026 asking for intervention to the proposed inclusion in a report coming in September, _"that's nine months already for just to see how it fits into the framework of a ten-year programme"_ - and that this is a long time if another route isn't found to implement the measures being asked for. Returning to LTIP, Cllr Aston noted that the deputation had mentioned no intervention of this type requiring traffic analysis has made it through LTIP and asked whether it is feasible through LTIP if applied for. 
 
-1h 42m Cllr Aston: Q following on - makes the point on timescales, January then report September, 9 months already just to see how it fits into a ten year programme framework, understand that's been said to be rolling, that's a long time if another route isn't found to implement it. Coming back to LTIP, noted that Ky mentioned no intervention of this type that required traffic analysis has made it through LTIP. Is it feasible through LTIP? 
+Officers once again pushed back - _"this is not a simple ask from an officer perspective... and it may have implications"_ given its City Centre context, but that there is no presumption in the LTIP process against measures like modal filters which can be a very simple and effective intervention. This was tempered by a point from Gareth Barwell that a modal filter involves a prohibition of motor vehicles, and for traffic regulation orders there has to be analysis effectively by law, due to potential environmental impact. 
 
-DP: This is not a simple ask from an officer perspective and may have implications, HES traffic plans for park to take into account too, we just need to make sure decision we make is 'in the round', No presumption in the LTIP process against - can be a very simple and effective intervention.
-
-GB: This is a TRO because it's a prohibition of motor vehicles - there has to be analysis effectively by law, due to potential environmental impact, process has to be followed. It's a fair challenge, we want to do things quicker but TRO process does affect this.
+_"It's a fair challenge, we want to find a way to do these things quicker — this council has written many times before about the TRO process and how we can streamline it — but the law as it is means we do have to give due regard to it and follow that process."_
 
 
 ---

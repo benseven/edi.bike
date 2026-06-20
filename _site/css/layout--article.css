@@ -67,6 +67,9 @@
 .layout--article .container p img {
   max-width: 90vw;
 }
+.layout--article .container p em {
+  color: var(--c-orange--faint);
+}
 .layout--article .container ul li,
 .layout--article .container ol li {
   margin-bottom: 1em;
