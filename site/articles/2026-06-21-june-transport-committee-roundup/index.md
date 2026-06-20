@@ -91,6 +91,8 @@ Moved without discussion. Congratulations to [Thistle Foundation](https://www.th
 
 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100296/Item%207.3%20-%20Greenbank%20to%20Meadows%20Quiet%20Connection%20-%20Update.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
+📝 [Written Deputations](https://democracy.edinburgh.gov.uk/documents/b28188/Deputations%2018th-Jun-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=10) [PDF, page 10 onwards] »
+
 #### 🎤 Deputations
 📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"} from: 
 0h 30m - **Braid Estates Safety First** (want filters removed)
@@ -98,98 +100,78 @@ Moved without discussion. Congratulations to [Thistle Foundation](https://www.th
 0h 44m - **St Peter's and Canaan Lane Primary School** (want filters retained)
 0h 50m - **Braid Estates Livable Streets** (want filters retained)
 
-At this point in the sorry tale of the **Greenbank to Meadows Quiet Route**, it's becoming increasingly difficult to play to the more impartial 'journalist' part of 'citizen journalist'. So let's not beat about the bush here;
+> ⚠️ At this point in the sorry tale of the **Greenbank to Meadows Quiet Route**, it's becoming increasingly difficult to play to the (ideally more impartial) 'journalist' part of 'citizen journalist'. So let's not beat about the bush here and call it how we see it - **consider that fair warning**.
 
-- 🚲 Filters at Bruntsfield Links (James Gillespies Primary School, Whitehouse Loan), Strathearn Road, Canaan Lane and Braid Rd have been made permanent, with a new filter at Clinton Rd coming (Canaan Lane will be covered by a temporary order while it goes through the statutory process to give it permanent status);
+- 🚲 Filters at Bruntsfield Links _(James Gillespies Primary School, Whitehouse Loan)_, Strathearn Road, Canaan Lane and Braid Rd have been made permanent _(after much campaigning)_, with a new filter at Clinton Rd coming _(Canaan Lane will be covered by a temporary order while it goes through the statutory process to give it permanent status)_;
 
-- 💬 In the Braid Estate, _'contentious'_ and _'controversial'_ (can you intimate the sarcasm?) filters at Hermitage Gardens and Braid Avenue where both meet Cluny Drive were the main subject of Thursday's discussions, where there were four deputations and a lot of worrying about alignment of divisive _'sides'_ in a debate that actually quite clearly does have two sides to it;
+- 💬 In the Braid Estate, _'contentious'_ and _'controversial'_ (can you detect sarcasm?) filters at Hermitage Gardens and Braid Avenue where both meet Cluny Drive were the main subject of Thursday's discussions, where there were four deputations and a lot of worrying about alignment of divisive _'sides'_, which are best described as: 
 
-- 📣 One one side, we heard deputations from two groups of retirement-age men living in expensive homes around and adjacent to Midmar Avenue, who are extremely concerned about 'safety', if by safety we mean the 'safety' you feel when you can hurtle down Braid Avenue (_it's so wide! Surely it's for cars!_) ensconced in a Jaguar with your inalienable right to drive absolutely everywhere sat in the passenger seat. The groups' baseless claims about the level of traffic on Midmar Avenue is not backed by any of the traffic monitoring statistics from the project, nor does the route around the estate exceed council Officers expectations for the traffic flow classification of it - nor is there anything close to a sensible argument from any of them about how cyclists use the route, beyond _'I saw one on the pavement once and I was mere seconds from death'_. There is apparently real and significant danger, even though Crash Map data shows that accidents across the area have **decreased** since the filters were implemented. But these people don't need to bring structured and evidence-based arguments to TEC, because they have something more important in the eyes of the city's administration - **money, lawyers, and the time and resources to wield both**.
+  _"The parent councils of five local Primary schools, concerned parents, active travel lobbying groups and local residents, aligned with the goals of the quiet route and wider policies the council itself claims to have in favour of the protection of vulnerable road users who have now been using a council-designed 'quiet route' for over five years"_ 
+  
+  vs. 
+  
+  _"A gaggle of wealthy, retired (time-rich) and organised NIMBYs who miss the convenience of driving down Braid Avenue and whose lawyers put the sh*ts up CEC's legal department; people for whom the remaining 'Spaces for People'-era interventions are not a lifeline  but a mere inconvenience, and perhaps more viscerally a visible reminder of a time when their freedoms truly were impinged on by something far more terrible than having to drive two blocks further when leaving the house."_ 
+  <br/>
+  🧐 Guess which side the Administration backed? Are you scared of lawyers too?
+  <br/>
 
-- 🚸 On the 'other side', we heard from representatives from the parent councils of **five different primary schools** on the route, as well as a strong deputation from residents within the estate in support, making calm, coherent and compelling pleas for the continuation of the filters - citing council policies and programmes, evidence of speed reduction and safety improvements, and the use of the route by children walking and cycling to school who stand to be in significantly more danger from through-traffic with the reestablishment of known rat-runs through the area if filters are taken out. Residents and parents taking the time to organise and **back the City of Edinburgh Council on its own priorities and policies**.
+🥀 **Of course** it's not the safety of children and vulnerable road users that won out, **this is Edinburgh.** The Labour administration took a position on 'drawing a line' under the whole saga, which of course is done not by correcting leaks in the traffic filtering system but by ripping filters out entirely in favour of twelve months of monitoring — _and more importantly unrestricted driving_ — before thinking about whether or not to intervene again. Because hey - it might not be theirs to deal with, by then...
 
-(The two verbal deputations in support simply must be watched - there can be no clearer argument made and all involved made a fantastic case).
+> 🔖 Don't worry though, leaflets will be circulated to raise awareness before the roads are knowingly made less safe, assumedly with a page about _Walking and cycling through the Braid Estate_  that just reads _"Sucks to be you, buy a car"_.
 
-- ✏️ There are, of course, a handful of reasonable arguments in the area, which the anti-filter groups will ocassionaly accidentally ricochet off of as they ramble; there are a couple of routes where through-traffic to work around existing filter alignments has increased traffic. These groups then call for the removal of the filters by way of cause, ignoring that this may initially relieve their streets but will induce more traffic to the area in general (which has seen a 43% reduction since the scheme began), and that there are simple tweaks and additions to be made to remove these routes and the traffic they enable - presented to TEC as an amendment by the Green group, and based on measures actually drawn up by Officers to mitigate such issues in the first place;
+🧠 The **Lib Dems** spent the session on grave chin-stroking whataboutery around abstract legal risks, studiously avoiding discussing the inherent road dangers for kids commuting to school in the area in spite of having been one of the strongest voices in the room after Thomas Wong was killed cycling to school in 2024. _But why would they speak up?_ The debacle of the quiet route having been turned into a neverendum on 'options' was a direct result of their interference back in 2023, options doomed to fail because of the now-censured and conflicted conduct of one of their own local Councillors. 
+
+Edinburgh's Liberal Democrats are like a brainworm for progressive council policy on sustainable transport, albeit one that refuses to fully take control of its lumbering host because it's actually got quite a comfortable salary from a side gig as a children's TV host. _All of the directional influence, none of the responsibility - nor the moral exoskeleton required to care._
+
+🖍️ The **Conservative group** decided the right thing to focus on was not the management of traffic in the immediate locality and the danger it poses but whether a theoretical, unscoped and unfunded park and ride facility for the A702 corridor was a good idea in the eyes of the groups giving deputation. The fact the different groups were unanimous in agreement is more a reflection of how utterly removed from the matter at hand this question was, though it admittedly could make a difference if paired with a nice bit of congestion charging reducing inbound journeys from Midlothian. But hey - it did serve as a useful way to participate in the discussion and be seen to be taking it seriously without actually taking it seriously.
+
+Also good to see a bit of deliberate misunderstanding from the Tories on Spokes' written deputation referring to the A702 corridor as _"hostile"_ for cycling. This of course refers to the northern section beyond Braidburn Valley park parallel to the quiet route being discussed, where protected cycleways and bus lanes give way to... **zero cycling provision** for the rest of the route. _But oooh, why have we put these cycleways in on Comiston Rd only for these oiks to call them hostile?_ 
+
+Sadly Spokes' resources group have recently had to abandon their _'Join the dots and colour in'_ deputation versions for younger readers and the hard of thinking, else such confusion could have been avoided. 
+
+> 🤔 **This might all seem a bit bile-ridden and disrespectful**. The councillors and officers our team have met are professional, courteous, inclusive and passionate public servants, trying to do their best for the city. Perhaps keep this in mind - _if it were your own family's safety at risk on this 'quiet route', perhaps you'd have as strong a take on this as we do._ 
+>
+>Unfortunately, en masse and particularly where Labour align themselves with the Lib Dems and Tories on matters relating to vulnerable road users, the actions of this particular brain trust tend to fall well beyond the possibility of respectful coverage from anyone paying attention that understands what's actually at stake. 
+>
+> This Council could get out of its own way and deliver a network of safe and protected cycle infrastructure — yes, including filtered streets! — following in the fairly recent footsteps of Paris, London and now Glasgow too, realising lower rates of injury and death on the roads, eased congestion, improved public health and air quality, reduced carbon emissions and significant return on investment with associated local economic benefits.
+> 
+>**Instead, it's spending yet more time and money deliberately reintroducing through-traffic on one of the north-south arteries in its own City Mobility Plan's Primary Cycling Network in the face of pleas (and evidence) from FIVE schools, concerned parents and local residents.**
+>
+> Fearty political pandering has no place when protections for users supposedly at the top of the 'sustainable transport hierarchy' - especially schoolchildren - are at risk. **To Councillors, that hierarchy might just be another policy diagram on a bit of paper; to those of us moving by those modes, we have to live with the consequences of your inability to deliver it.** 
 
 
-Braid Estates Safety First - development and improvement of the G2M QC. Traffic priorities and better signage to help coexistence of users. Talked about junction config which isn't in scope, they support removal of filters and try to suggest sending cyclists a different route to current. They also call for small traffic islands. Tried to say emissions will come down due to reduced distance, that speeds will reduce, etc - load of nonsense. 
 
-Midmar Residents Group - what a load of waffle. Around 40m
+🚸 We heard from representatives from the parent councils of **five different primary schools** on the route, as well as a strong deputation from residents within the estate in support, making calm, coherent and compelling pleas for the continuation of the filters - citing council policies and programmes, evidence of speed reduction and safety improvements, and the use of the route by children walking and cycling to school who stand to be in significantly more danger from through-traffic with the reestablishment of known rat-runs through the area if filters are taken out. What we saw at committee were residents and parents taking the time to organise and **back the City of Edinburgh Council on its own stated priorities and policies, which based on current progress read more like a fairy story than an instruction manual.**
 
-46m
-St Peter's and Canaan Lane Primary School parent council - safety of children travelling to and from school; the junction at Woodburn and Canaan Double parking, dangerous overtaking, reversing, bin lorry operation, frequent conflict between drivers and vulnerable road users. For last five years quiet route has helped reduce traffic levels - hasn't solved every problem but has made a big difference. Folk are used to the conditions. Council report acknowledges that dangers will be reintroduced, on clean air day being asked to increase traffic. References Watsons rat run - removing filters will encourage returns to these routes. Removal of filters will create a big gap in the quiet route - administrative error point very strong 
-Children do not vote, they do not submit objections, they do not sit on committees - but they...
-Quote the whole children bit.
-Applause.
+> 🎤 The two verbal deputations in support simply must be watched ([44m onwards](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"})- there can be no clearer argument made and all involved made a fantastic case - extremely strong work and we're very grateful to those groups for their efforts.
 
-53m
-Braid Estates Livable Streets - number of streets safer for everyone. Removing filters will remove safety benefits - traffic reduction and speeds quoted. TTRO, welcome this, for the safety of vulnerable people including children. Another very strong deputation. The reasons given apply at least as strongly to Braid Ave and Hermitage Gardens filters. The Braid Rd filter was not uncontroversial in itself but has been made permanent. Why can TTRO not be applied here, who has been consulted, and has an RSA?
+There are, of course, a handful of **reasonable criticisms** of measures in the area, which the anti-filter groups will ocassionaly accidentally ricochet off of as they ramble away; there are a couple of routes where through-traffic to work around existing filter alignments has increased traffic on inner streets. 
 
-Removing filters would mean more and faster traffic, all for what - a minute or two of faster driving?
+Such groups then call for the removal of the filters by way of cause, ignoring that this may initially relieve their streets but will induce more traffic to the area in general — _which has seen a 43% reduction since the scheme began_ — and that there are simple tweaks and additions to be made to remove these rat-runs and the traffic they enable. These were presented to TEC as an amendment by the **Green group**, and based on measures actually drawn up by Officers to mitigate such issues in the first place.
 
-Deputations commended for their candour.
+> Green group councillors **Ben Parker** and **Chas Booth** made a commendable effort at committee, under at times quite barbed comments and scrutiny from council colleagues, given that they seemed to be - along with the SNP - the only adults in the room more concerned with the welfare of residents than the council's corporate backside. 
 
-Questions:
-to BELS;
-Booth - focused on key issue, why is TTRO appropriate at Canaan not Braids; the response summarised, circumstances for TTRO, 
-A: Canaan lane is used by folks coming from North, other filters by those coming at the South. Same users, why different?
-Cuthbert - struck by Midmar talking about flows of traffic at peak times; Spokes written dep describes hostile A702 corridor, which doesn't have a park and ride - would a park and ride facility on this corridor help slightly?
-A: missed
-McInnes: do you see what is in front of us as a backwards step towards our overall aims for the city?
-A: Absolutely - the current situation has reduced speeds, has increased the number of cyclists, and contrary to what some say the Braid Ave count of cyclists has increased dramatically in the last five years.
+If you take just one thing away from reading all of this — _other than a righteous ferocity_ — it's that there are progressive parties who understand we need to rebalance allocated space and safety on our roads by managing car traffic, who go to bat for us at committee every time and put this stuff in their manifestos, and in other cities where they hold the balance of local democratic power they are **already delivering for cyclists, wheelers and walkers** in ways this adminstration can time and again only make paper promises about. 
 
-Questions for Braid Estate Safety First?
-None, just Cuthbert on Park and Ride:
-A: huge problem on Morningside road with traffic, indirectly helps Braid Estate and would support.
+> _"Councillors will be judged on deeds - not words."_ — Kirsty Lewin, Infrasisters, March 2024 
 
-Questions for Midmar:
-Lang: on the basis that the legal decision Braid Rd is now permanent, what is it that you would like committee to do today?
-A: Follow through on the plan for at least two years, remove the filters and put in cycleway on Braid Avenue to share the wide road, if that had been implemented we would have been satisfied in retaining mixed use, but allowing traffic onto other roads. We want committee to follow the law - which we understand has not been followed, we are happy that monitoring and consultation take place. There 'wasn't a problem' and this is at the expense of one road getting all the traffic. Claims there wasn't debate at TRO Sub on Braid Rd filter. 'We have to be realistic about this' says guy massively detatched from reality.
-Cuthbert: Very clearly flagged up there is commuter traffic, how do you feel park and ride could help here? 
-A: We'd clearly support it.
-Booth: There wasn't a problem, speeding in particular, one street on estate had highest residential street speed - what evidence do you have - 
-A: speeding is only one issue and you can put speed bumps in, closing roads does not deal with speeding. 
-
-St Peters and Canaan Lane Primary:
-Booth: Thanks for extremely powerful deputation - my question is, do you think there is a fundamental injustice if we rip out filters today for children walking and cycling to school in the Braid Estate?
-A: Children are our future, if we are serious about encouraging active travel, we need to keep the infrastructure that enables it.
-Cutbert's park and ride - we would support but it should not be either-or. We think this is a really simple question - what do we value, is it our childrens' safety? 
-McInnes: Agree powerful, looking at the whole city for public health, climate change, safety - if you saw a backwards step, do you see that as having an impact on future sustainable choices.
-A: Stantec report had 43% reduction in traffic, and SG held up route as example of traffic evaporation - if households have to go back to the car for safety, that does have a knock-on effect, taking away independence - what message does that give to the children? I don't understand.
-Cuthbert: A702 corridor hostility (Spokes)
-A: That road could definitely be improved. Let's not go backwards by dismantling quiet route. Canaan Lane Primary is also new during the period so more children moving to school, and reintroducing traffic will mean the benefits expected by opponents of filters will not actually make their lives easier.
-
-#### In Discussion
-
-Lang mainly making procedural points, because he has nothing of substance on whether to prioritise the safety of vulnerable users. Everything in the abstract - risk management policy, not risk to children; 
-
+**Use your vote in the 2027 council election wisely.**
 
 
 ---
 
 ## 🔎 Items for Scrutiny
 
----
-
-'Items for Scrutiny' are reports that are expected to pass without requiring debate, so may not be discussed at TEC unless Councillors have questions on them and ask for them to be discussed at the start of proceedings.
-
----
-
 ### 🚋 8.1 Trams consultation and market research report
 
 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100192/Item%208.1%20-%20Trams%20from%20Granton%20to%20the%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20and%20Beyond%20Consultation.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 🌐 [Supporting documents (list of 16)](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=86871#mgDocuments){target="_blank" rel="noopen noreferrer"} [Webpage, PDF Links] »
 
-#### 🎤 Deputations
-
----
-
-## ✍🏽 Motions and Amendments
-
----
-
-
+> 🥄 This time round, we've [run out of spoons](https://en.wikipedia.org/wiki/Spoon_theory){target="_blank" rel="noopen noreferrer"}. 
+>
+> You'll need to round this one up for yourselves; [the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027) features this item from 4h 25m.
+>
+> Thanks for reading.
 
 ---
 
