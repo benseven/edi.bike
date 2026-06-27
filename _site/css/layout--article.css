@@ -69,6 +69,9 @@
 }
 .layout--article .container p em {
   color: var(--c-orange--faint);
+  font-variation-settings: "wght" 240, "ital" 1;
+  letter-spacing: 0.01rem;
+  font-style: italic;
 }
 .layout--article .container ul li,
 .layout--article .container ol li {

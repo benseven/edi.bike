@@ -81,6 +81,9 @@
 
     p em {
       color: var(--c-orange--faint);
+      font-variation-settings: 'wght' 240, 'ital' 1;
+      letter-spacing: 0.01rem;
+      font-style: italic;
     }
 
     ul li,
