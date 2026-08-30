@@ -13,6 +13,18 @@ As well as our bi-monthly coverage of the City of Edinburgh Council's **Transpor
 
 ---
 
+### ⬇️ Jump to:
+
+* 🔥 [**Princes St Fire, transport chaos and aftermath**](#the-princes-street-fire-and-aftermath-multiple-motions) »
+* 🚫 [**St Mark's Park bridge closure**](#motion-8-9-by-councillor-caldwell-st-marks-park-bridge-closure-plus-two-further-questions) »
+* 🦓 [**Side road zebra crossings**](#8-10-by-councillor-booth-continental-or-side-road-zebra-crossings) »
+* 🗼 [**Replacement of soft segregation units**](#10-12-by-councillor-lang-replacement-of-soft-segregation-units) »
+* 🐕‍🦺 [**George IV Bridge pinch point pavement**](#10-22-by-councillor-booth-pedestrian-build-out-on-george-iv-bridge-around-greyfriars-bobby) »
+* 🅿️ [**Cycle parking hangar and street rack stats**](#p-10-27-by-councillor-booth-cycle-parking) »
+* ⬅️ [**Summerhall junction left-hook risk**](#10-28-by-councillor-booth-summerhall-junction) »
+
+---
+
 There's perhaps no better summary of the current state of transport management in Edinburgh than this exchange with the Council leader and Green group Cllr Chas Booth near the start of proceedings:
 
 > Cllr Booth: _"Last week the Council finally introduced a limited trial of extended bus lane hours, covering half the previously agreed route and nearly seven years after it was agreed at Transport Committee._
