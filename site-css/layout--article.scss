@@ -100,6 +100,9 @@
       background-color: rgba(245, 195, 203, 0.1);
       margin: 0;
       padding: 0.5em 1.5em;
+      p img {
+        max-width: 100%;
+      }
       p:last-of-type,
       li:last-of-type {
         margin-bottom: 1em;

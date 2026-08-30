@@ -88,6 +88,9 @@
   margin: 0;
   padding: 0.5em 1.5em;
 }
+.layout--article .container blockquote p img {
+  max-width: 100%;
+}
 .layout--article .container blockquote p:last-of-type,
 .layout--article .container blockquote li:last-of-type {
   margin-bottom: 1em;
