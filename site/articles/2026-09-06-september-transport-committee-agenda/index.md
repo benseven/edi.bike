@@ -98,7 +98,7 @@ Edinburgh's 'Tourist tax' spending plans continue here, following a Special Coun
 * 💰 [National Wealth Fund Engagement](https://democracy.edinburgh.gov.uk/documents/s102788/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%203.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
 * 🔎 [Benefits & Impacts Summary](https://democracy.edinburgh.gov.uk/documents/s102789/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%204.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
 
-A dense and information-rich update to the city's plans for a new north-south tram line, rumbling along; we're reasonably likely to see the much-debated northern section of this put to one side, particularly less than a year out from local council elections — but this is unlikely to be the last we hear of the line to Granton either way.
+A dense and information-rich update to the city's plans for a new north-south tram line, rumbling along; we're reasonably likely to see the much-debated northern section of this put to one side, particularly less than a year out from local council elections and with several political groups backing 'Save the Roseburn Path' — but this is unlikely to be the last we hear of the line to Granton either way...
 
 Transport Convener Cllr Stephen Jenkinson [gave a video interview](https://www.edinburghnews.scotsman.com/news/edinburgh-new-north-south-tramline-officials-recommend-prioritising-southern-section-saying-granton-route-needs-more-work-8952593) to Ian Swanson at the Edinburgh Evening News this week, discussing the north and south sections of the route and touching on the notion of tram-trains for reopening the South Suburban line. 
 
@@ -122,9 +122,13 @@ This is set to be another contentious point for the West of the city, where the 
 
 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102798/Item%207.8%20-%20Traffic%20Orders%20-%20TROs%20Sub-Committee%20Update%20-%20Improvements%20to%20the%20TRO%20Process.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
-TODO 
+Back in November 2025, TEC considered the future of its sub-committee responsible for vetting Traffic Regulation Orders ('TROs') and commissioned a follow-up report on potential improvements to the system. And, following the legal paperwork errors that required the removal of filters on the Greenbank to Meadows quiet route in June, it was also asked that a review be undertaken into how those errors came about, which this report also covers.
 
+Of course, not only does the report fail to lay blame at the likely originator of the errors (the consultants who originally drafted the orders), but also claims officers _'discovered'_ the errors in question when in fact they were notified of the issue by a member of the public, an overzealous NIMBY who was against the scheme. It's also been repeatedly asserted that the ETRO for the area was never meant to be made permanent, though having the legal documents in order during a process that wasn't guaranteed to unfold _just right_ might have been wiser than assuming it will all go according to plan, particularly where councillor conduct ends up called into question.
 
+It's also notable the way the council talks about TROs as a fact of life, when it's been pointed out many times that Edinburgh rather over-uses the process, which is time-consuming and has been blamed as one of the main reasons for delays in previous active travel projects. The fact that this report doesn't mention this particular procedural footgun is interesting when considering it offers suggestions to streamline the process further — rather than reducing the amount it resorts to orders to make changes.
+
+If you're interested in the legal workings, there's a lot of detail about the recommendations being made, and alongside the report there are also a whopping [nine appendices](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=88879#mgDocuments){target="_blank" rel="noopen noreferrer"}, including new templates for TRO Sub-committee reports.
 
 
 ---
@@ -137,7 +141,20 @@ TODO
 
 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102825/Item%209.2%20-%20By%20Councillor%20Cuthbert%20-%20Lothianburn%20Junction%20Traffic%20Trial%20-%20A702-A720.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
-TODO Includes greens chat on cuthbert https://bsky.app/profile/rosssmckenzie.bsky.social/post/3murseb7bnk2c 
+On the one hand, this is a really weird motion; the roads in question are not managed by the council but by BEAR Scotland, so the entire thing is essentially a Councillor (who happens to also be a ward councillor for the area the road is in) asking that CEC officers' time be spent on keeping them up to date with _something another organisation is doing_; which surely could have been asked of BEAR directly given the ward interest...
+
+On the other hand, as Green group Cllr Ross McKenzie gleefully pointed out:
+
+> _"Trial changes at Lothianburn Junction don't seem to have given a second thought to cycle safety._ 
+>
+> _"Cycling south, you either stay in the left lane and get blocked by a line of cones, or move \[to\] the right lane (as instructed) for maximum exposure to vehicles switching lanes._
+>
+> _"Fortunately, the good people at the Conservative and Unionist Party have brought a motion on Lothianburn Junction to this week's Transport & Environment Committee, so @chasbooth.bsky.social and I will have an opportunity to amend in requests for consideration of cycle safety._
+>
+> _"We're keen for input from anyone with experience of cycling this route."_
+> — Cllr Ross McKenzie [on Bluesky](https://bsky.app/profile/rosssmckenzie.bsky.social/post/3murseb7bnk2c){target="_blank" rel="noopen noreferrer"} 
+
+If you have cycled through this junction since the trial changes began and can share your experience, you can [use this link to email](mailto:Cllr.Ross.Mckenzie@edinburgh.gov.uk;chas.booth@edinburgh.gov.uk?subject=A702%20Trial%20Measures%20and%20Cycling&cc=hello@edi.bike&body=Dear%20Cllrs%20McKenzie%20and%20Booth%20—%0A%0AI%20am%20writing%20to%20you%20regarding%20the%20BEAR%20Scotland%20trial%20measures%20on%20the%20A702%20as%20covered%20in%20edi.bike%20this%20week...) Cllrs McKenzie and Booth directly, CC'ing edi.bike.
 
 ---
 
@@ -145,7 +162,7 @@ TODO Includes greens chat on cuthbert https://bsky.app/profile/rosssmckenzie.bsk
 
 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102827/Item%209.4%20-%20By%20Councillor%20Gardiner%20-%20Safe%20Management%20of%20Street%20Closures.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
 
-TODO 
+Requests a report from officers regarding the management of the 'Summertime Streets' closure of the Cowgate, a road which has had many promises of pedestrianisation over the years. A recent attempt at closing it for festival crowds saw unattended barriers moved and passed by through-traffic until it received media coverage following comments and video footage from Living Streets Edinburgh. 
 
 ---
 
