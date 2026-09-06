@@ -128,7 +128,7 @@ Of course, not only does the report fail to lay blame at the likely originator o
 
 It's also notable the way the council talks about TROs as a fact of life, when it's been pointed out many times that Edinburgh rather over-uses the process, which is time-consuming and has been blamed as one of the main reasons for delays in previous active travel projects. The fact that this report doesn't mention this particular procedural footgun is interesting when considering it offers suggestions to streamline the process further — rather than reducing the amount it resorts to orders to make changes.
 
-If you're interested in the legal workings, there's a lot of detail about the recommendations being made, and alongside the report there are also a whopping [nine appendices](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=88879#mgDocuments){target="_blank" rel="noopen noreferrer"}, including new templates for TRO Sub-committee reports.
+If you're interested in the inner legal workings, there's a lot of detail about the recommendations being made, and alongside the report there are also a whopping [nine appendices](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=88879#mgDocuments){target="_blank" rel="noopen noreferrer"}, including new templates for TRO Sub-committee reports.
 
 
 ---
