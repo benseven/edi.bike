@@ -20,7 +20,7 @@ The Greenbank to Meadows quiet route:
 
 > _...runs from Greenbank to the Meadows. It provides a link that forms a key connection from the South of Edinburgh to the City Centre, via the use of modal filters and the existing parts of the active travel network. It was established in 2021 to provide a safe route for walking, wheeling and cycling, as an alternative to public transport during the COVID-19 pandemic._
 >
-> _Along the path of the Quiet Route and nearby are several nurseries, primary and high schools, and the route also connects with several different green spaces - the Meadows, Bruntsfield Links, The Hermitage (of Braid), the Braidburn Valley Park, the Braid Hills, Blackford Hill area and the Mortonhall estate & Pentland Hills beyond._ — [Friends of the Quiet Route](https://sites.google.com/view/friendsofthequietroute/about-the-route){target="_blank" rel="noopenernoreferrer"}
+> _Along the path of the Quiet Route and nearby are several nurseries, primary and high schools, and the route also connects with several different green spaces - the Meadows, Bruntsfield Links, The Hermitage (of Braid), the Braidburn Valley Park, the Braid Hills, Blackford Hill area and the Mortonhall estate & Pentland Hills beyond._ — [Friends of the Quiet Route](https://sites.google.com/view/friendsofthequietroute/about-the-route){target="_blank" rel="noopener noreferrer"}
 
 The northern half of the route between James Gillespies primary school and Cluny Gardens uses a handful of strategically-placed planters — 'modal filters' — to prevent north-south through-traffic, while still allowing full local access to residences and destinations within the route. Minor tweaks have been introduced at this end, but there has been far less local push-back and political wrangling, with less filters in place and fewer folks taking umbrage at having to drive a couple of streets further to make the place quieter and safer for everyone.
 
@@ -37,7 +37,7 @@ There are many, many residents throughout the route who are happier with the qui
 
 The southern half, sadly, has borne greater witness to a haphazard political pandering playbook, "they're taking our freedumb" post-COVID council-generated traffic conspiracy melts, and mismanagement of consultation to the point of even presenting residents with multiple street layout options and treating the results more like a referendum than a consultation; the last rallying cry of an administration too scared to make bold enough decisions off the back of its own policies and data from the myriad of liveable neighbourhood schemes across similar cities in Europe and beyond. This dragged on through several phases of consultation, meetings, petitions and years. The pandemic's over - why can't I drive anywhere I want?
 
-The facts are plain; monitoring showed that by implementing numerous modal filters across the estate's area, north-south and east-west through-traffic movements had been massively reduced - and while critics claimed this had merely been displaced to neighbouring streets, monitoring data showed this wasn't the case. More head-scratching from the 'antis', and more confusion about [traffic evaporation](https://thecityfix.com/blog/traffic-evaporation-what-really-happens-when-road-space-is-reallocated-from-cars/){target="_blank" rel="noopenernoreferrer"}. 
+The facts are plain; monitoring showed that by implementing numerous modal filters across the estate's area, north-south and east-west through-traffic movements had been massively reduced - and while critics claimed this had merely been displaced to neighbouring streets, monitoring data showed this wasn't the case. More head-scratching from the 'antis', and more confusion about [traffic evaporation](https://thecityfix.com/blog/traffic-evaporation-what-really-happens-when-road-space-is-reallocated-from-cars/){target="_blank" rel="noopener noreferrer"}. 
 
 The quiet route, and low traffic neighbourhood, was fulfilling its aims.
 
@@ -45,7 +45,7 @@ The quiet route, and low traffic neighbourhood, was fulfilling its aims.
 
 ### 🗳️ March 2024; Transport Committee Meeting
 
-In the same Transport & Environment Committee ('TEC') meeting where strong words and promises were spoken about the duties of the committee to children like Thomas Wong — the [11-year-old tragically struck and killed](https://theedinburghreporter.co.uk/2024/03/flowers-line-the-roadside-in-barnton-following-boys-death/){target="_blank" rel="noopenernoreferrer"} by the driver of a private refuse lorry while he cycled to school in Barnton — councillors from the Labour administration sided with colleagues from the Conservative and Lib Dem groups to remove the modal filters from the southern half of the route, returning up to 6,000 vehicle movements daily to quiet residential streets. To busy routes for children walking and cycling to the two adjacent primary schools - to vote not to act, but merely to speak platitudes about the protection of children from road dangers, being faced in the same meeting with an opportunity to actually do something about it. 
+In the same Transport & Environment Committee ('TEC') meeting where strong words and promises were spoken about the duties of the committee to children like Thomas Wong — the [11-year-old tragically struck and killed](https://theedinburghreporter.co.uk/2024/03/flowers-line-the-roadside-in-barnton-following-boys-death/){target="_blank" rel="noopener noreferrer"} by the driver of a private refuse lorry while he cycled to school in Barnton — councillors from the Labour administration sided with colleagues from the Conservative and Lib Dem groups to remove the modal filters from the southern half of the route, returning up to 6,000 vehicle movements daily to quiet residential streets. To busy routes for children walking and cycling to the two adjacent primary schools - to vote not to act, but merely to speak platitudes about the protection of children from road dangers, being faced in the same meeting with an opportunity to actually do something about it. 
 
 The Transport convener at the time - now MP, Dr Scott Arthur - looked visibly uncomfortable in the session, and actually followed up at the next committee meeting with an amendment to ensure that in making changes to the scheme, there was also an option to revert back to filtered streets again, without further legal wrangling or consultation being required.
 
@@ -53,7 +53,7 @@ The Transport convener at the time - now MP, Dr Scott Arthur - looked visibly un
 
 ## ⏳ Two years on; (merciful) inaction and delays
 
-[New Experimental Traffic Order (ETRO) plans](/files/2025/03-Greenbank-to-Meadows-Quiet-Route-Plans/330610712-STN-HGN-02-DR-CH-0101-General-Arrangement.pdf){target="_blank" rel="noopenernoreferrer"}* included attempting to mitigate the new dangers of re-introducing through-traffic on this southern end of the quiet route with new protected cycleways - leading along Hermitage Dr to the top of Braid Ave, where a cycleway with floating parking would run down each side of the reopened street, narrowing it and encouraging slower vehicle speeds. 
+[New Experimental Traffic Order (ETRO) plans](/files/2025/03-Greenbank-to-Meadows-Quiet-Route-Plans/330610712-STN-HGN-02-DR-CH-0101-General-Arrangement.pdf){target="_blank" rel="noopener noreferrer"}* included attempting to mitigate the new dangers of re-introducing through-traffic on this southern end of the quiet route with new protected cycleways - leading along Hermitage Dr to the top of Braid Ave, where a cycleway with floating parking would run down each side of the reopened street, narrowing it and encouraging slower vehicle speeds. 
 
 \* _Plans also include modal filters in the same document, providing the amendment's goal of being able to revert to filtered streets within the same traffic order._
 
@@ -67,7 +67,7 @@ Now — thanks to some dodgy dealings along the way — **the decision is coming
 
 ## 🙃 Censures! Censures for everyone!
 
-As we posted, the day the news broke, [to Bluesky](https://bsky.app/profile/edi.bike/post/3mgsgah7qws2o){target="_blank" rel="noopenernoreferrer"}: 
+As we posted, the day the news broke, [to Bluesky](https://bsky.app/profile/edi.bike/post/3mgsgah7qws2o){target="_blank" rel="noopener noreferrer"}: 
 
 Today, a Standards Commission hearing for **Lib Dem Councillor Neil Ross** and **Conservative Councillor Marie-Clair Munro** found both had breached the Councillor code of conduct for failing to declare they lived by the Braid Estate when dealing with the Greenbank to Meadows Quiet Route, including their votes to remove effective traffic filtering from the area near their homes.
 
@@ -81,7 +81,7 @@ Today, a Standards Commission hearing for **Lib Dem Councillor Neil Ross** and *
 > withdrawn from the meetings and taken no part in the discussion and decision-making on the
 > matter. The Panel found that their failure to do so amounted to a breach of the Code.**
 >
-> — 📄 [Full Standards Commission press release](https://www.standardscommissionscotland.org.uk/uploads/files/1773248443260311Pressrelease.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
+> — 📄 [Full Standards Commission press release](https://www.standardscommissionscotland.org.uk/uploads/files/1773248443260311Pressrelease.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
 
 The controversial and surprising vote to remove highly effective traffic calming measures from a residential area and re-introduce up to 6,000 vehicles daily — on a 'quite route' for walking, wheeling and cycling spanning two primary schools — must surely now be revisited at the Transport Committee.
 
@@ -93,15 +93,15 @@ A close-run matter in which two councillors — one of whom not even usually on 
 
 Following the news many Councillors - including current and former Transport Committee members - weighed in on social media:
 
-> **"This demonstrates that the vote to rip out the modal filters and other active travel measures in the Braid estate was not only unjustifiable, but also arrived at by a tainted process which must now surely be revisited."** — former TEC Councillor [Danny Aston](https://bsky.app/profile/dastonsnp.bsky.social/post/3mgshdoxwa22u){target="_blank" rel="noopenernoreferrer"}, SNP 
+> **"This demonstrates that the vote to rip out the modal filters and other active travel measures in the Braid estate was not only unjustifiable, but also arrived at by a tainted process which must now surely be revisited."** — former TEC Councillor [Danny Aston](https://bsky.app/profile/dastonsnp.bsky.social/post/3mgshdoxwa22u){target="_blank" rel="noopener noreferrer"}, SNP 
 >
-> [[Quote-posted our thread]](https://bsky.app/profile/edi.bike/post/3mgsgah7qws2o){target="_blank" rel="noopenernoreferrer"}
+> [[Quote-posted our thread]](https://bsky.app/profile/edi.bike/post/3mgsgah7qws2o){target="_blank" rel="noopener noreferrer"}
 
 ---
 
-> **"It's essential that the decision to rip out the quiet route is now revisited. I have written to senior council officers to request this."** — TEC Councillor [Chas Booth](https://bsky.app/profile/chasbooth.bsky.social/post/3mgsixhys4s2c){target="_blank" rel="noopenernoreferrer"}, Greens 
+> **"It's essential that the decision to rip out the quiet route is now revisited. I have written to senior council officers to request this."** — TEC Councillor [Chas Booth](https://bsky.app/profile/chasbooth.bsky.social/post/3mgsixhys4s2c){target="_blank" rel="noopener noreferrer"}, Greens 
 >
-> [[Quote-posted our thread]](https://bsky.app/profile/edi.bike/post/3mgsgah7qws2o){target="_blank" rel="noopenernoreferrer"}
+> [[Quote-posted our thread]](https://bsky.app/profile/edi.bike/post/3mgsgah7qws2o){target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -111,21 +111,21 @@ Following the news many Councillors - including current and former Transport Com
 >
 > **After all the time, energy and public engagement that went into this, we’re right back where we started.**  
 >
-> **I dread to think what this mistake has cost — not just financially, but in trust and confidence too."** — former TEC Convener Dr Scott Arthur MP, Labour [on Facebook](https://www.facebook.com/DrScottArthur/posts/pfbid024QJzejjTEHBMdsN9Vj2ts8c7iLvi9gGDvwf7jXhgWv37vKPSNjfZnHMmpWCw5Cprl ){target="_blank" rel="noopenernoreferrer"}
+> **I dread to think what this mistake has cost — not just financially, but in trust and confidence too."** — former TEC Convener Dr Scott Arthur MP, Labour [on Facebook](https://www.facebook.com/DrScottArthur/posts/pfbid024QJzejjTEHBMdsN9Vj2ts8c7iLvi9gGDvwf7jXhgWv37vKPSNjfZnHMmpWCw5Cprl ){target="_blank" rel="noopener noreferrer"}
 > 
-> [[Linked to this article at the Evening News]](https://www.edinburghnews.scotsman.com/news/two-edinburgh-councillors-censured-after-breaching-code-of-conduct-5629175){target="_blank" rel="noopenernoreferrer"} 
+> [[Linked to this article at the Evening News]](https://www.edinburghnews.scotsman.com/news/two-edinburgh-councillors-censured-after-breaching-code-of-conduct-5629175){target="_blank" rel="noopener noreferrer"} 
 
 ---
 
-> **"In light of this decision my Transport & Environment Committee will now have to revisit the vote taken on the Braids Estate LTN."** — current TEC Convener [Cllr Stephen Jenkinson](https://bsky.app/profile/stephenjenkinson.bsky.social/post/3mgtv47znns2x){target="_blank" rel="noopenernoreferrer"}, Labour 
+> **"In light of this decision my Transport & Environment Committee will now have to revisit the vote taken on the Braids Estate LTN."** — current TEC Convener [Cllr Stephen Jenkinson](https://bsky.app/profile/stephenjenkinson.bsky.social/post/3mgtv47znns2x){target="_blank" rel="noopener noreferrer"}, Labour 
 >
-> [[Linked to this article at the Evening News]](https://www.edinburghnews.scotsman.com/news/two-edinburgh-councillors-censured-after-breaching-code-of-conduct-5629175){target="_blank" rel="noopenernoreferrer"} 
+> [[Linked to this article at the Evening News]](https://www.edinburghnews.scotsman.com/news/two-edinburgh-councillors-censured-after-breaching-code-of-conduct-5629175){target="_blank" rel="noopener noreferrer"} 
 
 ---
 
-> **"It's clear it must come back - the integrity of the process has been shown to be completely compromised. Key Q now is will Labour reverse its dreadful position of voting with Tories & Lib Dems to rip out measures protecting kids travelling safely to & from school? If they don't this means nowt."** — former TEC Councillor [Danny Aston](https://bsky.app/profile/dastonsnp.bsky.social/post/3mgx3rxd5yc2q){target="_blank" rel="noopenernoreferrer"}, SNP 
+> **"It's clear it must come back - the integrity of the process has been shown to be completely compromised. Key Q now is will Labour reverse its dreadful position of voting with Tories & Lib Dems to rip out measures protecting kids travelling safely to & from school? If they don't this means nowt."** — former TEC Councillor [Danny Aston](https://bsky.app/profile/dastonsnp.bsky.social/post/3mgx3rxd5yc2q){target="_blank" rel="noopener noreferrer"}, SNP 
 >
-> [[Quote-posted Cllr Stephen Jenkinson (above)]](https://bsky.app/profile/stephenjenkinson.bsky.social/post/3mgtv47znns2x){target="_blank" rel="noopenernoreferrer"}
+> [[Quote-posted Cllr Stephen Jenkinson (above)]](https://bsky.app/profile/stephenjenkinson.bsky.social/post/3mgtv47znns2x){target="_blank" rel="noopener noreferrer"}
 
 
 ---

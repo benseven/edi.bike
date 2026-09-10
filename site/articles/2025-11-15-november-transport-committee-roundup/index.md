@@ -6,22 +6,22 @@ title: 🤝 November 2025 Transport & Environment Committee - Roundup
 
 ---
 
-The City of Edinburgh Council's **Transport and Environment Committee** ('TEC') met last Thursday, 13th November 2025, we've summarised decisions and discussion either cycling or cycling-adjacent. For background and some extra bits not discussed at the meeting itself, see our [article from last week](/articles/2025-11-09-november-transport-committee-agenda){target="_blank" rel="noopenernoreferrer"} going over the agenda.
+The City of Edinburgh Council's **Transport and Environment Committee** ('TEC') met last Thursday, 13th November 2025, we've summarised decisions and discussion either cycling or cycling-adjacent. For background and some extra bits not discussed at the meeting itself, see our [article from last week](/articles/2025-11-09-november-transport-committee-agenda){target="_blank" rel="noopener noreferrer"} going over the agenda.
 
 <figure>
   <img src="./assets/images/criticalmass-tec.jpeg" />
   <figcaption>
-    TEC Convener Cllr Stephen Jenkinson speaks to campaigners from <a href="https://edinburghcriticalmass.wordpress.com/" target="_blank" rel="noopenernoreferrer">Edinburgh Critical Mass</a> outside the Transport & Enviornment Committee on 13th November, who were gathered to protest about the lack of inaction on road safety in the Cowgate a year on from a fatal accident in the street, slated as part of the City Mobility Plan to be largely pedestrianised but with still no changes made to its substantial levels of through-traffic nor narrow footways.
+    TEC Convener Cllr Stephen Jenkinson speaks to campaigners from <a href="https://edinburghcriticalmass.wordpress.com/" target="_blank" rel="noopener noreferrer">Edinburgh Critical Mass</a> outside the Transport & Enviornment Committee on 13th November, who were gathered to protest about the lack of inaction on road safety in the Cowgate a year on from a fatal accident in the street, slated as part of the City Mobility Plan to be largely pedestrianised but with still no changes made to its substantial levels of through-traffic nor narrow footways.
   </figcaption>
 </figure>
 
-> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7655&Ver=4){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %}  📺 [Webcast Page](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7655/Public%20reports%20pack%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s90345/6.1%20-%20Business%20Bulletin_November%202025.pdf){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s90339/Work%20Programme%2013.11.25.pdf){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  🎙️ [Deputations](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  📑 [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopenernoreferrer"} 
+> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7655&Ver=4){target="_blank" rel="noopener noreferrer"}  {% pipespacer %}  📺 [Webcast Page](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopener noreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7655/Public%20reports%20pack%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopener noreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s90345/6.1%20-%20Business%20Bulletin_November%202025.pdf){target="_blank" rel="noopener noreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s90339/Work%20Programme%2013.11.25.pdf){target="_blank" rel="noopener noreferrer"}   {% pipespacer %}  🎙️ [Deputations](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopener noreferrer"}   {% pipespacer %}  📑 [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopener noreferrer"} 
 
 ---
 
 ## 💼 Business Bulletin 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90345/6.1%20-%20Business%20Bulletin_November%202025.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
-📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopenernoreferrer"} - starting from **1h 7m**
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90345/6.1%20-%20Business%20Bulletin_November%202025.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
+📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopener noreferrer"} - starting from **1h 7m**
 
 The Business Bulletin is home to more minor items that don't warrant a full report, or further updates on more significant past reports. Items below were briefly discussed with questions asked by assembled Councillors.
 
@@ -33,40 +33,40 @@ Cllr Kevin Lang asked whether the LTIP scheme is on track, or ahead of / behind 
 
 Officers responded that the current projects were progressing well and to schedule, with the team working closely with communities, keeping in touch with project sponsors, and following up after design work is done to check it meets the needs of the residents involved — with some delays due to traffic regulation order processes.
 
-You can see the current list of Local Traffic Improvement Programme projects on [Business bulletin pages 3-5](https://democracy.edinburgh.gov.uk/documents/s90345/6.1%20-%20Business%20Bulletin_November%202025.pdf#page=3){target="_blank" rel="noopenernoreferrer"} [PDF] »
+You can see the current list of Local Traffic Improvement Programme projects on [Business bulletin pages 3-5](https://democracy.edinburgh.gov.uk/documents/s90345/6.1%20-%20Business%20Bulletin_November%202025.pdf#page=3){target="_blank" rel="noopener noreferrer"} [PDF] »
 
 ---
 
-ℹ️ Items from **Page 6: Entrance to Holyrood Park Road and Strategy Update on Progress** and **Page 8: Layby Provision Close to Tram Line** covered in our [agenda review last week](/articles/2025-11-09-november-transport-committee-agenda){target="_blank" rel="noopenernoreferrer"} were not discussed at the meeting. 
+ℹ️ Items from **Page 6: Entrance to Holyrood Park Road and Strategy Update on Progress** and **Page 8: Layby Provision Close to Tram Line** covered in our [agenda review last week](/articles/2025-11-09-november-transport-committee-agenda){target="_blank" rel="noopener noreferrer"} were not discussed at the meeting. 
 
 ---
 ### 🚋 Page 9: Trams to Newhaven Outstanding Issues
 
-Link: [Most recent project update](https://www.edinburgh.gov.uk/tramstonewhaven/news/article/425/trams-to-newhaven-issues-resolution-update){target="_blank" rel="noopenernoreferrer"} »
+Link: [Most recent project update](https://www.edinburgh.gov.uk/tramstonewhaven/news/article/425/trams-to-newhaven-issues-resolution-update){target="_blank" rel="noopener noreferrer"} »
 
 Cllr Chas Booth asked what 'regular updates' on the project means in practice; and with ninety 'red' issues remaining, what the timetable for the resolution of the most pressing defects looks like.
 
 Officers responded that 27 of the remaining 'red' issues are already in progress, with a number of the 'soft landscaping' works remaining waiting for the planting season to come around; and that the deadline for all 'red' items to be completed is the 31st of March 2026. Regarding updates, there is a project update every two months by Newsletter, with an update to the number of issues on the project's website every month.
 
-Cllr Booth then asked about the pedestrian and cycle crossing wait times over London Road at the top of Elm Row, where with the reintroduction of the left turn for vehicles from Leith Walk along London Rd, users of the crossing are facing [up to a ten minute wait](https://bsky.app/profile/edtiss.bsky.social/post/3m5h7q5vdys2j){target="_blank" rel="noopenernoreferrer"}. Officers response was that they will investigate the issue, and circulate findings to Ward Councillors.s 
+Cllr Booth then asked about the pedestrian and cycle crossing wait times over London Road at the top of Elm Row, where with the reintroduction of the left turn for vehicles from Leith Walk along London Rd, users of the crossing are facing [up to a ten minute wait](https://bsky.app/profile/edtiss.bsky.social/post/3m5h7q5vdys2j){target="_blank" rel="noopener noreferrer"}. Officers response was that they will investigate the issue, and circulate findings to Ward Councillors.s 
 
 ---
 
 ## 🗳️ Items for Decision
 
 ### 🚌 7.4 Bus Lanes and Bus Gates – Consideration of Permitting Access to Private Hire Vehicles 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90337/7.4%20-%20Bus%20Lanes%20and%20Bus%20Gates%20-%20Consideration%20of%20permitting%20access%20to%20PHVs.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
-📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopenernoreferrer"} - starting from **2h 23m**
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90337/7.4%20-%20Bus%20Lanes%20and%20Bus%20Gates%20-%20Consideration%20of%20permitting%20access%20to%20PHVs.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
+📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopener noreferrer"} - starting from **2h 23m**
 
 Deputations (which are taken at the very start of the meeting) from a number of parties on this item, each presenting both written submissions and in person on the day:
-- 🚌 **Edinburgh Bus Users Group**, written [page 6](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=6){target="_blank" rel="noopenernoreferrer"}, verbally from **22m 5s**
-- 🚲 **Spokes** Planning Group, [page 12](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=12){target="_blank" rel="noopenernoreferrer"}, verbally from **25m 56s**
-- 🚙 Private Hire trade body, the **Scottish Private Hire Association** on [page 13](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=13){target="_blank" rel="noopenernoreferrer"}, verbally from **28m 10s**
-- 🚕 **GMB Union** representing both black cab and private hire drivers [page 9](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=9){target="_blank" rel="noopenernoreferrer"}, verbally from **32m 4s**
+- 🚌 **Edinburgh Bus Users Group**, written [page 6](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=6){target="_blank" rel="noopener noreferrer"}, verbally from **22m 5s**
+- 🚲 **Spokes** Planning Group, [page 12](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=12){target="_blank" rel="noopener noreferrer"}, verbally from **25m 56s**
+- 🚙 Private Hire trade body, the **Scottish Private Hire Association** on [page 13](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=13){target="_blank" rel="noopener noreferrer"}, verbally from **28m 10s**
+- 🚕 **GMB Union** representing both black cab and private hire drivers [page 9](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=9){target="_blank" rel="noopener noreferrer"}, verbally from **32m 4s**
 
-Deputations began with an erudite summary from the [**Edinburgh Bus Users Group**](https://edinburghbususers.group/){target="_blank" rel="noopenernoreferrer"} ('EBUG'), whose written deputation (linked above) gives great context to the matter at hand and speaks to the impacts of vehicle traffic in bus lanes on public transport patronage. We're fortunate to have experienced advocates for the bus network in Edinburgh, where congestion can hamper what is otherwise a nationally award-winning public transport provision.
+Deputations began with an erudite summary from the [**Edinburgh Bus Users Group**](https://edinburghbususers.group/){target="_blank" rel="noopener noreferrer"} ('EBUG'), whose written deputation (linked above) gives great context to the matter at hand and speaks to the impacts of vehicle traffic in bus lanes on public transport patronage. We're fortunate to have experienced advocates for the bus network in Edinburgh, where congestion can hamper what is otherwise a nationally award-winning public transport provision.
 
-Following EBUG, Alex from [**Spokes**](http://spokes.org.uk){target="_blank" rel="noopenernoreferrer"} gave a short verbal deputation backing up Spokes' written contribution, highlighting that the number of Private Hire Cars ('PHCs') in the city is currently uncapped, and has increased by 40% since 2018. He also mentioned for consideration the slow progress prioritising public transport and active travel infrastructure in recent years.
+Following EBUG, Alex from [**Spokes**](http://spokes.org.uk){target="_blank" rel="noopener noreferrer"} gave a short verbal deputation backing up Spokes' written contribution, highlighting that the number of Private Hire Cars ('PHCs') in the city is currently uncapped, and has increased by 40% since 2018. He also mentioned for consideration the slow progress prioritising public transport and active travel infrastructure in recent years.
 
 ℹ️ _I made the rash assumption that the verbal deputations from the taxi and private hire bodies were in favour of PHCs in bus lanes as per their written submissions, and haven't watched them. Tempus fugit._
 
@@ -113,14 +113,14 @@ The Administration accepted the Green amendment and rejected the Conservative �
 ---
 
 ### 🚌 7.6 Road Safety Delivery Plan 2025/26 – Six-month update  
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90335/7.6%20-%20Road%20Safety%20Delivery%20Plan%202025_26%20-%20Six%20month%20update.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
-📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopenernoreferrer"} - starting from **3h 32m** 
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90335/7.6%20-%20Road%20Safety%20Delivery%20Plan%202025_26%20-%20Six%20month%20update.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
+📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopener noreferrer"} - starting from **3h 32m** 
 
 Deputations from: 
-- **Living Streets Edinburgh Group** (written, [page 19 of PDF](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=19){target="_blank" rel="noopenernoreferrer"}); 
+- **Living Streets Edinburgh Group** (written, [page 19 of PDF](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=19){target="_blank" rel="noopener noreferrer"}); 
 - **Living Rent Lochend** (verbal, starting from **58m 22s**). 
 
-A powerful deputation was given from representatives of **Living Rent Lochend** who [recently launched a road safety campaign](https://www.livingrent.org/lochend_community_day_081125#:~:text=On%20Saturday%208th%20November%2C%20members,for%20safer%20roads%20in%20Lochend.){target="_blank" rel="noopenernoreferrer"} in the area. 
+A powerful deputation was given from representatives of **Living Rent Lochend** who [recently launched a road safety campaign](https://www.livingrent.org/lochend_community_day_081125#:~:text=On%20Saturday%208th%20November%2C%20members,for%20safer%20roads%20in%20Lochend.){target="_blank" rel="noopener noreferrer"} in the area. 
 
 This report is very comprehensive, and there were many varied questions and contributions on it.
 
@@ -132,9 +132,9 @@ Officers advised this period is used nationally in Scotland as the baseline for 
 
 Cllr Cuthbert followed up asking whether accidents for different transport modes are recorded differently? Officers advised that only types of death or serious injury not recorded are proven cases of suicide. Any other accident relating to pedestrians, cyclists, trams, even bus users falling onboard a bus, are all recorded in the same way.
 
-> **Cllr Lang** asked about the move away from [PV<sup>2</sup>](https://therantyhighwayman.blogspot.com/2021/12/permission-to-cross.html#:~:text=The%20question%20alludes%20to%20a,controlled%20crossing%20should%20be%20considered.){target="_blank" rel="noopenernoreferrer"}, which he was 'pleased to see'; but was interested in the rationale in it, as Councillors have always been told it's objective and required by ScotGov — what has changed?
+> **Cllr Lang** asked about the move away from [PV<sup>2</sup>](https://therantyhighwayman.blogspot.com/2021/12/permission-to-cross.html#:~:text=The%20question%20alludes%20to%20a,controlled%20crossing%20should%20be%20considered.){target="_blank" rel="noopener noreferrer"}, which he was 'pleased to see'; but was interested in the rationale in it, as Councillors have always been told it's objective and required by ScotGov — what has changed?
 
-Officers outlined that PV<sup>2</sup> is a tool that will still be used, but that the Scottish Government's own road safety framework asks Officers to adopt the 'Safe Systems Approach' and be aiming for [Vision Zero](https://visionzeronetwork.org/about/what-is-vision-zero/){target="_blank" rel="noopenernoreferrer"}; and that to address unmet demand, the Council needs to modernise its approach and use a system that "focuses on a community and not a spreadsheet".
+Officers outlined that PV<sup>2</sup> is a tool that will still be used, but that the Scottish Government's own road safety framework asks Officers to adopt the 'Safe Systems Approach' and be aiming for [Vision Zero](https://visionzeronetwork.org/about/what-is-vision-zero/){target="_blank" rel="noopener noreferrer"}; and that to address unmet demand, the Council needs to modernise its approach and use a system that "focuses on a community and not a spreadsheet".
 
 > **Cllr Lang** asked regarding school travel plans - what is the timescale for all schools having been covered by this process?
 
@@ -148,11 +148,11 @@ Officers said there was an expectation they would have street designs by March 2
 
 #### 📝 Amendments
 
-- Liberal Democrat Amendment - [page 16](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=16){target="_blank" rel="noopenernoreferrer"}
+- Liberal Democrat Amendment - [page 16](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=16){target="_blank" rel="noopener noreferrer"}
 
-- Conservative Addendum - [page 18](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=18){target="_blank" rel="noopenernoreferrer"}
+- Conservative Addendum - [page 18](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=18){target="_blank" rel="noopener noreferrer"}
 
-- Green Addendum - [page 19](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=19){target="_blank" rel="noopenernoreferrer"}
+- Green Addendum - [page 19](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=19){target="_blank" rel="noopener noreferrer"}
 
 > Melt of the Meeting Award: 🏆 **Cllr Whyte** suggesting, in his seconding of the Conservative addendum, that in the evenings Morningside Rd might be a good candidate for being made 30mph again as a vital 'bus corridor'.
 
@@ -166,10 +166,10 @@ The Administration thanked officers for a 'comprehensive piece of work'; accepte
 ---
 
 ### 👀 8.1 Review of the Traffic Regulation Orders Sub-Committee
-📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopenernoreferrer"} - starting from **4h 21m 51s**
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90334/8.1%20-%20Review%20of%20the%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
+📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopener noreferrer"} - starting from **4h 21m 51s**
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s90334/8.1%20-%20Review%20of%20the%20Traffic%20Regulation%20Orders%20Sub-Committee.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
 
-[After our open letter with Spokes and others](/articles/2025-08-31-looking-ahead-to-tro-sub-4th-september){target="_blank"} regarding what we perceived as TRO Subcommittee overreach earlier in the year, we saw the ['saving' of the Travelling Safely schemes](https://road.cc/content/news/risk-cycle-lanes-saved-last-minute-315773){target="_blank" rel="noopenernoreferrer"} in the North, West and East of the city after intervening as they received something of a second hearing and near-death-by-delay at the Subcommittee responsible for making statutory orders.
+[After our open letter with Spokes and others](/articles/2025-08-31-looking-ahead-to-tro-sub-4th-september){target="_blank"} regarding what we perceived as TRO Subcommittee overreach earlier in the year, we saw the ['saving' of the Travelling Safely schemes](https://road.cc/content/news/risk-cycle-lanes-saved-last-minute-315773){target="_blank" rel="noopener noreferrer"} in the North, West and East of the city after intervening as they received something of a second hearing and near-death-by-delay at the Subcommittee responsible for making statutory orders.
 
 Following a dysfunctional run of recent meetings, it's good to see that internal scrutiny at the council will bring about not only improvements to guidance and clarity of remit around the Subcommittee's role, but also look to improve the TRO advertisement process to make it more friendly to the general public. As mentioned at the meeting, this is all the more vital as certain projects skip an initial consultative phase and move directly to TRO's own consultation phase.
 
@@ -179,21 +179,21 @@ This item saw a verbal deputation from New Town & Broughton Community Council fr
 
 Officers confirmed this is still under development, but is essentially a process to look at what other authorities do, in terms of TRO objections, delegated powers and the threshold for items coming to committee for decisions on taking forward - seeing how this is dealt with elsewhere. In follow-up, Cllr Macinnes highlighted a mention of comparisons with Glasgow City Council in the Green amendment, particularly with a view to moving faster - and Officers confirmed Glasgow was one of the authorities being looked at in this exercise. 
 
-🗳️ The Administration moved the report — including the circulation of a briefing note about the official Scottish Government position regarding TRO and RSO processes — and accepted the [Liberal Democrat amendment (page 20)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=20){target="_blank" rel="noopenernoreferrer"} and the [Green amendment (page 21)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=21){target="_blank" rel="noopenernoreferrer"} (sans paragraph 3), which then passed without requiring a vote.
+🗳️ The Administration moved the report — including the circulation of a briefing note about the official Scottish Government position regarding TRO and RSO processes — and accepted the [Liberal Democrat amendment (page 20)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=20){target="_blank" rel="noopener noreferrer"} and the [Green amendment (page 21)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=21){target="_blank" rel="noopener noreferrer"} (sans paragraph 3), which then passed without requiring a vote.
 
 ---
 ### 🕳️ 8.5 Save the Burnside (Longstone Sinkhole) – Motion Councillor McKenzie
-📄 [Report PDF](https://democracy.edinburgh.gov.uk/documents/s90331/8.7%20-%20Save%20the%20Burnside%20Longstone%20Sinkhole%20motion%20by%20Councillor%20McKenzie.pdf){target="_blank" rel="noopenernoreferrer"} »
-📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopenernoreferrer"} - starting from **4h 54m 44s**
+📄 [Report PDF](https://democracy.edinburgh.gov.uk/documents/s90331/8.7%20-%20Save%20the%20Burnside%20Longstone%20Sinkhole%20motion%20by%20Councillor%20McKenzie.pdf){target="_blank" rel="noopener noreferrer"} »
+📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopener noreferrer"} - starting from **4h 54m 44s**
 
 There are still outstanding questions on this popular walking and cycling link - an unadopted path across land owned by the Earl of Morton, behind the site of the former Longstone Inn - which to date has been surfaced and street-lit seemingly by the City of Edinburgh Council, and where a large sinkhole is currently being addressed with remedial work, and structural measures on a retaining wall in the river that bends by it. 
 
-Council Officers are not keen to 'adopt' the path, and become liable for its maintenance going forward. These questions and many more have been raised by Longstone Community Council, and hopefully will lead to the council seeing sense and preserving this inter-community link for years to come - especially as [an amendment by the Green group (page 25)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=25){target="_blank" rel="noopenernoreferrer"} to request Officers engage with ward councillors and work to safeguard the future of the path went solo at the voting, with the Administration unwilling to incorporate its calls for a further conversation and report; and sadly was defeated in a close call of 6 votes to 5.
+Council Officers are not keen to 'adopt' the path, and become liable for its maintenance going forward. These questions and many more have been raised by Longstone Community Council, and hopefully will lead to the council seeing sense and preserving this inter-community link for years to come - especially as [an amendment by the Green group (page 25)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=25){target="_blank" rel="noopener noreferrer"} to request Officers engage with ward councillors and work to safeguard the future of the path went solo at the voting, with the Administration unwilling to incorporate its calls for a further conversation and report; and sadly was defeated in a close call of 6 votes to 5.
 
 ---
 ### 🌧️ 8.7 2030 Climate Strategy Update – referral from the Policy and Sustainability Committee
-📄 [Report PDF](https://democracy.edinburgh.gov.uk/documents/s90338/8.7%20-%202030%20Climate%20Strategy%20-%20Referral%20from%20PS%20to%20TEC.pdf){target="_blank" rel="noopenernoreferrer"} »
-📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopenernoreferrer"} - starting from **5h 12m 42s**
+📄 [Report PDF](https://democracy.edinburgh.gov.uk/documents/s90338/8.7%20-%202030%20Climate%20Strategy%20-%20Referral%20from%20PS%20to%20TEC.pdf){target="_blank" rel="noopener noreferrer"} »
+📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1035540){target="_blank" rel="noopener noreferrer"} - starting from **5h 12m 42s**
 
 **Cllr Lang** asked of Officers - What should the transport & environment committee think more about - or think differently about - based on progress so far?
 
@@ -203,7 +203,7 @@ Corporate Director of Place, **Gareth Barwell**, added that the Climate Strategy
 
 A lot of conversation was had at this point around regional aspects — working with neighbouring authorities — including the need for a wider, regional transport strategy. Gareth Barwell also described making what could be perceived as 'loss leading' investment in public transport and active travel routes to offer concrete alternatives to car travel (rather than expecting modal shift based on promises of infrastructure and improvements).
 
-A [Green amendment (page 27)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=27){target="_blank" rel="noopenernoreferrer"} reads:
+A [Green amendment (page 27)](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=27){target="_blank" rel="noopener noreferrer"} reads:
 
 >1) Thanks officers for the report and ongoing work to tackle the climate emergency;
 >
@@ -242,17 +242,17 @@ This item was agreed without the need for a vote.
 
 ### 🛣️ 9.3 Motion by Councillor Cuthbert - Support for Midlothian Council's A701 Relief Road & A702 Link Road Project
 
-> 🚲 This item included an excellent [written deputation from Spokes, at page 21)](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=21){target="_blank" rel="noopenernoreferrer"} of the Deputations PDF
+> 🚲 This item included an excellent [written deputation from Spokes, at page 21)](https://democracy.edinburgh.gov.uk/documents/b27129/Deputations%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=21){target="_blank" rel="noopener noreferrer"} of the Deputations PDF
 
-Alongside some more minor points, an amendment by the SNP ([page 29](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=29){target="_blank" rel="noopenernoreferrer"}) accepted by the administration contained:
+Alongside some more minor points, an amendment by the SNP ([page 29](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=29){target="_blank" rel="noopener noreferrer"}) accepted by the administration contained:
 
 > "Requests that council officers engage with Midlothian colleagues to bring forward immediate and medium term regional public transport initiatives to reduce reliance on private vehicle commuting journeys entering the City of Edinburgh. This includes working with Midlothian council to identify and develop potential cross boundary regional public transport connections and corridors serving South East Edinburgh communities and Midlothian communities.
 >
 > Committee requests that Council officers report progress on cross boundary public transport initiatives via the business bulletin and in planned reports."
 
-A much stronger amendment from the Greens (from [page 30](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=30){target="_blank" rel="noopenernoreferrer"}) pointed out the load-bearing assumptions in the 'improvements' building another major road claims to deliver, including the reliance on the completion of other projects to deliver any potential benefit.
+A much stronger amendment from the Greens (from [page 30](https://democracy.edinburgh.gov.uk/documents/b27169/Motions%20and%20Amendments%2013th-Nov-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=30){target="_blank" rel="noopener noreferrer"}) pointed out the load-bearing assumptions in the 'improvements' building another major road claims to deliver, including the reliance on the completion of other projects to deliver any potential benefit.
 
-It would have been good to have seen some debate around this issue, as [induced demand](https://en.wikipedia.org/wiki/Induced_demand#In_transportation_systems){target="_blank" rel="noopenernoreferrer"} is a very real consequence of any and all road building so this project is a rather unforgiveable footgun, especially in a climate crisis - even it is flanked by active travel infrastructure. 
+It would have been good to have seen some debate around this issue, as [induced demand](https://en.wikipedia.org/wiki/Induced_demand#In_transportation_systems){target="_blank" rel="noopener noreferrer"} is a very real consequence of any and all road building so this project is a rather unforgiveable footgun, especially in a climate crisis - even it is flanked by active travel infrastructure. 
 
 Sadly, post-5pm at TEC, that was not to be - and the original motion (with SNP amendment) was passed by 9 votes to 2, with the Green party members against.
 

@@ -6,21 +6,21 @@ title: September 2025 Transport & Environment Committee - Roundup
 
 ---
 
-Not much on [the main agenda](https://democracy.edinburgh.gov.uk/documents/g7653/Agenda%20frontsheet%2011th-Sep-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=0){target="_blank" rel="noopenernoreferrer"} [PDF] for the City of Edinburgh Council's **Transport and Environment Committee** ('TEC') in the way of cycling-adjacent reports for September, but as it turns out, plenty to discuss from the more minor parts of its workload.
+Not much on [the main agenda](https://democracy.edinburgh.gov.uk/documents/g7653/Agenda%20frontsheet%2011th-Sep-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=0){target="_blank" rel="noopener noreferrer"} [PDF] for the City of Edinburgh Council's **Transport and Environment Committee** ('TEC') in the way of cycling-adjacent reports for September, but as it turns out, plenty to discuss from the more minor parts of its workload.
 
-🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/documents/g7653/Agenda%20frontsheet%2011th-Sep-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=0){target="_blank" rel="noopenernoreferrer"} [PDF] »
-📺 [Watch the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1015220){target="_blank" rel="noopenernoreferrer"} »
-📑 [Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7653/Agenda%20frontsheet%2011th-Sep-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=0){target="_blank" rel="noopenernoreferrer"} [PDF] » 
+🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/documents/g7653/Agenda%20frontsheet%2011th-Sep-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=0){target="_blank" rel="noopener noreferrer"} [PDF] »
+📺 [Watch the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1015220){target="_blank" rel="noopener noreferrer"} »
+📑 [Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7653/Agenda%20frontsheet%2011th-Sep-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=0){target="_blank" rel="noopener noreferrer"} [PDF] » 
 
-A quick summary can be found on Bluesky in [this thread by Spokes](https://bsky.app/profile/spokes.org.uk/post/3lykfb7f4ms2s){target="_blank" rel="noopenernoreferrer"} »
+A quick summary can be found on Bluesky in [this thread by Spokes](https://bsky.app/profile/spokes.org.uk/post/3lykfb7f4ms2s){target="_blank" rel="noopener noreferrer"} »
 
 ## 📆 Questions on the Work Programme - Voi Hire eBikes
-📋 [Work Programme](https://democracy.edinburgh.gov.uk/mgConvert2PDF.aspx?ID=88028){target="_blank" rel="noopenernoreferrer"} [PDF] »
+📋 [Work Programme](https://democracy.edinburgh.gov.uk/mgConvert2PDF.aspx?ID=88028){target="_blank" rel="noopener noreferrer"} [PDF] »
 
 Cllr Booth raised a question regarding TEC's Work Programme: this includes a report on the cycle hire scheme coming in 2027 - which will be after the two year trial concludes. The Councillor asked whether there will be updates to TEC during the trial, noting that there have been teething problems for Voi resulting in as low as three bikes available over the weekend preceding the committee meeting, and bikes being shown outside of the permitted zone in the app - and asking for occasional updates in the committee's Business Bulletin. This was confirmed and the Convener suggested this would be around every six months, giving the scheme time to 'bed in'.
 
 ## 💼 Business Bulletin
-📄 [PDF](https://democracy.edinburgh.gov.uk/documents/s87913/6.1%20-%20Business%20Bulletin_September%202025.pdf){target="_blank" rel="noopenernoreferrer"} »
+📄 [PDF](https://democracy.edinburgh.gov.uk/documents/s87913/6.1%20-%20Business%20Bulletin_September%202025.pdf){target="_blank" rel="noopener noreferrer"} »
 
 The Business Bulletin is home to more minor items that don't warrant a full report, or further updates on more significant past reports.
 
@@ -46,7 +46,7 @@ Not discussed at Committee but notable for users of this active travel link.
 Normally only discussed if there are positions, amendments or questions - but all items for scrutiny tabled for Thursday's meeting were discussed, as they all had items to deal with.
 
 ### ↗️ 8.1 City Mobility Plan Capital Investment Programme Update 2025/26  
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s87922/8.1%20-%20City%20Mobility%20Plan%20Capital%20Investment%20Programme%20Update%20202526.pdf){target="_blank" rel="noopenernoreferrer"} » [PDF]
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s87922/8.1%20-%20City%20Mobility%20Plan%20Capital%20Investment%20Programme%20Update%20202526.pdf){target="_blank" rel="noopener noreferrer"} » [PDF]
 
 > Includes responses to motions by Councillor Booth on Liveable Neighbourhoods and Delays to Delivery of Active Travel Investment Programme – further detail on the Leith Connections Low Traffic Neighbourhood, addressing of delays in Active Travel projects at the Council, and more.
 
@@ -55,7 +55,7 @@ Confirmation at Committee that the 'A8 Sustainable Transport Corridor' project h
 ---
 
 ### 📈 8.2 City Centre West to East Cycle Link 12 Month Monitoring and Lessons Learned 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s87923/8.2%20-%20CCWEL%2012%20month%20monitoring%20and%20lessons%20learned.pdf){target="_blank" rel="noopenernoreferrer"} » [PDF]
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s87923/8.2%20-%20CCWEL%2012%20month%20monitoring%20and%20lessons%20learned.pdf){target="_blank" rel="noopener noreferrer"} » [PDF]
 
 > Response to Motion by Councillor Mowat – includes some very interesting monitoring and impact data about approval ratings following the delivery of CCWEL, increases in cycling and retail spending in the area, and reductions in traffic across the project’s route. 
 
@@ -72,7 +72,7 @@ Cllr Macinnes asked a great question about how the CCWEL story - significant ini
 ---
 
 ### 🚙 8.3 Audit Scotland Report on Sustainable Transport: Reducing Car Use 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s87924/8.3%20-%20Audit%20Scotland%20Report%20on%20Reducing%20Car%20Use.pdf){target="_blank" rel="noopenernoreferrer"} » [PDF]
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s87924/8.3%20-%20Audit%20Scotland%20Report%20on%20Reducing%20Car%20Use.pdf){target="_blank" rel="noopener noreferrer"} » [PDF]
 
 Response to motion by Councillor Booth; in recent weeks, CEC has been approached by Transport Scotland to get Council Officers involved in a working group on regulatory review on road user charging — a technical group not making decisions, but contributing local authority expertise into the regulatory review. This could, with time, lead to the ability for the Council to introduce demand management tools to tackle urban congestion, such as a congestion charge in the city. 
 

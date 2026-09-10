@@ -9,7 +9,7 @@ title: 🗳️ June's 'Full Council' meeting roundup
 
 As well as our bi-monthly coverage of the City of Edinburgh Council's **Transport & Environment Committee**, we also keep an eye on items at 'full council' meetings - and on Thursday 25th June, the council convened at the City Chambers and included in their agenda were a few cycling-adjacent items.
 
-> 📆 [Meeting Page](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=150&MId=7607&Ver=4){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/site/mg_bounce.php?mg_a_id=86873&mg_m_id=7607&language=en_GB){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %}  📑 [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b28244/Motions%20and%20Amendments%2025th-Jun-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopenernoreferrer"} [PDF]  {% pipespacer %}  🙋🏽 [Questions & Answers](https://democracy.edinburgh.gov.uk/documents/b28243/Questions%20and%20Answers%2025th-Jun-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopenernoreferrer"} [PDF]  
+> 📆 [Meeting Page](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=150&MId=7607&Ver=4){target="_blank" rel="noopener noreferrer"}  {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/site/mg_bounce.php?mg_a_id=86873&mg_m_id=7607&language=en_GB){target="_blank" rel="noopener noreferrer"}  {% pipespacer %}  📑 [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b28244/Motions%20and%20Amendments%2025th-Jun-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopener noreferrer"} [PDF]  {% pipespacer %}  🙋🏽 [Questions & Answers](https://democracy.edinburgh.gov.uk/documents/b28243/Questions%20and%20Answers%2025th-Jun-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopener noreferrer"} [PDF]  
 
 ---
 
@@ -18,9 +18,9 @@ As well as our bi-monthly coverage of the City of Edinburgh Council's **Transpor
 
 ### 🌳 8.9 by Councillor Osler - Improvements to the Northern Path Network
 
-📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s100353/Item%208.10%20-%20By%20Councillor%20Osler%20-%20Improvements%20to%20the%20Northern%20Path%20Network.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
+📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s100353/Item%208.10%20-%20By%20Councillor%20Osler%20-%20Improvements%20to%20the%20Northern%20Path%20Network.pdf){target="_blank" rel="noopener noreferrer"} [PDF]
 
-📺 Webcast [from 4:39:37](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1103037/start_time/16777000){target="_blank" rel="noopenernoreferrer"}
+📺 Webcast [from 4:39:37](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1103037/start_time/16777000){target="_blank" rel="noopener noreferrer"}
 
 This Lib Dem motion recognises some recent outbreaks of anti-social behaviour on the North Edinburgh Path Network ('NEPN'), leading to some residents stopping using the path network - and seeks to bring path users and other stakeholders together to talk about their experiences.
 
@@ -29,7 +29,7 @@ This Lib Dem motion recognises some recent outbreaks of anti-social behaviour on
 > _"There has there been a number of recent outbreaks of antisocial behaviour that has to some users made them feel less safe when using the network or has made them stop using it altogether. This saddens me greatly as it is such a wonderful asset and such a special network, and it should be enjoyed safely by all. So this is why I have brought this motion before you today. I want us to be able to bring people together to talk about their experiences of using the path and explore the common concerns arising across the off-road path network, and potential measures that could be implemented to address them. It is so important that we as a council listen when users tell us there is an issue with safety, and that we reassure them that this is something we take seriously."_ 
 > — Councillor Hal Osler
 
-An [addendum from the SNP](https://democracy.edinburgh.gov.uk/documents/s100664/Motions%20and%20Amendments%20-%20Council%20-%2025%20June%202026.pdf#page=27){target="_blank" rel="noopenernoreferrer"} [PDF, page 27] - welcomely [noted Andy Arthur's recent 'Rails to Trails' deep-dive](https://threadinburgh.scot/2026/06/01/rails-to-trails-the-thread-about-how-north-edinburgh-got-its-cycle-paths/){target="_blank" rel="noopenernoreferrer"} on the origins and history of the path network, and called for the looping in of the Transport committee on the results of the engagement:
+An [addendum from the SNP](https://democracy.edinburgh.gov.uk/documents/s100664/Motions%20and%20Amendments%20-%20Council%20-%2025%20June%202026.pdf#page=27){target="_blank" rel="noopener noreferrer"} [PDF, page 27] - welcomely [noted Andy Arthur's recent 'Rails to Trails' deep-dive](https://threadinburgh.scot/2026/06/01/rails-to-trails-the-thread-about-how-north-edinburgh-got-its-cycle-paths/){target="_blank" rel="noopener noreferrer"} on the origins and history of the path network, and called for the looping in of the Transport committee on the results of the engagement:
 
 > _"I am pleased to contribute to this about the safety of the North Edinburgh path network and am grateful to Councillor Osler for tabling it. Ultimately, our amendment is about good stewardship, recognising the value of our treasured public asset and investing in its future, ensuring it continues to safely benefit residents for generations to come. Also noting that this network did not appear overnight, it's a proud and enduring legacy of several previous councils, dedicated officers, community organisations and volunteers who had vision and determination - and let's keep it the remarkable asset that we have today. We wanted to move away from reactive crisis management towards planned preventative maintenance, trying to help keep our network accessible."_ 
 > — Councillor Vicky Nicolson 
@@ -38,7 +38,7 @@ In seconding, Cllr Neil Gardiner said:
 
 > _"Just building on the point that Councillor Nicolson made, I mean New York has got the celebrated 'highline' and we've quietly had our northern railway path network for the last 40 years, and because while it's a good thing that the pathway network is being used more and more by cyclists and pedestrians, there is a degree of conflict there so I think it's important that the reports should also go back to the Transport and Environment Committee."_
 
-A [Green group addendum](https://democracy.edinburgh.gov.uk/documents/s100664/Motions%20and%20Amendments%20-%20Council%20-%2025%20June%202026.pdf#page=28) [PDF, page 28] included a couple of additional stakeholders on the matter, calling for the [Equally Safe Edinburgh Committee](https://www.edinburgh.gov.uk/children-families/equally-safe-edinburgh-committee){target="_blank" rel="noopenernoreferrer"} and safety campaign group [Infrasisters](https://www.infrasisters.org.uk/){target="_blank" rel="noopenernoreferrer"} be included, given the recognised inequity of safe travel on these paths:
+A [Green group addendum](https://democracy.edinburgh.gov.uk/documents/s100664/Motions%20and%20Amendments%20-%20Council%20-%2025%20June%202026.pdf#page=28) [PDF, page 28] included a couple of additional stakeholders on the matter, calling for the [Equally Safe Edinburgh Committee](https://www.edinburgh.gov.uk/children-families/equally-safe-edinburgh-committee){target="_blank" rel="noopener noreferrer"} and safety campaign group [Infrasisters](https://www.infrasisters.org.uk/){target="_blank" rel="noopener noreferrer"} be included, given the recognised inequity of safe travel on these paths:
 
 > _"What our addendum simply seeks to do is to include a couple of stakeholders who we think have a really valuable and unique perspective, given the importance of ensuring that women and girls in particular feel safe on our path network... And given the research that we've already seen at committee that quite often they do not feel safe, and in particular on the disused railways because of the lack of overlooking, we feel it's vital that Infrasisters and Equally Safe Edinburgh Committee are included._ 
 >
@@ -58,9 +58,9 @@ It's important Councillors are able to recognise the difference between the chal
 
 ### 🛤️ 8.16 by Councillor Booth - Powderhall Rail Line – SNP Manifesto Commitment
 
-📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s100360/Item%208.17%20-%20By%20Councillor%20Booth%20-%20Powderhall%20Rail%20Line%20SNP%20Manifesto%20Commitment.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
+📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s100360/Item%208.17%20-%20By%20Councillor%20Booth%20-%20Powderhall%20Rail%20Line%20SNP%20Manifesto%20Commitment.pdf){target="_blank" rel="noopener noreferrer"} [PDF]
 
-📺 Webcast [from 5:06:13](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1103037/start_time/18373000){target="_blank" rel="noopenernoreferrer"}
+📺 Webcast [from 5:06:13](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1103037/start_time/18373000){target="_blank" rel="noopener noreferrer"}
 
 
 > _"The Powderhall rail line, if that were to be reopened as a walking, wheeling and cycling path, would considerably improve the off-road connectivity for active travel, especially in Leith Walk and Craigentinny/Duddingston Wards. It is listed in the City Mobility Plan Capital Investment Programme, but only insofar as it goes forward with land negotiation._ 
@@ -72,7 +72,7 @@ In seconding the cross-party motion, Lib Dem Cllr Jack Caldwell said:
 
 > _"Thank you to Councillor Booth, who has done a marathon of work, and Council officers as well, because I appreciate negotiations are always tricky. My hope is that one day the Powderhall railway line can indeed become part of the North Edinburgh Path Network that Councillor Osler spoke so eloquently about earlier. It does mean a lot to the residents in the wards that Councillor Booth mentioned, but actually it is a fundamental part of our city mobility plan as well."_
 
-An [addendum by the SNP group](https://democracy.edinburgh.gov.uk/documents/s100664/Motions%20and%20Amendments%20-%20Council%20-%2025%20June%202026.pdf#page=38){target="_blank" rel="noopenernoreferrer"} [PDF, page 38] was introduced by Cllr Amy McNeese-Mechan: 
+An [addendum by the SNP group](https://democracy.edinburgh.gov.uk/documents/s100664/Motions%20and%20Amendments%20-%20Council%20-%2025%20June%202026.pdf#page=38){target="_blank" rel="noopener noreferrer"} [PDF, page 38] was introduced by Cllr Amy McNeese-Mechan: 
 
 > _"We're very supportive of Councillor Booth's motion - we're all really keen to see this progress. It's been incredibly frustrating for ward Councillors and residents that negotiations have kind of stalled. So [our addendum] was just an attempt to add to that, and support particularly for some of our ward residents who've been impacted."_.
 
@@ -86,7 +86,7 @@ With a small verbal adjustment _(officers to 'explore any opportunities' to assi
 
 #### 🤔 Our Take
 
-We've been a little involve behind the scenes supporting the [Powderhall Link campaign](http://powderhall.link/){target="_blank" rel="noopenernoreferrer"} and it's great to see a fresh commitment to the project from council groups - any forward momentum or pressure for this to be delivered could prove to be the push that finally gets the project properly rolling.
+We've been a little involve behind the scenes supporting the [Powderhall Link campaign](http://powderhall.link/){target="_blank" rel="noopener noreferrer"} and it's great to see a fresh commitment to the project from council groups - any forward momentum or pressure for this to be delivered could prove to be the push that finally gets the project properly rolling.
 
 There appear to be two main hurdles to overcome; the first is that while no trains have run on the line for ten years now, and Network Rail are willing to hand it over, there is still an active leaseholder at the former Powderhall waste management site for a freight site held by rail operator **Schenker**, who were sold by **Deutsche Bahn** last year to new owner, global transport and logistics firm DSV. 
 
@@ -106,9 +106,9 @@ Questions are submitted ahead of the meeting and answered on paper by the releva
 
 ### 🚌 10.2 By Councillor Caldwell - Leith Walk Floating Bus Stop Monitoring
 
-📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/s100660/Questions%20and%20Answers%20-%20for%20Mod%20Gov.pdf#page=2){target="_blank" rel="noopenernoreferrer"} [PDF, page 2]
+📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/s100660/Questions%20and%20Answers%20-%20for%20Mod%20Gov.pdf#page=2){target="_blank" rel="noopener noreferrer"} [PDF, page 2]
 
-Following a [report in Edinburgh Live](https://www.edinburghlive.co.uk/news/edinburgh-news/im-disabled-edinburgh-resident-just-34078255){target="_blank" rel="noopenernoreferrer"} about dangers on Leith Walk, Cllr Caldwell tabled a series of questions about Floating Bus Stops.
+Following a [report in Edinburgh Live](https://www.edinburghlive.co.uk/news/edinburgh-news/im-disabled-edinburgh-resident-just-34078255){target="_blank" rel="noopener noreferrer"} about dangers on Leith Walk, Cllr Caldwell tabled a series of questions about Floating Bus Stops.
 
 It's heartening to see from the answers that reported incidents on this busy route have only been as high as two to three per year since July 2023 (with no detail as to whether these were 'near misses' or collisions); as with sharing the off-road paths, the majority of users make the paths, as inadequate as they are in places, work - and so do most pedestrians. 
 
@@ -118,11 +118,11 @@ It's important that accessibility concerns are taken into account, and Leith Wal
 
 ### 🗳️ 10.4 By Councillor Flannery - Management of TRO Considerations - Community Objections
 
-📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/s100660/Questions%20and%20Answers%20-%20for%20Mod%20Gov.pdf#page=5){target="_blank" rel="noopenernoreferrer"} [PDF, page 5]
+📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/s100660/Questions%20and%20Answers%20-%20for%20Mod%20Gov.pdf#page=5){target="_blank" rel="noopener noreferrer"} [PDF, page 5]
 
 An interesting proposition - on the one hand, the question perhaps places too much emphasis on community objections to schemes, as Edinburgh is prone to, given that Officers already dilligently break down objections by theme and category; but on the other, any tweaks to the Traffic Regulation Order sub-committee that make it more robust and predictable in its decision-making could be welcome.
 
 ---
 
 ✨ **Donate to edi.bike**
-<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopenernoreferrer"/></a>
+<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopener noreferrer"/></a>

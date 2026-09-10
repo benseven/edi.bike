@@ -6,7 +6,7 @@ title: 📋 TRO Sub-committee meeting agenda for Tuesday 16th December 2025
 
 ---
 
-The meeting papers have been published for the council's [Traffic Regulation Order Sub-Committee](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7797&Ver=4){target="_blank" rel="noopenernoreferrer"} (or 'TRO Sub') meeting this Tuesday 16th December.
+The meeting papers have been published for the council's [Traffic Regulation Order Sub-Committee](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7797&Ver=4){target="_blank" rel="noopener noreferrer"} (or 'TRO Sub') meeting this Tuesday 16th December.
 
 The sub-committee exists to make 'quasi-judicial' decisions on Traffic Regulation Orders, which have a specific statutory framework that has to be followed, considering objections to proposals in an isolated and self-contained manner (i.e. cannot be lobbied or externally influenced). The 'TRO Sub' survived a recent review process which concluded that while the remit and processes around the committee need to be clearly outlined and convened, it would continue to be the way that the City of Edinburgh Council ('CEC') makes the final decision on 'making' the Traffic Orders that shape our streets.
 
@@ -18,15 +18,15 @@ At their last meeting, on the 4th September, we saw an important victory followi
 While we're not expecting anything as dramatic this Tuesday, there's still some cycling-related orders up for decision on the sub-committee's agenda:
 
 
-* 🪄 4.3 **Travelling Safely - South Area** ETRO/21/29A - 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
-* ↕️ 4.4 **One Way Streets Exemptions for Cyclists Batch One** TRO/24/27 - 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91696/4.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
+* 🪄 4.3 **Travelling Safely - South Area** ETRO/21/29A - 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
+* ↕️ 4.4 **One Way Streets Exemptions for Cyclists Batch One** TRO/24/27 - 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91696/4.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
 
 _(There are other matters on the agenda regarding controlled parking areas, but we will generally try and 'stay in our lane' and focus on cycle infrastructure and policy.)_
 
 ---
 
 ## 🪄 Travelling Safely - South Area ETRO/21/29A
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
 
 The 'Experimental Traffic Regulation Orders' (ETROs) for the covid-era 'Travelling Safely' schemes have been gradually ending, with the North, East and West area ETRO packages being made permanent at the last sub-committee meeting. The deadline for some of these ETROs were later, partly as the original 'South' package was later subdivided to have separate orders for **Comiston Rd / Braid Rd** and the **Greenbank to Meadows Quiet Route** individually - and the remaining, more newly issued 'South' areas ETRO now has its day at committee to be made into a permanent order.
 
@@ -53,7 +53,7 @@ The 'South' areas ETRO includes protected cycleways on the **Buccleuch Street co
 
 ### 👏🏼 Support for the measures
 
-Pages [4 to 8 of the Report PDF](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=4){target="_blank" rel="noopenernoreferrer"} detail objections to the South scheme - before and after the 'spin out' of the separate ETROs from its original form:
+Pages [4 to 8 of the Report PDF](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=4){target="_blank" rel="noopener noreferrer"} detail objections to the South scheme - before and after the 'spin out' of the separate ETROs from its original form:
 
 > **"The majority of representations received in response to the first advert related entirely to one or more of the following three schemes: Braid Road, Comiston Road and the Greenbank to Meadows Quiet Connection. These three schemes were originally advertised under ETRO/21/29 but were not included in ETRO/21/29A and are now the subject of separate scheme specific ETROs.**"
 
@@ -71,11 +71,11 @@ The title of the table below is incorrect, but when Braid Rd, Comiston Rd and th
 
 > **"The data collected shows that the measures have regular levels of use and the reallocation of road space as part of programme has not had a negative impact on general traffic journey times."** 
 
-📄 The **2024 Summary Report** by Stantec for the Travelling Safely schemes [can be found beginning at page 59](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=59){target="_blank" rel="noopenernoreferrer"} of the report PDF. Nothing particularly surprising; some interesting stats on peak times to and from town, including routes that buck common direction trends.
+📄 The **2024 Summary Report** by Stantec for the Travelling Safely schemes [can be found beginning at page 59](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=59){target="_blank" rel="noopener noreferrer"} of the report PDF. Nothing particularly surprising; some interesting stats on peak times to and from town, including routes that buck common direction trends.
 
-📄 The **2025 Travelling Safely Supplementary Monitoring Summary Report – Southern Routes**, also carried out by Stantec, [can be found starting from page 86](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=86){target="_blank" rel="noopenernoreferrer"} of the report PDF. 
+📄 The **2025 Travelling Safely Supplementary Monitoring Summary Report – Southern Routes**, also carried out by Stantec, [can be found starting from page 86](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=86){target="_blank" rel="noopener noreferrer"} of the report PDF. 
 
-For reasons known only to themselves, Stantec undertook re-measuring the levels of cycling in the schemes — originally captured in June 2023 — in 4°C weather in February 2025. This, it won't surprise you to learn, means the comparative user counts in the report are about as useful as a political manifesto pledge. [Appendix 14 at page 249](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=249){target="_blank" rel="noopenernoreferrer"} features Officers' response to the monitoring and evaluation of the routes, which does mention this seasonality snafu - and in spite of the summer vs. winter data, two corridors did see a significant increase in cycle journeys between these points of measurement.
+For reasons known only to themselves, Stantec undertook re-measuring the levels of cycling in the schemes — originally captured in June 2023 — in 4°C weather in February 2025. This, it won't surprise you to learn, means the comparative user counts in the report are about as useful as a political manifesto pledge. [Appendix 14 at page 249](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=249){target="_blank" rel="noopener noreferrer"} features Officers' response to the monitoring and evaluation of the routes, which does mention this seasonality snafu - and in spite of the summer vs. winter data, two corridors did see a significant increase in cycle journeys between these points of measurement.
 
 The report contains around fifteen pages of cycling counting data and information on journey times.
 
@@ -83,7 +83,7 @@ The report contains around fifteen pages of cycling counting data and informatio
 
 ### 💬 Feedback from consultation
 
-Skipping the raw and unfiltered responses provided in 'Appendix 6', [**Appendix 7** from page 194](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=194){target="_blank" rel="noopenernoreferrer"} of the report PDF is a summary of the themes raised in the feedback, including a response from Council officers and whether any action is being considered in response. 
+Skipping the raw and unfiltered responses provided in 'Appendix 6', [**Appendix 7** from page 194](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=194){target="_blank" rel="noopener noreferrer"} of the report PDF is a summary of the themes raised in the feedback, including a response from Council officers and whether any action is being considered in response. 
 
 It's disappointing to see a key issue with the **Craigmillar Park Corridor** scheme noted, but no further action slated:
 
@@ -91,7 +91,7 @@ It's disappointing to see a key issue with the **Craigmillar Park Corridor** sch
 
 This has been many folks experience of this corridor, coupled with a dreadful quality of road surface making riding within the segregated space something of a dangerous experience in itself; we would have loved to have seen Officers propose how measures could be strengthened to combat this unauthorised use of the lanes here rather than wishing they didn't.
 
-[Appendix 9 from page 203](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=203){target="_blank" rel="noopenernoreferrer"} contains a list of **"Recommended amendments to restrictions not trialled on the ground and locations with 24hr loading restrictions"**. Some of these are loading restrictions that have never actually been enacted; but others are a relaxation around loading that we would very much hope don't negatively impact the experience of cycling safely through the area.
+[Appendix 9 from page 203](https://democracy.edinburgh.gov.uk/documents/s91695/4.pdf#page=203){target="_blank" rel="noopener noreferrer"} contains a list of **"Recommended amendments to restrictions not trialled on the ground and locations with 24hr loading restrictions"**. Some of these are loading restrictions that have never actually been enacted; but others are a relaxation around loading that we would very much hope don't negatively impact the experience of cycling safely through the area.
 
 ---
 
@@ -100,7 +100,7 @@ The precedent has been set in September that the Travelling Safely schemes are a
 ---
 
 ## ↕️ One Way Streets Exemptions for Cyclists Batch One TRO/24/27
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91696/4.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s91696/4.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
 
 > **Proposals in TRO/24/27 would exempt pedal cycles from existing one-way orders. The proposals would be introduced, alongside complementary measures such as additional signage and road markings, on the following streets:**
 >
@@ -120,11 +120,11 @@ Drummond Street, Simpson Loan and Wishaw Terrace"**.
 
 ## 🙈 Living Streets and the nuisance of people on bikes, again
 
-Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St, Living Streets Edinburgh have [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopenernoreferrer"} to the proposed introduction of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to coexist in the same space. Such spaces include, but are not limited to, **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
+Naturally, rather than taking the opportunity to champion the rights of those travelling actively and noise up the council for less vehicular intrusion on Rose St, Living Streets Edinburgh have [penned an objection](https://www.livingstreetsedinburgh.org.uk/2025/12/09/lseg-comment-on-council-plans-to-allow-two-way-cycling-on-rose-street/){target="_blank" rel="noopener noreferrer"} to the proposed introduction of two-way cycling on Rose St, ignoring the many examples from across Europe where pedestrians and cyclists manage to coexist in the same space. Such spaces include, but are not limited to, **the very street they're claiming shouldn't have two-way cycling access**, on which **cycling is already permitted**.
 
 <figure>
   <img src="./assets/stats.png"/>
-  <figcaption>Hmmmm, <a target="_blank" rel="noopenernoreferrer" href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-pedestrian-factsheet-2024/reported-road-casualties-in-great-britain-pedestrian-factsheet-2024#which-vehicles-are-involved-in-collisions-with-pedestrians"> which one of these</a> shall we focus on?</figcaption>
+  <figcaption>Hmmmm, <a target="_blank" rel="noopener noreferrer" href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-pedestrian-factsheet-2024/reported-road-casualties-in-great-britain-pedestrian-factsheet-2024#which-vehicles-are-involved-in-collisions-with-pedestrians"> which one of these</a> shall we focus on?</figcaption>
 </figure>
 
 Shall we have a look through it point by point?
@@ -153,9 +153,9 @@ This is very unlikely to significantly change just because cyclists can enter Ro
 
 LSEG are correct that a report came to TEC in January exploring possible temporary cycle diversions  leading up to — and during — the redevelopment of George St. Thistle St (and its continuances) and Rose St were both looked at as options, as well as the potential for Queen St being used as an alternate route for cycle traffic. The purpose for this look at diversionary routes was set out clearly in the report:
 
-> **"Given the current programme for the George Street project and the potential street disruption during construction, it is important to explore alternative routes to connect the CCWEL before the construction of George Street. Options include Queen Street, Rose Street and Young, Hill and Thistle Streets."** — [Report, paragraph 3.3](https://democracy.edinburgh.gov.uk/documents/s79522/7.3%20-%20CCWEL%20to%20George%20Street%20Active%20Travel%20Connections.pdf#page=2){target="_blank" rel="noopenernoreferrer"} » [PDF]  
+> **"Given the current programme for the George Street project and the potential street disruption during construction, it is important to explore alternative routes to connect the CCWEL before the construction of George Street. Options include Queen Street, Rose Street and Young, Hill and Thistle Streets."** — [Report, paragraph 3.3](https://democracy.edinburgh.gov.uk/documents/s79522/7.3%20-%20CCWEL%20to%20George%20Street%20Active%20Travel%20Connections.pdf#page=2){target="_blank" rel="noopener noreferrer"} » [PDF]  
 
-However, **these were subsequently ruled out at TEC in June** in favour of requiring contractors to maintain two-way cycle access on George St itself for the duration of the works. The decision [recorded at page 19 of the minutes](https://democracy.edinburgh.gov.uk/documents/g7248/Printed%20minutes%2026th-Jun-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=1#page=19){target="_blank" rel="noopenernoreferrer"} includes as its point 9, from the Green group amendment, **"To agree that, for the duration of the works, two-way cycling would be retained along the entire [George] street wherever possible"**.
+However, **these were subsequently ruled out at TEC in June** in favour of requiring contractors to maintain two-way cycle access on George St itself for the duration of the works. The decision [recorded at page 19 of the minutes](https://democracy.edinburgh.gov.uk/documents/g7248/Printed%20minutes%2026th-Jun-2025%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=1#page=19){target="_blank" rel="noopener noreferrer"} includes as its point 9, from the Green group amendment, **"To agree that, for the duration of the works, two-way cycling would be retained along the entire [George] street wherever possible"**.
 
 The standing democratic decision on Rose St as a potential diversion route is formed not only of the original report LSEG are quoting above, **BUT ALSO the decisions that follow it**. You can't pick and choose from past meetings what to present as the Council's plans without manipulating the truth of the record. The same was true of recent campaigns claiming cycling would be 'discouraged' on the Roseburn Path if the tram ran down it, reflecting a failure to understand that **an original report alone does not represent a council position if it is amended at committee before passing**.
 

@@ -8,7 +8,7 @@ title: '🗳️ Greenbank to Meadows: Traffic Regulation Orders Sub-committee ma
 
 ## 'As good as it could have been' - all filters without errors in legal orders made permanent, with report to follow at Transport Committee
 
-The City of Edinburgh Council’s Traffic Regulation Orders Sub-committee [met on Tuesday 12th](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7799&Ver=4){target="_blank" rel="noopenernoreferrer"}, to decide on a number of the final ‘Travelling Safely’ schemes for walking, wheeling and cycling safely in south Edinburgh.
+The City of Edinburgh Council’s Traffic Regulation Orders Sub-committee [met on Tuesday 12th](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7799&Ver=4){target="_blank" rel="noopener noreferrer"}, to decide on a number of the final ‘Travelling Safely’ schemes for walking, wheeling and cycling safely in south Edinburgh.
 
 For more background and detail on the schemes up for decision, [read our most recent article](../2026-05-04-quiet-route-paperwork-problems) on the matter for greater context. 
 
@@ -20,13 +20,13 @@ Incredibly, in the week following that piece, it emerged that a third filter on 
 
 ![A mass of people gather in the sunshine outside of a civic building with a banner that reads 'keep our kids safe'](./assets/images/cover.jpeg)
 
-A welcome sight was a rally ahead of the meeting staged by [Edinburgh Critical Mass](https://edinburghcriticalmass.wordpress.com/){target="_blank" rel="noopenernoreferrer"} and [Blackford Safe Routes](https://blackfordsaferoutes.co.uk/keep-our-kids-safe/){target="_blank" rel="noopenernoreferrer"}. The gathered parents, cyclists, walkers and activists held a banner reading _'Keep our kids safe'_ and led chants, explained what was at stake to passers-by, and greeted Councillors as they arrived for the meeting.
+A welcome sight was a rally ahead of the meeting staged by [Edinburgh Critical Mass](https://edinburghcriticalmass.wordpress.com/){target="_blank" rel="noopener noreferrer"} and [Blackford Safe Routes](https://blackfordsaferoutes.co.uk/keep-our-kids-safe/){target="_blank" rel="noopener noreferrer"}. The gathered parents, cyclists, walkers and activists held a banner reading _'Keep our kids safe'_ and led chants, explained what was at stake to passers-by, and greeted Councillors as they arrived for the meeting.
 
 Many thanks to all who turned up - we believe your presence at these key decisions brings the issues to life and underscores we're far more than emails in an inbox.
 
 ---
 
-Amended papers for the ‘TRO Sub’ meeting were published ahead, including the second version of the [report on the southern routes](https://democracy.edinburgh.gov.uk/documents/s98371/4.1%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Connection%20ETRO.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] and the relevant [appendices](https://democracy.edinburgh.gov.uk/documents/s98372/4.1%20-%20Appendices%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Conn.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]. 
+Amended papers for the ‘TRO Sub’ meeting were published ahead, including the second version of the [report on the southern routes](https://democracy.edinburgh.gov.uk/documents/s98371/4.1%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Connection%20ETRO.pdf){target="_blank" rel="noopener noreferrer"} [PDF] and the relevant [appendices](https://democracy.edinburgh.gov.uk/documents/s98372/4.1%20-%20Appendices%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Conn.pdf){target="_blank" rel="noopener noreferrer"} [PDF]. 
 
 ---
 
@@ -65,7 +65,7 @@ This is not surprising given that these are popular routes, and that as per inde
 ### 🌳 Greenbank to Meadows Quiet Route
 
 ![An annotated map showing a route through city streets with photographs at different points](./assets/images/G2M-Map-Update-2026-thumbnail--v2--smaller.jpg)
-_Our updated map of the Greenbank to Meadows Quiet Route -_ [download as PDF](../../../files/2026/05-G2M-Map-Update/G2M-Map-Update-2026--v2.pdf){target="_blank" rel="noopenernoreferrer" download} »
+_Our updated map of the Greenbank to Meadows Quiet Route -_ [download as PDF](../../../files/2026/05-G2M-Map-Update/G2M-Map-Update-2026--v2.pdf){target="_blank" rel="noopener noreferrer" download} »
 
 The quiet route was absolutely the focus of debate and questions for officers, mired as this scheme has been by a long saga of consultative mismanagement, and interference from since-censured local councillors. 
 
@@ -123,4 +123,4 @@ The administration have ruled out another ETRO, which seems appropriate given th
 
 ---
 
-➡️ &nbsp;[Follow us](https://bsky.app/profile/edi.bike){target="_blank" rel="noopenernoreferrer"} or [subscribe](/){target="_blank" rel="noopenernoreferrer"} for more coverage as this saga concludes.
+➡️ &nbsp;[Follow us](https://bsky.app/profile/edi.bike){target="_blank" rel="noopener noreferrer"} or [subscribe](/){target="_blank" rel="noopener noreferrer"} for more coverage as this saga concludes.

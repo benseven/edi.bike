@@ -4,7 +4,7 @@ layout: article.njk
 
 title: '🅿️ Hire bikes blocking cycle parking: December update'
 
-# {target="_blank" rel="noopenernoreferrer"}
+# {target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -16,7 +16,7 @@ As we've outlined previously, on our project page, 🔒 [Keeping Edinburgh's cyc
 
 > During this 'trial' period in Edinburgh, there are a number of issues cropping up with the impact of the bikes on the streetscape - and as some had predicted, the parking of the bikes is creating some less than ideal situations for pedestrians and cyclists alike. Among these is the parking of Voi bikes in cycle parking racks, which we're taking up with Voi as something we'd like to see action on.
 
-A couple of weeks into the campaign, [gathering photos and locations](/projects/2025-11-voi-cycle-rack-parking#rack-parking-in-pictures){target="_blank"} from readers of edi.bike of locations where cycle racks are being blocked or taken up, hire bike operators [Voi](https://www.voi.com/){target="_blank" rel="noopenernoreferrer"} reached out, offering to discuss the impact the scheme is having in the capital - and possible changes.
+A couple of weeks into the campaign, [gathering photos and locations](/projects/2025-11-voi-cycle-rack-parking#rack-parking-in-pictures){target="_blank"} from readers of edi.bike of locations where cycle racks are being blocked or taken up, hire bike operators [Voi](https://www.voi.com/){target="_blank" rel="noopener noreferrer"} reached out, offering to discuss the impact the scheme is having in the capital - and possible changes.
 
 We also heard from Voi that **while a fleet size of 800 is the current goal for the city, this won't be rolled out by the end of the year** as has been reported elsewhere - but instead on a more gradual, incremental basis. This is good news for those of us looking to feed back on the effects of the scheme on amenities and the capital's public realm. 
 
@@ -32,7 +32,7 @@ It was clear from our conversation that Voi, perhaps more than some of the other
 
 ## ✨ Parking in cycle racks - behaviours and realities
 
-It's pretty clear from [the geographic spread](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=11ypMYa6hSnjid1HMFuv78IyAdwpVo0w&ll=55.9626341041915,-3.1919221878051807&z=10){target="_blank" rel="noopenernoreferrer"} and different uses of cycle racks for Voi bikes in the city that there are a few key factors at play:
+It's pretty clear from [the geographic spread](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=11ypMYa6hSnjid1HMFuv78IyAdwpVo0w&ll=55.9626341041915,-3.1919221878051807&z=10){target="_blank" rel="noopener noreferrer"} and different uses of cycle racks for Voi bikes in the city that there are a few key factors at play:
 
 * 🏠 The 'natural' home for a bike is a bike rack - particularly to Voi users who don't cycle their own bikes in the city, so don't necessarily consider the amenity cycle racks offer;
 
