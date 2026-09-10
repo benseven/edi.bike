@@ -10,14 +10,14 @@ The City of Edinburgh Council's **Transport and Environment Committee** ('TEC') 
 
 For background reading, links are included to our [agenda review last week](../2026-06-13-june-transport-committee-agenda/).
 
-> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7661&Ver=4){target="_blank" rel="noopen noreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7661/Public%20reports%20pack%2018th-Jun-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s100275/Item%205.1%20-%20Work%20Programme%20-%20June%202026.pdf){target="_blank" rel="noopen noreferrer"}    {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"}
+> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7661&Ver=4){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7661/Public%20reports%20pack%2018th-Jun-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s100275/Item%205.1%20-%20Work%20Programme%20-%20June%202026.pdf){target="_blank" rel="noopenernoreferrer"}    {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopenernoreferrer"}
 
 ---
 
 ## 📋 Work programme 
-📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"} from 1h 20m
+📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopenernoreferrer"} from 1h 20m
 
-Committee can ask questions regarding the committee's [Work Programme](https://democracy.edinburgh.gov.uk/documents/s100275/Item%205.1%20-%20Work%20Programme%20-%20June%202026.pdf){target="_blank" rel="noopen noreferrer"} [PDF] and Councillor Booth (Green group) asked about the timetabling of a final report on the Trams to Newhaven project which is slated for September TEC; specifically asking that being aware of numerous unresolved snagging items, whether Officers are confident these will be resolved prior to that report.
+Committee can ask questions regarding the committee's [Work Programme](https://democracy.edinburgh.gov.uk/documents/s100275/Item%205.1%20-%20Work%20Programme%20-%20June%202026.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] and Councillor Booth (Green group) asked about the timetabling of a final report on the Trams to Newhaven project which is slated for September TEC; specifically asking that being aware of numerous unresolved snagging items, whether Officers are confident these will be resolved prior to that report.
 
 Officers response was that there is continuing work on the snags, with a hard landscape squad starting this Monday 22nd rectifying majority of 'amber' items on the list, and that works should all be done by the time the festival embargo on roadworks begins, but will otherwise be completed by the September report. The response included a tantalising mention of the neglected space at **Elm Row**, where works to complete a revised layout have stalled, rumoured to be the result of a traffic order error.
 
@@ -27,7 +27,7 @@ A follow-up from Cllr Booth highlighted that the contractor's liability for snag
 
 ## 💼 Business Bulletin 
 
-📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 The Business Bulletin is home to less significant items that don't warrant a full report, or further updates on more significant past reports. 
 <br/>
@@ -37,7 +37,7 @@ The Business Bulletin is home to less significant items that don't warrant a ful
 📑 [Background on this item](../2026-06-13-june-transport-committee-agenda#a-modal-filter-for-royal-park-terrace) 
 
 #### 🎤 Deputation
-📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"} from 0h 20m
+📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopenernoreferrer"} from 0h 20m
 
 Residents from Spring Gardens and Royal Park Terrace return once again to the committee to give deputation, having visited in January of this year and made the case for a single modal filter on their streets to prevent it from being used as an alternative to main artery London Road, particularly on weekends when Holyrood Park is closed to through-traffic.
 
@@ -52,7 +52,7 @@ In questions to the residents' deputation, Councillors enquired about residents 
 <hr/>
 
 #### 💬 Discussion and Questions for Officers
-📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"} from 1h 33m
+📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopenernoreferrer"} from 1h 33m
 
 In questioning Officers later in the session, Councillors asked why it was felt that the _City Mobility Plan Capital Investment Programme_ ('CMP CIP') was the correct route, rather than another scheme like LTIP.
 
@@ -79,9 +79,9 @@ _"It's a fair challenge, we want to find a way to do these things quicker — th
 
 📑 [Background on this item](../2026-06-13-june-transport-committee-agenda#7-2-people-and-place-2026-27-grant-award-for-thistle-cycles) 
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100218/Item%207.2%20-%20People%20and%20Place%202026-27%20Grant%20Award.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100218/Item%207.2%20-%20People%20and%20Place%202026-27%20Grant%20Award.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
-Moved without discussion. Congratulations to [Thistle Foundation](https://www.thistle.org.uk/thistle-outdoors){target="_blank" rel="noopen noreferrer"} on their grant award!
+Moved without discussion. Congratulations to [Thistle Foundation](https://www.thistle.org.uk/thistle-outdoors){target="_blank" rel="noopenernoreferrer"} on their grant award!
 
 ---
 
@@ -89,12 +89,12 @@ Moved without discussion. Congratulations to [Thistle Foundation](https://www.th
 
 📑 [Background on this item](../2026-06-13-june-transport-committee-agenda#7-3-greenbank-to-meadows-quiet-connection-update) 
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100296/Item%207.3%20-%20Greenbank%20to%20Meadows%20Quiet%20Connection%20-%20Update.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100296/Item%207.3%20-%20Greenbank%20to%20Meadows%20Quiet%20Connection%20-%20Update.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 📝 [Written Deputations](https://democracy.edinburgh.gov.uk/documents/b28188/Deputations%2018th-Jun-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=10) [PDF, page 10 onwards] »
 
 #### 🎤 Deputations
-📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"} from: 
+📺 [View the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopenernoreferrer"} from: 
 0h 30m - **Braid Estates Safety First** (want filters removed)
 0h 37m - **Midmar Residents Group** (want filters removed)
 0h 44m - **St Peter's and Canaan Lane Primary School** (want filters retained)
@@ -143,7 +143,7 @@ Sadly Spokes' resources group have recently had to abandon their _'Join the dots
 
 🚸 We heard from representatives from the parent councils of **five different primary schools** on the route, as well as a strong deputation from residents within the estate in support, making calm, coherent and compelling pleas for the continuation of the filters - citing council policies and programmes, evidence of speed reduction and safety improvements, and the use of the route by children walking and cycling to school who stand to be in significantly more danger from through-traffic with the reestablishment of known rat-runs through the area if filters are taken out. What we saw at committee were residents and parents taking the time to organise and **back the City of Edinburgh Council on its own stated priorities and policies, which based on current progress read more like a fairy story than an instruction manual.**
 
-> 🎤 The two verbal deputations in support simply must be watched ([44m onwards](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopen noreferrer"})- there can be no clearer argument made and all involved made a fantastic case - extremely strong work and we're very grateful to those groups for their efforts.
+> 🎤 The two verbal deputations in support simply must be watched ([44m onwards](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027){target="_blank" rel="noopenernoreferrer"})- there can be no clearer argument made and all involved made a fantastic case - extremely strong work and we're very grateful to those groups for their efforts.
 
 There are, of course, a handful of **reasonable criticisms** of measures in the area, which the anti-filter groups will ocassionaly accidentally ricochet off of as they ramble away; there are a couple of routes where through-traffic to work around existing filter alignments has increased traffic on inner streets. 
 
@@ -164,10 +164,10 @@ If you take just one thing away from reading all of this — _other than a right
 
 ### 🚋 8.1 Trams consultation and market research report
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100192/Item%208.1%20-%20Trams%20from%20Granton%20to%20the%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20and%20Beyond%20Consultation.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
-🌐 [Supporting documents (list of 16)](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=86871#mgDocuments){target="_blank" rel="noopen noreferrer"} [Webpage, PDF Links] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100192/Item%208.1%20-%20Trams%20from%20Granton%20to%20the%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20and%20Beyond%20Consultation.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
+🌐 [Supporting documents (list of 16)](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=86871#mgDocuments){target="_blank" rel="noopenernoreferrer"} [Webpage, PDF Links] »
 
-> 🥄 This time round, we've [run out of spoons](https://en.wikipedia.org/wiki/Spoon_theory){target="_blank" rel="noopen noreferrer"}. 
+> 🥄 This time round, we've [run out of spoons](https://en.wikipedia.org/wiki/Spoon_theory){target="_blank" rel="noopenernoreferrer"}. 
 >
 > You'll need to round this one up for yourselves; [the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1100027) features this item from 4h 25m.
 >
@@ -176,4 +176,4 @@ If you take just one thing away from reading all of this — _other than a right
 ---
 
 ✨ **Donate to edi.bike**
-<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopen noreferrer"/></a>
+<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopenernoreferrer"/></a>

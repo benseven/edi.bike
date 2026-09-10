@@ -9,7 +9,7 @@ title: 🗳️ August's 'Full Council' meeting roundup
 
 As well as our bi-monthly coverage of the City of Edinburgh Council's **Transport & Environment Committee**, we also keep an eye on items at 'full council' meetings; on Thursday 27th August, the council convened at the City Chambers and included in their agenda were a number of cycling-adjacent items that we've covered below.
 
-> 📆 [Meeting Page](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=150&MId=7608&Ver=4){target="_blank" rel="noopen noreferrer"}  {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1118574/start_time/158000){target="_blank" rel="noopen noreferrer"}  {% pipespacer %}  📑 [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopen noreferrer"} [PDF]  {% pipespacer %}  🙋🏽 [Questions & Answers](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopen noreferrer"} [PDF]  
+> 📆 [Meeting Page](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=150&MId=7608&Ver=4){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1118574/start_time/158000){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %}  📑 [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopenernoreferrer"} [PDF]  {% pipespacer %}  🙋🏽 [Questions & Answers](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9){target="_blank" rel="noopenernoreferrer"} [PDF]  
 
 ---
 
@@ -47,31 +47,31 @@ And the response to what seem like valid criticisms raised — all of these thin
 
 ### 🔥 The Princes Street fire and aftermath - multiple motions
 
-Following a huge fire at the former Debenhams store, 109-112 Princes St in early July, the city centre has been fairly chaotic, to put it mildly. The building's shell needed significant works to stabilise [its historic structure and facades](https://threadinburgh.scot/2026/07/23/up-in-smoke-the-thread-about-princes-streets-fiery-history/){target="_blank" rel="noopen noreferrer"}, so teetering as a result of the fire that there was seen to be too much risk to continue running traffic, including trams, past the site lest the vibrations caused a collapse; so the street was severed just east of South Charlotte Street until it reopened on Saturday 29th August.
+Following a huge fire at the former Debenhams store, 109-112 Princes St in early July, the city centre has been fairly chaotic, to put it mildly. The building's shell needed significant works to stabilise [its historic structure and facades](https://threadinburgh.scot/2026/07/23/up-in-smoke-the-thread-about-princes-streets-fiery-history/){target="_blank" rel="noopenernoreferrer"}, so teetering as a result of the fire that there was seen to be too much risk to continue running traffic, including trams, past the site lest the vibrations caused a collapse; so the street was severed just east of South Charlotte Street until it reopened on Saturday 29th August.
 
-> The matter was discussed 📺 [on the meeting webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1118574/start_time/9512000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} from 2h 38m 32s in, until 3h 29m 45s.
+> The matter was discussed 📺 [on the meeting webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1118574/start_time/9512000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"} from 2h 38m 32s in, until 3h 29m 45s.
 
-All parties brought forward motions and addenda on the matter — heard together on the day, and subsequently drafted as a [composite motion](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=16){target="_blank" rel="noopen noreferrer"} [PDF, page 16] — with common central themes and asks:
+All parties brought forward motions and addenda on the matter — heard together on the day, and subsequently drafted as a [composite motion](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=16){target="_blank" rel="noopenernoreferrer"} [PDF, page 16] — with common central themes and asks:
 
- 📄 **8.1 by Councillor Meagher** (Labour, administration) - _Strengthening Edinburgh’s Transport and City Resilience Following the Princes Street Fires_ - [PDF](https://democracy.edinburgh.gov.uk/documents/s102133/Item%208.1%20-%20By%20Councillor%20Meagher%20-%20Strengthening%20Edinburghs%20Transport%20and%20City%20Resilience%20Following.pdf){target="_blank" rel="noopen noreferrer"}
+ 📄 **8.1 by Councillor Meagher** (Labour, administration) - _Strengthening Edinburgh’s Transport and City Resilience Following the Princes Street Fires_ - [PDF](https://democracy.edinburgh.gov.uk/documents/s102133/Item%208.1%20-%20By%20Councillor%20Meagher%20-%20Strengthening%20Edinburghs%20Transport%20and%20City%20Resilience%20Following.pdf){target="_blank" rel="noopenernoreferrer"}
 
 Instructs officers to _"prepare a report for the Transport and Environment Committee, at an appropriate stage which... reviews the impact of the Princes Street fire on Edinburgh’s transport network, including the operation of buses, trams, active travel routes and the wider road network"_ - and goes into detail about each category of resilience, continuity and planning the Council could and should consider to try and deal with future disruption more readily.
 
 > We'd expect _"at an appropriate stage"_ is to avoid putting a strict deadline on what sounds like a far-reaching and high-effort report... so it might be a while before this surfaces.
 
-📄 Motion **8.5 by Councillor Lang** (Liberal Democrats) - _Closure of Princes Street_ - [PDF](https://democracy.edinburgh.gov.uk/documents/s102137/Item%208.5%20-%20By%20Councillor%20Lang%20-%20Closure%20of%20Princes%20Street.pdf){target="_blank" rel="noopen noreferrer"}
+📄 Motion **8.5 by Councillor Lang** (Liberal Democrats) - _Closure of Princes Street_ - [PDF](https://democracy.edinburgh.gov.uk/documents/s102137/Item%208.5%20-%20By%20Councillor%20Lang%20-%20Closure%20of%20Princes%20Street.pdf){target="_blank" rel="noopenernoreferrer"}
 
 Largely in agreement with the Labour group, the Lib Dem motion _"Believes these events have shown a critical and unacceptable vulnerability and exposure for the city which must be addressed to minimise the chances of such disruption arising again in the future... Therefore requests that, once the priority work to reopen Princes Street is complete, officers initiate a comprehensive review of the business continuity plans and civil contingency arrangements for Princes Street and its surrounding areas."_
 
 It recognises the report to be a significant piece of work, and _"requests that officers provide the November 2026 meeting of the Policy & Sustainability Committee with a timeline for how this work can be undertaken"_ -  including when it might be delivered, and whether any additional budget is required.
 
-📄 **8.15 by Councillor Mumford** (Green group) - _Princes Street Fire_ - [PDF](https://democracy.edinburgh.gov.uk/documents/s102201/Item%208.15%20-%20By%20Councillor%20Mumford%20-%20Princes%20Street%20Fire.pdf){target="_blank" rel="noopen noreferrer"}
+📄 **8.15 by Councillor Mumford** (Green group) - _Princes Street Fire_ - [PDF](https://democracy.edinburgh.gov.uk/documents/s102201/Item%208.15%20-%20By%20Councillor%20Mumford%20-%20Princes%20Street%20Fire.pdf){target="_blank" rel="noopenernoreferrer"}
 
 The Greens called for various mitigations while Princes St is closed - as in the run up to the meeting, there was no guaranteed reopening announced - including for Officers to _"consider the feasibility of restricting private cars from the blocks bounded by Princes Street, Frederick Street, Queen Street and Charlotte Square except where access is required for the remaining duration of the road closure, in order to ease congestion and the impact on the public transport network"_; to also seek an increase in Voi hire bike numbers, consider compulsory purchase of the site, circulate the council's response to the Edinburgh Bus Users Group's open letters on the subject, as well as passing along a list of the signal changes made to ease traffic in the area; and also called for a similar "lessons learned" report that others were pursuing.
 
 #### 📑 Composite motion and debate
 
-The [composite motion](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=16){target="_blank" rel="noopen noreferrer"} [PDF, page 16] formed by the three parties was then discussed with contributions from all groups — worth a watch on the webcast, the administration's take from 2h 38m, and other groups from 2h 47m — with some notable quotes below amidst the commendations for the fire service, contractors and council officers that worked hard to get the street open again.
+The [composite motion](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=16){target="_blank" rel="noopenernoreferrer"} [PDF, page 16] formed by the three parties was then discussed with contributions from all groups — worth a watch on the webcast, the administration's take from 2h 38m, and other groups from 2h 47m — with some notable quotes below amidst the commendations for the fire service, contractors and council officers that worked hard to get the street open again.
 
 For the Lib Dems, Cllr Kevin Lang said:
 
@@ -83,7 +83,7 @@ Cllr Chas Booth for the Green group said:
 >
 > _"There has been some interest in the element of our motion that asks officers to consider mechanisms to restrict private cars in the area affected. This is not a particularly radical or bold idea. It's in line with previous council strategies around City Centre Transformation and reflects the priorities of the City Mobility Plan. So in conclusion, Lord Provost, I want to come back to the theme that two things can both be true at once. As Greens, we can be critical of some aspects of the Council response and we can also come together with other parties to agree a unanimous way forward."_
 
-In danger of just turning this 'round-up' into a full transcript of the proceedings, there was a significant and robust call for leadership from SNP Cllr Lesley Macinnes in moving an [SNP addendum](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=20){target="_blank" rel="noopen noreferrer"} [PDF, page 20] that plainly lays out some of the many failings of recent months:
+In danger of just turning this 'round-up' into a full transcript of the proceedings, there was a significant and robust call for leadership from SNP Cllr Lesley Macinnes in moving an [SNP addendum](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=20){target="_blank" rel="noopenernoreferrer"} [PDF, page 20] that plainly lays out some of the many failings of recent months:
 
 > _"The whole lessons learned approach is absolutely necessary... and we need to understand how we can better build resilience inside this city on all of the points that have been mentioned in that._
 >
@@ -115,7 +115,7 @@ Between Princes Street and the myriad of other problems across the city this sum
 
 > Put simply, we need the Council to show the poltical will to take robust, evidence-backed approaches to wrangling transport movements in the city _especially when they're opposed_ - not just to say it in the press and have reports prepared on it, but to **deliver**. It's no surprise to anyone keeping even half an eye on Edinburgh's ability to deliver accessible and reprioritised modern transport infrastucture that we fall apart in a crisis; we're not really managing the table stakes, never mind when the pressure is raised.
 
-After a tense exchange regarding the SNP's comments and tabled addendum, the administration moved the composite motion accepting a [Conservative addendum](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=22){target="_blank" rel="noopen noreferrer"} [PDF, page 22] — primarily concerned with establishing why planned secondary stabling for Trams at Newhaven was never delivered — and points six through nine of the [SNP addendum](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=20){target="_blank" rel="noopen noreferrer"} [PDF, page 20]; which then passed 45 votes to 14.
+After a tense exchange regarding the SNP's comments and tabled addendum, the administration moved the composite motion accepting a [Conservative addendum](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=22){target="_blank" rel="noopenernoreferrer"} [PDF, page 22] — primarily concerned with establishing why planned secondary stabling for Trams at Newhaven was never delivered — and points six through nine of the [SNP addendum](https://democracy.edinburgh.gov.uk/documents/b28471/Motions%20and%20Amendments%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=20){target="_blank" rel="noopenernoreferrer"} [PDF, page 20]; which then passed 45 votes to 14.
 
 **So we will see an extensive report on Princes Street, on crisis management, on how our transport network can become more resilient; as though the answers to this don't already lie in already agreed but undelivered City Centre Transformation plans, the City Mobility Plan, and the myriad other ambitious strategies that have yet to tangibly show up on the streets of the capital and prioritise travel modes with resilience built in.**
 
@@ -126,11 +126,11 @@ After a tense exchange regarding the SNP's comments and tabled addendum, the adm
 
 > In addition to this motion by Liberal Democract Councillor Jack Caldwell, there were two questions for the Transport Convener tabled for this council meeting - one from Caldwell, and another by Green Cllr Chas Booth. Covering all three below.
 
-In the months that have passed since the closure of the bridge over the Water of Leith in St Mark's Park, we've seen a number of mentions from the community of the issues the closure creates - possibly best summed up by a recent comment on [City Cycling Edinburgh](http://citycyclingedinburgh.info){target="_blank" rel="noopen noreferrer"}:
+In the months that have passed since the closure of the bridge over the Water of Leith in St Mark's Park, we've seen a number of mentions from the community of the issues the closure creates - possibly best summed up by a recent comment on [City Cycling Edinburgh](http://citycyclingedinburgh.info){target="_blank" rel="noopenernoreferrer"}:
 
 > 💬 _"This isn't just some little out of the way "nice to have" footbridge, the existing alternative is much longer and not suitable for many types of people who have limited mobility or need mobility aids, and accessing that end of McDonald Road via the park is the only relatively low-traffic, relatively flat route by bike from North Edinburgh into town unless you want to go all the way around the steep hills via Roseburn or the Foot of the Walk.” — Yodhrin_
 
-[Freedom of Information requests](https://www.whatdotheyknow.com/request/closure_of_st_marks_path_bridge){target="_blank" rel="noopen noreferrer"} by path users revealed that while the report from an engineering firm's inspection in June recommended urgently closing the bridge to the public, there have been no subsequent meetings regarding the asset - with one local user posting:  
+[Freedom of Information requests](https://www.whatdotheyknow.com/request/closure_of_st_marks_path_bridge){target="_blank" rel="noopenernoreferrer"} by path users revealed that while the report from an engineering firm's inspection in June recommended urgently closing the bridge to the public, there have been no subsequent meetings regarding the asset - with one local user posting:  
 
 > ![A green fence with doorway across a wooden footbridge in a green park](./assets/stmarks.jpg)
 >
@@ -142,15 +142,15 @@ In the months that have passed since the closure of the bridge over the Water of
 > _No plan for repair_
 > _No communication with local community_
 >
-> — Andrew Heald [on Bluesky](https://bsky.app/profile/andyheald.bsky.social/post/3mtvbdjlmcs2h ){target="_blank" rel="noopen noreferrer"}
+> — Andrew Heald [on Bluesky](https://bsky.app/profile/andyheald.bsky.social/post/3mtvbdjlmcs2h ){target="_blank" rel="noopenernoreferrer"}
 
-Frequent users of the path see it as a vital link in their journeys with no real alternative - and are frustrated with the Council's lack of transparency and communication on the issue, as well as the failure to provide an alternative - all covered in hyperlocal news stirrer [The Spurtle](https://www.broughtonspurtle.org.uk/news/no-new-powderhall-footbridge-until-2028){target="_blank" rel="noopen noreferrer"}{target="_blank" rel="noopen noreferrer"} this week.
+Frequent users of the path see it as a vital link in their journeys with no real alternative - and are frustrated with the Council's lack of transparency and communication on the issue, as well as the failure to provide an alternative - all covered in hyperlocal news stirrer [The Spurtle](https://www.broughtonspurtle.org.uk/news/no-new-powderhall-footbridge-until-2028){target="_blank" rel="noopenernoreferrer"}{target="_blank" rel="noopenernoreferrer"} this week.
 
 #### 📥 Questions for the Transport Convener
 
-📄 [Question & Answer 10.9 by Councillor Caldwell - St Mark's Park Bridge Repair Prioritisation](https://democracy.edinburgh.gov.uk/documents/s102609/Questions%20and%20Answers%20-%20For%20Mod%20Gov%20V2.pdf#page=17){target="_blank" rel="noopen noreferrer"} [PDF, page 17]
+📄 [Question & Answer 10.9 by Councillor Caldwell - St Mark's Park Bridge Repair Prioritisation](https://democracy.edinburgh.gov.uk/documents/s102609/Questions%20and%20Answers%20-%20For%20Mod%20Gov%20V2.pdf#page=17){target="_blank" rel="noopenernoreferrer"} [PDF, page 17]
 
-📄 [Question & Answer 10.24 by Councillor Booth - St Mark's Park Bridge](https://democracy.edinburgh.gov.uk/documents/s102609/Questions%20and%20Answers%20-%20For%20Mod%20Gov%20V2.pdf#page=44){target="_blank" rel="noopen noreferrer"} [PDF, page 44]
+📄 [Question & Answer 10.24 by Councillor Booth - St Mark's Park Bridge](https://democracy.edinburgh.gov.uk/documents/s102609/Questions%20and%20Answers%20-%20For%20Mod%20Gov%20V2.pdf#page=44){target="_blank" rel="noopenernoreferrer"} [PDF, page 44]
 
 The answers establish:
 
@@ -170,9 +170,9 @@ And that the local community could face a wait measured in years, not months:
 
 #### 📄 Motion at Full Council
 
-📄 [Motion 8.9 by Cllr Caldwell](https://democracy.edinburgh.gov.uk/documents/s102141/Item%208.9%20-%20By%20Councillor%20Caldwell%20-%20St%20Marks%20Park%20Bridge%20Closure.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
+📄 [Motion 8.9 by Cllr Caldwell](https://democracy.edinburgh.gov.uk/documents/s102141/Item%208.9%20-%20By%20Councillor%20Caldwell%20-%20St%20Marks%20Park%20Bridge%20Closure.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
 
-📺 Webcast [from 4h 31m](https://edinburgh.public-i.tv/site/mg_bounce.php?mg_a_id=88474&mg_m_id=7608&language=en_GB){target="_blank" rel="noopen noreferrer"}
+📺 Webcast [from 4h 31m](https://edinburgh.public-i.tv/site/mg_bounce.php?mg_a_id=88474&mg_m_id=7608&language=en_GB){target="_blank" rel="noopenernoreferrer"}
 
 The motion acknowledges the closure, and also a motion from back in November when St Mark's Path and the bridge over the Water of Leith was closed for adjacent development works, until local councillors mobilised to have changes made to the developer's use of the site and got the path reopened. Cllr Caldwell _"Requests a Business Bulletin update in two cycles to the Culture and Communities Committee outlining the next steps and financial costs to reopen or rebuild the bridge."_ - which given this committee has just recently met and is on an eight week 'cycle', is really too long to wait for 'next steps'.
 
@@ -188,9 +188,9 @@ The motion passed - including the Green addendum — with no opposition. The add
 
 ### 🦓 8.10 by Councillor Booth - Continental or Side-road Zebra Crossings
 
-📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102196/Item%208.10%20-%20By%20Councillor%20Booth%20-%20Continental%20or%20Side-road%20Zebra%20Crossings.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
+📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102196/Item%208.10%20-%20By%20Councillor%20Booth%20-%20Continental%20or%20Side-road%20Zebra%20Crossings.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
 
-📺 Webcast [from 4h 35m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1118574/start_time/16489000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"}
+📺 Webcast [from 4h 35m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1118574/start_time/16489000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"}
 
 Speaking to this motion at Full Council, Cllr Booth said:
 
@@ -218,7 +218,7 @@ Questions are submitted ahead of the meeting and answered on paper by the releva
 
 ### 🗼 10.12 by Councillor Lang - Replacement of Soft Segregation Units
 
-📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=23){target="_blank" rel="noopen noreferrer"} [PDF, page 23]
+📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=23){target="_blank" rel="noopenernoreferrer"} [PDF, page 23]
 
 Lib Dem Councillor Lang, sworn enemy of the monochrome bollard, is fishing for updates on the covid-era 'Travelling safely' schemes.
 
@@ -248,7 +248,7 @@ In the southside, Summerhall has also (partly, pending the annual festival roadw
 
 ### 🐕‍🦺 10.22 by Councillor Booth - Pedestrian Build-out on George IV Bridge around Greyfriars Bobby
 
-📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=41){target="_blank" rel="noopen noreferrer"} [PDF, page 41]
+📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=41){target="_blank" rel="noopenernoreferrer"} [PDF, page 41]
 
 Apparently _"the Road Safety Audit for this intervention identified signage as an appropriate response to the potential impact on those cycling on the road"_, so if you've had a recent close call going through this intentionally-crafted pinch point on one of the city's busiest cycle routes, **no you haven't**.
 
@@ -260,7 +260,7 @@ Great. We can chalk this up with the sometimes / occasional / opt-in drive-throu
 
 ### 🅿️ 10.27 by Councillor Booth - Cycle Parking
 
-📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=52){target="_blank" rel="noopen noreferrer"} [PDF, page 52]
+📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=52){target="_blank" rel="noopenernoreferrer"} [PDF, page 52]
 
 This request from the Green group — for the number of on-street secure cycle parking hangars, and cycle storage spaces within those hangars, as well as information on requests for spaces and hangars — for each year since 2020 including running totals and plans for the next three years, has yielded some rich and interesting data in the answer pages; probably enough to justify its own article, especially as it also contains information about the total number of public use cycle parking spaces (like on-street 'Sheffield stands').
 
@@ -271,7 +271,7 @@ It's good to see progress - it's also clear from both this data and general wait
 
 ### ⬅️ 10.28 by Councillor Booth - Summerhall Junction
 
-📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=57){target="_blank" rel="noopen noreferrer"} [PDF, page 57]
+📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28470/Questions%20and%20Answers%2027th-Aug-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=57){target="_blank" rel="noopenernoreferrer"} [PDF, page 57]
 
 In response to a question about the 'left-hook' dangers for northbound cycle traffic funnelled through a newly realigned and kerb-segregated cycleway at Summerhall, the Convener responded:
 
@@ -281,7 +281,7 @@ Aye, OK then:
 
 <figure>
   <img src="./assets/summerhall.jpg"/>
-  <figcaption>Image: Blackford Safe Routes <a noopen noreferrer target="_blank" href="https://bsky.app/profile/blackfordsaferoutes.co.uk/post/3msvyutt4bk2j">on Bluesky</a></figcaption>
+  <figcaption>Image: Blackford Safe Routes <a noopenernoreferrer target="_blank" href="https://bsky.app/profile/blackfordsaferoutes.co.uk/post/3msvyutt4bk2j">on Bluesky</a></figcaption>
 </figure>
 
 > The road layout here has historically been a left-turn only lane, a painted cycleway, and then straight-on and right-turn only lanes; which if you understand that a cyclist going straight on would generally prefer _not_ to be hit by a car turning left, makes for a fairly reasonable design.
@@ -313,4 +313,4 @@ Honestly, **good**. But later than any safety-critical intervention should have 
 ---
 
 ✨ **Donate to edi.bike:**<br/>
-<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopen noreferrer"/></a>
+<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopenernoreferrer"/></a>

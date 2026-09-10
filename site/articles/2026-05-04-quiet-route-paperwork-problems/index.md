@@ -10,7 +10,7 @@ title: 🫠 Transport Committee calls for permanent Greenbank to Meadows Quiet R
 
 [ _Deep sighing. A head hits a keyboard before beginning._ ]
 
-The City of Edinburgh Council’s Traffic Regulation Orders Sub-committee will [meet on the 12th of May](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7799&Ver=4){target="_blank" rel="noopen noreferrer"}, and make decisions on a number of measures to make up Traffic Regulation Orders from the ‘Travelling Safely’ COVID-era measures for walking, wheeling and cycling safely in south Edinburgh. These are:
+The City of Edinburgh Council’s Traffic Regulation Orders Sub-committee will [meet on the 12th of May](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=645&MId=7799&Ver=4){target="_blank" rel="noopenernoreferrer"}, and make decisions on a number of measures to make up Traffic Regulation Orders from the ‘Travelling Safely’ COVID-era measures for walking, wheeling and cycling safely in south Edinburgh. These are:
 
 * **Braid Rd** - waiting and loading restrictions that enable some (steadily more and more diluted and barely present) protected cycleway, and one key modal filter at Braidburn Terrace severing a key through-traffic route down Braid Rd into Morningside;
 
@@ -20,11 +20,11 @@ The City of Edinburgh Council’s Traffic Regulation Orders Sub-committee will [
 
 > Taken together, these schemes form a key safe cycling corridor for the south of the city (an area which doesn’t benefit from the off-road - former railway - paths found elsewhere in the city, and sorely otherwise lacks any safe cycling infrastructure). All other such corridors in the city, split into North, South, East and West area orders, have now been made permanent at this 'quasi-judicial' sub-committee, that makes the final, legal call and oversees the making of Traffic Regulation Orders.
 
-Papers for the ‘TRO Sub’ meeting were published late last week, including the [report on these southern routes](https://democracy.edinburgh.gov.uk/documents/s98026/4.1%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Connection%20-%20ETRO.pdf){target="_blank" rel="noopen noreferrer"} [PDF] and the relevant [appendices](https://democracy.edinburgh.gov.uk/documents/s98001/4.1%20-%20Appendices%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Conn.pdf){target="_blank" rel="noopen noreferrer"} [PDF]. 
+Papers for the ‘TRO Sub’ meeting were published late last week, including the [report on these southern routes](https://democracy.edinburgh.gov.uk/documents/s98026/4.1%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Connection%20-%20ETRO.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] and the relevant [appendices](https://democracy.edinburgh.gov.uk/documents/s98001/4.1%20-%20Appendices%20-%20Travelling%20Safely%20-%20Braid%20Road%20Comiston%20Road%20and%20Greenbank%20to%20Meadows%20Quiet%20Conn.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]. 
 
 In these papers we expected to see Council Officers recommend that all three schemes and the measures that they are comprised of be made permanent, and arguably **that’s what the Transport & Environment Committee meeting on 2nd April voted for** - from the information they were provided, a democratic vote was taken at an executive committee of the council, calling for the referral of the Greenbank to Meadows Quiet Route in particular to go before the TRO Sub-committee to be made permanent, and put the issues that have plagued it to bed and move on.
 
-Following the Transport Committee, [residents were celebrating](https://theedinburghreporter.co.uk/2026/04/braid-estate-residents-issue-call-to-maintain-quiet-route-measures/ ){target="_blank" rel="noopen noreferrer"} nearing the end of the uncertainty around the safer streets measures that have now been in place for five years. 
+Following the Transport Committee, [residents were celebrating](https://theedinburghreporter.co.uk/2026/04/braid-estate-residents-issue-call-to-maintain-quiet-route-measures/ ){target="_blank" rel="noopenernoreferrer"} nearing the end of the uncertainty around the safer streets measures that have now been in place for five years. 
 
 ---
  
@@ -62,7 +62,7 @@ The pitch to TRO Sub? “_Two of the filters you’re considering to make perman
  
 #### 🖍️ Other cities just... fix their mistakes
 
-Secondly - other local authorities, in England, have [raised Temporary Traffic Regulation Orders in the interim to cover errors](https://moderngov.rotherham.gov.uk/documents/s32888/Bramley%20TRO%20objection%20final.pdf){target="_blank" rel="noopen noreferrer"}. The inference being - **if we described something wrongly but it helps make our streets safer, maybe we should fix the description, not reintroduce road dangers**. Council Officers ruled out use of a TTRO to extend the deadline for the Quiet Route in order to ensure it had proper scrutiny and time to be made permanent - the experimental order expiring as it does on 15th June - but a clearly defined window of time allowing for errors in paperwork to be corrected has been used by other councils and could clearly be used here too, **with the political will to see this through rather than give up on our most vulnerable road users**.
+Secondly - other local authorities, in England, have [raised Temporary Traffic Regulation Orders in the interim to cover errors](https://moderngov.rotherham.gov.uk/documents/s32888/Bramley%20TRO%20objection%20final.pdf){target="_blank" rel="noopenernoreferrer"}. The inference being - **if we described something wrongly but it helps make our streets safer, maybe we should fix the description, not reintroduce road dangers**. Council Officers ruled out use of a TTRO to extend the deadline for the Quiet Route in order to ensure it had proper scrutiny and time to be made permanent - the experimental order expiring as it does on 15th June - but a clearly defined window of time allowing for errors in paperwork to be corrected has been used by other councils and could clearly be used here too, **with the political will to see this through rather than give up on our most vulnerable road users**.
 
 ---
  
@@ -79,7 +79,7 @@ Is this, in fact, just further capitulating to a vocal minority of drivers local
 
 > **"_In any other sensible world, when a mistake is made in the paperwork, IT IS FIXED - not by changing the physical world to match the incorrect documents, but by updating the text._** 
 >
-> **_Only Edinburgh council could make such a mess of it_"** — Blackford Safe Routes [on Bluesky](https://bsky.app/profile/blackfordsaferoutes.co.uk/post/3mkwsbpybm22v ){target="_blank" rel="noopen noreferrer"}
+> **_Only Edinburgh council could make such a mess of it_"** — Blackford Safe Routes [on Bluesky](https://bsky.app/profile/blackfordsaferoutes.co.uk/post/3mkwsbpybm22v ){target="_blank" rel="noopenernoreferrer"}
 
 ## ⚠️ We demand answers.
 
@@ -103,4 +103,4 @@ Opposition groups on social media are already claiming victory here, and residen
 
 The Transport Convener's email address is [Cllr.Stephen.Jenkinson@edinburgh.gov.uk](mailto:Cllr.Stephen.Jenkinson@edinburgh.gov.uk) — and the TRO Sub-committee will convene on 12th May 2026 at 2pm.
 
-📅 [Edinburgh Critical Mass](https://edinburghcriticalmass.wordpress.com/){target="_blank" rel="noopen noreferrer"} are planning a rally outside of the City Chambers (Royal Mile) on the **12th of May**, in support of the key cycle infrastructure in the south of the city referred to be made permanent at the Traffic Regulation Orders Sub-committee meeting that day; with the committee meeting starting at 2pm, this will likely be early afternoon. 
+📅 [Edinburgh Critical Mass](https://edinburghcriticalmass.wordpress.com/){target="_blank" rel="noopenernoreferrer"} are planning a rally outside of the City Chambers (Royal Mile) on the **12th of May**, in support of the key cycle infrastructure in the south of the city referred to be made permanent at the Traffic Regulation Orders Sub-committee meeting that day; with the committee meeting starting at 2pm, this will likely be early afternoon. 

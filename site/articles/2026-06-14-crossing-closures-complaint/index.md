@@ -54,12 +54,12 @@ Where contractors have reacted to a perceived risk by a misguided attempt to clo
 > The council, as roads authority, have a duty to co-ordinate works in the interests of safety (NRSWA 1991 Section 118).
 > It is our experience that change on the ground only results from the council's intervention as roads authority, and is a critical role.
 > 
-> Walking and cycling should be prioritised at works even it it causes delays to other traffic, as [stated by the Scottish Roadworks Commissioner](https://www.spokes.org.uk/wp-content/uploads/2024/01/2310-Kevin-Hamilton-Scottish-Road-Works-Commissioner.pdf){target="_blank" rel="noopen noreferrer"}.
+> Walking and cycling should be prioritised at works even it it causes delays to other traffic, as [stated by the Scottish Roadworks Commissioner](https://www.spokes.org.uk/wp-content/uploads/2024/01/2310-Kevin-Hamilton-Scottish-Road-Works-Commissioner.pdf){target="_blank" rel="noopenernoreferrer"}.
 > 
 > The Red Book states:
 _"You must ensure suitable provisions are made for the safety of cyclists passing or crossing the works. Particular care is needed where cycle lanes or cycle tracks are affected by street works or road works because these routes may be especially popular with cyclists. You should consider whether access on the carriageway can be preserved for cyclists, even if it needs to be closed to motor vehicles."_
 > 
-> The [council's fact sheet](https://www.spokes.org.uk/wp-content/uploads/2021/10/1905-Council-factsheet-based-on-current-law-Access-for-People-on-Bikes-Guidance.pdf){target="_blank" rel="noopen noreferrer"} also states (repeated from TSM chpt8):
+> The [council's fact sheet](https://www.spokes.org.uk/wp-content/uploads/2021/10/1905-Council-factsheet-based-on-current-law-Access-for-People-on-Bikes-Guidance.pdf){target="_blank" rel="noopenernoreferrer"} also states (repeated from TSM chpt8):
 > _"D3.32.18 When cycle routes, and other facilities for the exclusive use of cyclists and pedestrians, are affected by the road works the changes should be clearly signed well in advance of the road works._ 
 > _D3.32.19 Where there is cycle provision, such as cycle lanes or tracks, efforts should be made to keep these open or to provide an acceptable alternative during the road works."_
 > 

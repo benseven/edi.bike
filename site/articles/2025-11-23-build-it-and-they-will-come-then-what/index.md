@@ -4,7 +4,7 @@ layout: article.njk
 
 title: ⚒️ Build it and they will come; then what?
 
-# {target="_blank" rel="noopen noreferrer"}
+# {target="_blank" rel="noopenernoreferrer"}
 
 ---
 

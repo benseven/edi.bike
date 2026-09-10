@@ -199,7 +199,7 @@ Rack parking is far from the only issue with the trial scheme, but it's the firs
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11ypMYa6hSnjid1HMFuv78IyAdwpVo0w&ehbc=2E312F&noprof=1" width="1200" height="600" style="max-width: 100%; max-height: 60vh"></iframe>
 
-> 📍 [View the Google Map in a new tab](https://www.google.com/maps/d/u/0/edit?mid=11ypMYa6hSnjid1HMFuv78IyAdwpVo0w&usp=sharing){target="_blank" rel="noopen noreferrer"} »
+> 📍 [View the Google Map in a new tab](https://www.google.com/maps/d/u/0/edit?mid=11ypMYa6hSnjid1HMFuv78IyAdwpVo0w&usp=sharing){target="_blank" rel="noopenernoreferrer"} »
 
 ---
 

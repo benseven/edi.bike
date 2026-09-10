@@ -22,13 +22,13 @@ The City of Edinburgh Council's **Transport and Environment Committee** ('TEC') 
 
 ---
 
-> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=8122&Ver=4){target="_blank" rel="noopen noreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g8122/Public%20reports%20pack%2010th-Sep-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s103043/Item%206.1%20-%20Business%20Bulletin%20-%2010%20September%202026%20v2.pdf){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s102855/Item%205.1%20-%20Transport%20and%20Environment%20Work%20Programme%202026-27%20-%20Report.pdf){target="_blank" rel="noopen noreferrer"}
+> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=8122&Ver=4){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g8122/Public%20reports%20pack%2010th-Sep-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s103043/Item%206.1%20-%20Business%20Bulletin%20-%2010%20September%202026%20v2.pdf){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s102855/Item%205.1%20-%20Transport%20and%20Environment%20Work%20Programme%202026-27%20-%20Report.pdf){target="_blank" rel="noopenernoreferrer"}
 
 ---
 
 ## 💼 Business Bulletin 
 
-📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s103043/Item%206.1%20-%20Business%20Bulletin%20-%2010%20September%202026%20v2.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s103043/Item%206.1%20-%20Business%20Bulletin%20-%2010%20September%202026%20v2.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 The Business Bulletin is home to less significant items that don't warrant a full report, or further updates on more significant past reports. 
 
@@ -44,7 +44,7 @@ Recent accounts of Tarvit Street being _'permanently closed'_ to traffic have in
 
 <figure>
   <img src="./assets/tarvit.jpg" alt="A photograph of an urban street blocked with a clutter of redirection signage and traffic cones, meanwhile beyond the barrier cars and vans have accessed and remain in place regardless"/>
-  <figcaption>A modal filter strictly for the MacAskills of this world - how's your bunnyhop these days? Image: <a href="https://bsky.app/profile/jestermouse.bsky.social/post/3mtlfbhp5yc2g" target="_blank" rel="noopen noreferrer">Jester Mouse on Bluesky</a></figcaption>
+  <figcaption>A modal filter strictly for the MacAskills of this world - how's your bunnyhop these days? Image: <a href="https://bsky.app/profile/jestermouse.bsky.social/post/3mtlfbhp5yc2g" target="_blank" rel="noopenernoreferrer">Jester Mouse on Bluesky</a></figcaption>
 </figure>
 
 ---
@@ -63,7 +63,7 @@ More on [PDF page four](https://democracy.edinburgh.gov.uk/documents/s103043/Ite
 
 ### 📋 7.1 Petition for Consideration - Broomhall Road, Road calming measures 
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102779/Item%207.1%20-%20Petition%20for%20Consideration%20-%20Broomhall%20Road%20Road%20calming%20measures.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102779/Item%207.1%20-%20Petition%20for%20Consideration%20-%20Broomhall%20Road%20Road%20calming%20measures.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 Another Transport Committee meeting, another community worried about traffic volumes and unsafe driving on their street:
 
@@ -75,7 +75,7 @@ One would hope that councillors on the committee are paying attention to the reg
 
 ### 💰 7.4 Edinburgh Visitor Levy: New Projects
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102782/Item%207.4%20-%20Edinburgh%20Visitor%20Levy%20-%20New%20Projects.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102782/Item%207.4%20-%20Edinburgh%20Visitor%20Levy%20-%20New%20Projects.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 Edinburgh's 'Tourist tax' spending plans continue here, following a Special Council Meeting back in February which included a handful of new projects added to be assessed and considered - including a few under the transport remit:
 
@@ -89,14 +89,14 @@ Edinburgh's 'Tourist tax' spending plans continue here, following a Special Coun
 
 ### 🚊 7.6 Trams from Granton to the Edinburgh BioQuarter / Royal Infirmary of Edinburgh and Beyond Strategic Business Case
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102786/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20and%20Beyond%20St.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102786/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20and%20Beyond%20St.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 #### Appendices:
 
-* 📗 [Report 'Easy Read' summary](https://democracy.edinburgh.gov.uk/documents/s102787/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%201.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
-* 📑 [Strategic 'Outline' Business Case](https://democracy.edinburgh.gov.uk/documents/s102908/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%202.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
-* 💰 [National Wealth Fund Engagement](https://democracy.edinburgh.gov.uk/documents/s102788/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%203.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
-* 🔎 [Benefits & Impacts Summary](https://democracy.edinburgh.gov.uk/documents/s102789/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%204.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
+* 📗 [Report 'Easy Read' summary](https://democracy.edinburgh.gov.uk/documents/s102787/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%201.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
+* 📑 [Strategic 'Outline' Business Case](https://democracy.edinburgh.gov.uk/documents/s102908/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%202.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
+* 💰 [National Wealth Fund Engagement](https://democracy.edinburgh.gov.uk/documents/s102788/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%203.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
+* 🔎 [Benefits & Impacts Summary](https://democracy.edinburgh.gov.uk/documents/s102789/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%204.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
 
 A dense and information-rich update to the city's plans for a new north-south tram line, rumbling along; we're reasonably likely to see the much-debated northern section of this put to one side, particularly less than a year out from local council elections and with several political groups backing 'Save the Roseburn Path' — but this is unlikely to be the last we hear of the line to Granton either way...
 
@@ -110,9 +110,9 @@ We'll see how this continues to shake out on Thursday.
 
 ### 🚌 7.7 Turnhouse Road Bus Gate - Proposed Operating Hours for Experimental Traffic Regulation Order
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102791/Item%207.7%20-%20Turnhouse%20Road%20Bus%20Gate%20-%20Proposed%20Operating%20Hours%20for%20Experimental%20Traffic%20Regulation%20Or.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102791/Item%207.7%20-%20Turnhouse%20Road%20Bus%20Gate%20-%20Proposed%20Operating%20Hours%20for%20Experimental%20Traffic%20Regulation%20Or.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
-There's a number of plans and appendices linked to from this item on [the TEC Meeting Page](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=8122&Ver=4){target="_blank" rel="noopen noreferrer"} »
+There's a number of plans and appendices linked to from this item on [the TEC Meeting Page](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=8122&Ver=4){target="_blank" rel="noopenernoreferrer"} »
 
 This is set to be another contentious point for the West of the city, where the car is king; recent housing developments at Turnhouse specified a need to mitigate car dependency and introducing even more traffic, so a bus gate has always been planned here; locals wishing to drive absolutely everywhere with no care for ensuring public transport runs smoothly in order to be an attractive alternative to driving are already up in arms about something that was always on the cards being implemented. The council, perhaps surprisingly given its history with Experimental Traffic Regulation Orders (ETROs) are using one to trial a bus gate on Turnhouse Road and gather feedback and data from Lothian Buses. Expect Lib Dem whataboutery, frothy media pieces and angry comments sections.
 
@@ -120,7 +120,7 @@ This is set to be another contentious point for the West of the city, where the 
 
 ### 💼 7.8 Traffic Orders - TROs Sub-Committee Update: Improvements to the TRO Process
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102798/Item%207.8%20-%20Traffic%20Orders%20-%20TROs%20Sub-Committee%20Update%20-%20Improvements%20to%20the%20TRO%20Process.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s102798/Item%207.8%20-%20Traffic%20Orders%20-%20TROs%20Sub-Committee%20Update%20-%20Improvements%20to%20the%20TRO%20Process.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 Back in November 2025, TEC considered the future of its sub-committee responsible for vetting Traffic Regulation Orders ('TROs') and commissioned a follow-up report on potential improvements to the system. And, following the legal paperwork errors that required the removal of filters on the Greenbank to Meadows quiet route in June, it was also asked that a review be undertaken into how those errors came about, which this report also covers.
 
@@ -128,7 +128,7 @@ Of course, not only does the report fail to lay blame at the likely originator o
 
 It's also notable the way the council talks about TROs as a fact of life, when it's been pointed out many times that Edinburgh rather over-uses the process, which is time-consuming and has been blamed as one of the main reasons for delays in previous active travel projects. The fact that this report doesn't mention this particular procedural footgun is interesting when considering it offers suggestions to streamline the process further — rather than reducing the amount it resorts to orders to make changes.
 
-If you're interested in the inner legal workings, there's a lot of detail about the recommendations being made, and alongside the report there are also a whopping [nine appendices](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=88879#mgDocuments){target="_blank" rel="noopen noreferrer"}, including new templates for TRO Sub-committee reports.
+If you're interested in the inner legal workings, there's a lot of detail about the recommendations being made, and alongside the report there are also a whopping [nine appendices](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=88879#mgDocuments){target="_blank" rel="noopenernoreferrer"}, including new templates for TRO Sub-committee reports.
 
 
 ---
@@ -139,7 +139,7 @@ If you're interested in the inner legal workings, there's a lot of detail about 
 
 ### 🚙 9.2 By Councillor Cuthbert - Lothianburn Junction Traffic Trial - A702-A720
 
-📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102825/Item%209.2%20-%20By%20Councillor%20Cuthbert%20-%20Lothianburn%20Junction%20Traffic%20Trial%20-%20A702-A720.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102825/Item%209.2%20-%20By%20Councillor%20Cuthbert%20-%20Lothianburn%20Junction%20Traffic%20Trial%20-%20A702-A720.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 On the one hand, this is a really weird motion; the roads in question are not managed by the council but by BEAR Scotland, so the entire thing is essentially a Councillor (who happens to also be a ward councillor for the area the road is in) asking that CEC officers' time be spent on keeping them up to date with _something another organisation is doing_; which surely could have been asked of BEAR directly given the ward interest...
 
@@ -152,7 +152,7 @@ On the other hand, as Green group Cllr Ross McKenzie gleefully pointed out:
 > _"Fortunately, the good people at the Conservative and Unionist Party have brought a motion on Lothianburn Junction to this week's Transport & Environment Committee, so @chasbooth.bsky.social and I will have an opportunity to amend in requests for consideration of cycle safety._
 >
 > _"We're keen for input from anyone with experience of cycling this route."_
-> — Cllr Ross McKenzie [on Bluesky](https://bsky.app/profile/rosssmckenzie.bsky.social/post/3murseb7bnk2c){target="_blank" rel="noopen noreferrer"} 
+> — Cllr Ross McKenzie [on Bluesky](https://bsky.app/profile/rosssmckenzie.bsky.social/post/3murseb7bnk2c){target="_blank" rel="noopenernoreferrer"} 
 
 If you have cycled through this junction since the trial changes began and can share your experience, you can [use this link to email](mailto:Cllr.Ross.Mckenzie@edinburgh.gov.uk;chas.booth@edinburgh.gov.uk?subject=A702%20Trial%20Measures%20and%20Cycling&cc=hello@edi.bike&body=Dear%20Cllrs%20McKenzie%20and%20Booth%20—%0A%0AI%20am%20writing%20to%20you%20regarding%20the%20BEAR%20Scotland%20trial%20measures%20on%20the%20A702%20as%20covered%20in%20edi.bike%20this%20week...) Cllrs McKenzie and Booth directly, CC'ing edi.bike.
 
@@ -160,7 +160,7 @@ If you have cycled through this junction since the trial changes began and can s
 
 ### ⛔️ 9.4 By Councillor Gardiner - Safe Management of Street Closures
 
-📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102827/Item%209.4%20-%20By%20Councillor%20Gardiner%20-%20Safe%20Management%20of%20Street%20Closures.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102827/Item%209.4%20-%20By%20Councillor%20Gardiner%20-%20Safe%20Management%20of%20Street%20Closures.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 Requests a report from officers regarding the management of the 'Summertime Streets' closure of the Cowgate, a road which has had many promises of pedestrianisation over the years. A recent attempt at closing it for festival crowds saw unattended barriers moved and passed by through-traffic until it received media coverage following comments and video footage from Living Streets Edinburgh. 
 
@@ -171,4 +171,4 @@ The Transport & Enviroment Committee will meet this **Thursday, 10th September 2
 ---
 
 ✨ **Want to leave a tip?**<br/>
-<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopen noreferrer"/></a>
+<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopenernoreferrer"/></a>

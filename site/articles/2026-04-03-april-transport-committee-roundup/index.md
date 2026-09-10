@@ -10,12 +10,12 @@ The City of Edinburgh Council's **Transport and Environment Committee** ('TEC') 
 
 _For the first time in these web articles, we're directly linking back to our agenda article from each item ('Background' links) rather than giving context to them here - unless we didn't cover them already._
 
-> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7659&Ver=4){target="_blank" rel="noopen noreferrer"}  {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/site/mg_bounce.php?mg_a_id=84414&mg_m_id=7659&language=en_GB){target="_blank" rel="noopen noreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7659/Public%20reports%20pack%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s96670/Work%20Programme%2002.04.26.pdf){target="_blank" rel="noopen noreferrer"}  {% pipespacer %}  🗳️ [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b27879/Motions%20and%20Amendments%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopen noreferrer"}  {% pipespacer %}  💬 [Deputations](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopen noreferrer"}
+> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7659&Ver=4){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} 📺 [Webcast](https://edinburgh.public-i.tv/site/mg_bounce.php?mg_a_id=84414&mg_m_id=7659&language=en_GB){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7659/Public%20reports%20pack%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s96670/Work%20Programme%2002.04.26.pdf){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %}  🗳️ [Motions & Amendments](https://democracy.edinburgh.gov.uk/documents/b27879/Motions%20and%20Amendments%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %}  💬 [Deputations](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopenernoreferrer"}
 ---
 
 ## ☑️ Rolling Actions Log
 
-📄 [Rolling Actions Log](https://democracy.edinburgh.gov.uk/documents/s96671/Rolling%20Actions%20Log%20-%2002.04.26.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
+📄 [Rolling Actions Log](https://democracy.edinburgh.gov.uk/documents/s96671/Rolling%20Actions%20Log%20-%2002.04.26.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
 
 Following up on a successful Green motion at last TEC to get a briefing for stakeholder organisations with Voi and Officers around teething issues with the ebike hire scheme, Cllr Booth asked if a specific date had been set for the workshop. 
 
@@ -24,12 +24,12 @@ It seems diaries are being checked, with the session expected to take place **so
 ---
 
 ## 💼 Business Bulletin 
-📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
+📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
 
 ---
 
 ### 🦓 Page 1: Continental Crossing ('side road zebra') legislation 
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#page-1-continental-crossing-side-road-zebra-legislation){target="_blank"} {% pipespacer %} 💼 [Business Bulletin Item](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} 📄 [Transport Sec. Response](https://democracy.edinburgh.gov.uk/documents/g7659/Public%20reports%20pack%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10#page=85){target="_blank" rel="noopen noreferrer"} (PDF, page 85) 
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#page-1-continental-crossing-side-road-zebra-legislation){target="_blank"} {% pipespacer %} 💼 [Business Bulletin Item](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] {% pipespacer %} 📄 [Transport Sec. Response](https://democracy.edinburgh.gov.uk/documents/g7659/Public%20reports%20pack%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10#page=85){target="_blank" rel="noopenernoreferrer"} (PDF, page 85) 
 
 Addendums brought by the SNP, Lib Dem and Green groups proposed action to move this forward, engaging in the manner offered by the Transport Secretary.
 
@@ -42,7 +42,7 @@ In summarising, Green group councillor Kayleigh Kinross-O'Neill stated, having s
 
 ### ⛏️ Page 2: Road Works Co-ordination – Infrastructure Forum
 
-💼 [Business Bulletin Item](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf#page=2){target="_blank" rel="noopen noreferrer"} [PDF, page 2]
+💼 [Business Bulletin Item](https://democracy.edinburgh.gov.uk/documents/s96694/Business%20Bulletin%20-%202%20April%202026.pdf#page=2){target="_blank" rel="noopenernoreferrer"} [PDF, page 2]
 
 The proposal to create a quarterly 'Infrastructure Forum' took an interesting turn at the meeting, as the Business Bulletin published contained a list of ten Council roles involved, and the following list of stakeholders to invite:
 
@@ -67,14 +67,14 @@ In a [post on Bluesky](https://bsky.app/profile/robbieainsworth.bsky.social/post
 
 > _"Another step in the right direction for temporary disruption on Edinburgh's cycle network. With the correct planning, many cities are managing to keep cycle routes open through major construction works."_ — Robbie Ainsworth
 
-Robbie also linked to [this interesting article](https://mobycon.com/updates/putting-cyclists-first-how-rotterdam-is-rewriting-the-rules-for-construction/){target="_blank" rel="noopen noreferrer"} about disruption management in Rotterdam, who have made signficant improvements to prioritise consideration of cycling during major works.
+Robbie also linked to [this interesting article](https://mobycon.com/updates/putting-cyclists-first-how-rotterdam-is-rewriting-the-rules-for-construction/){target="_blank" rel="noopenernoreferrer"} about disruption management in Rotterdam, who have made signficant improvements to prioritise consideration of cycling during major works.
 
 ---
 
 ## 🗳️ Items for Decision
 
 ### 💰 7.1 Transport Capital Investment Programme – Annual Update
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#7-1-transport-capital-investment-programme-annual-update){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96700/Transport%20Capital%20Investment%20Programme%202026-27.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %}  📑 [Appendices](https://democracy.edinburgh.gov.uk/documents/s96701/Transport%20Capital%20Investment%20Programme%202026-27%20-%20Appendices%201%20-%208.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#7-1-transport-capital-investment-programme-annual-update){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96700/Transport%20Capital%20Investment%20Programme%202026-27.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] {% pipespacer %}  📑 [Appendices](https://democracy.edinburgh.gov.uk/documents/s96701/Transport%20Capital%20Investment%20Programme%202026-27%20-%20Appendices%201%20-%208.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
 
 Addendums brought by all groups on this matter: 
 
@@ -97,7 +97,7 @@ Otherwise, a consensus was formed from the majority of the addendum content - dr
 ---
 
 ### 🚎 7.3 Coach Plan - 'Early Deliverables'
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#7-3-coach-plan-early-deliverables){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96704/7.3%20-%20Coach%20Plan%20-%20Early%20Deliverables.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} [Appendix 4 — Slides](https://democracy.edinburgh.gov.uk/documents/s96708/7.3%20-%20Coach%20Plan%20-%20Early%20Deliverables%20-%20Appendix%204.pdf){target="_blank" rel="noopen noreferrer"} [PDF] 
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#7-3-coach-plan-early-deliverables){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96704/7.3%20-%20Coach%20Plan%20-%20Early%20Deliverables.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] {% pipespacer %} [Appendix 4 — Slides](https://democracy.edinburgh.gov.uk/documents/s96708/7.3%20-%20Coach%20Plan%20-%20Early%20Deliverables%20-%20Appendix%204.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] 
 
 * An SNP Group addendum added a consideration for whether the hours of operation for proposed coach spaces on King Stables Rd and Regent Rd should extend beyond weekday working hours;
 
@@ -109,16 +109,16 @@ These addendums were accepted by the administration at committee, and the report
 
 ### 🚲 Late Report - 'Greenbank to Meadows Quiet Connection'
 
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#9-2-motion-by-councillor-booth-implications-of-standards-commission-decision-for-greenbank-to-meadows-quiet-route){target="_blank"} {% pipespacer %} 📄 [Late Report](https://democracy.edinburgh.gov.uk/documents/b27834/Late%20Reports%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} 📄 [Green Motion (withdrawn)](https://democracy.edinburgh.gov.uk/documents/s96686/9.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} 🌐 [edi.bike - Project history](/articles/2026-03-15-braids-estate-filters-return-to-transport-committee/){target="_blank"}
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#9-2-motion-by-councillor-booth-implications-of-standards-commission-decision-for-greenbank-to-meadows-quiet-route){target="_blank"} {% pipespacer %} 📄 [Late Report](https://democracy.edinburgh.gov.uk/documents/b27834/Late%20Reports%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9){target="_blank" rel="noopenernoreferrer"} [PDF] {% pipespacer %} 📄 [Green Motion (withdrawn)](https://democracy.edinburgh.gov.uk/documents/s96686/9.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] {% pipespacer %} 🌐 [edi.bike - Project history](/articles/2026-03-15-braids-estate-filters-return-to-transport-committee/){target="_blank"}
 
-Originally we were expecting a [Green group motion](https://democracy.edinburgh.gov.uk/documents/s96686/9.pdf){target="_blank" rel="noopen noreferrer"} [PDF] which put this on the table for April's meeting, however in light of the Late Report by CEC officers being ruled urgent and included in the committee's agenda, the Green group withdrew the motion at the meeting in favour of an addendum to the report.
+Originally we were expecting a [Green group motion](https://democracy.edinburgh.gov.uk/documents/s96686/9.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] which put this on the table for April's meeting, however in light of the Late Report by CEC officers being ruled urgent and included in the committee's agenda, the Green group withdrew the motion at the meeting in favour of an addendum to the report.
 
 #### 💬 Deputations
-* 📺 Verbal Deputation [40m 30s into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/2424000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} by [Blackford Safe Routes](https://blackfordsaferoutes.co.uk/){target="_blank" rel="noopen noreferrer"}
-* 📺 Verbal Deputation [48m into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/2877000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} on behalf of Braid Avenue residents
-* 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=15){target="_blank" rel="noopen noreferrer"} [PDF, p15] by Braid Avenue residents
-* 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=16){target="_blank" rel="noopen noreferrer"} [PDF, p16] by Whitehouse Loan group
-* 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=17){target="_blank" rel="noopen noreferrer"} [PDF, p17] by [Spokes](https://spokes.org.uk)
+* 📺 Verbal Deputation [40m 30s into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/2424000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"} by [Blackford Safe Routes](https://blackfordsaferoutes.co.uk/){target="_blank" rel="noopenernoreferrer"}
+* 📺 Verbal Deputation [48m into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/2877000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"} on behalf of Braid Avenue residents
+* 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=15){target="_blank" rel="noopenernoreferrer"} [PDF, p15] by Braid Avenue residents
+* 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=16){target="_blank" rel="noopenernoreferrer"} [PDF, p16] by Whitehouse Loan group
+* 📝 [Written Deputation](https://democracy.edinburgh.gov.uk/documents/b27878/Deputations%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=17){target="_blank" rel="noopenernoreferrer"} [PDF, p17] by [Spokes](https://spokes.org.uk)
 
 All deputations relating to the withdrawn Green group motion on the quiet route were still heard for the Late Report instead.
 
@@ -132,9 +132,9 @@ The same question from Cllr Booth, asked of the representative for Braid Estate 
 
 > For debate and the vote on the matter, Green group **Cllr Chas Booth** excused himself due to a conflict of interest regarding involvement with a school on the route; instead **Cllr Ben Parker**, Green councillor for Morningside, deputised on this item.
 
-📺 Discussions took place from [3h 27m into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/12433000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"}.
+📺 Discussions took place from [3h 27m into the Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/12433000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"}.
 
-⌨️ There is also a [transcript of this section of the meeting published here](https://docs.google.com/document/d/1ZjlqIRfcNrWDYqVikUSQCAuPpnnYRKawenMT_gLSkKQ/edit?tab=t.0){target="_blank" rel="noopen noreferrer"}; _with edits, but accuracy not guaranteed_.
+⌨️ There is also a [transcript of this section of the meeting published here](https://docs.google.com/document/d/1ZjlqIRfcNrWDYqVikUSQCAuPpnnYRKawenMT_gLSkKQ/edit?tab=t.0){target="_blank" rel="noopenernoreferrer"}; _with edits, but accuracy not guaranteed_.
 
 Head of Transport, Strategy & Partnerships Deborah Paton introduced the scheme as having been intended 'to support walking, wheeling and cycling' and explained its original context as part of the 'South' area **Travelling Safely** schemes - a geographic Experimental Traffic Regulation Order ('ETRO' 21/29) which has since been made permanent at the Traffic Regulation Order Sub-Committee ('TRO Sub'). 
 
@@ -203,11 +203,11 @@ While we're not yet out of the woods for this key active travel corridor, it has
 
 ### 📍 8.1 Road Safety and Local Traffic Improvement Delivery Programme Update
 
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#8-1-road-safety-and-local-traffic-improvement-delivery-programme-update){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96696/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} [Appendix 1 - Road Safety projects](https://democracy.edinburgh.gov.uk/documents/s96698/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update%20-%20Appendix%201.pdf){target="_blank" rel="noopen noreferrer"} [PDF] {% pipespacer %} [Appendix 2 - LTI Projects](https://democracy.edinburgh.gov.uk/documents/s96697/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update%20-%20Appendix%202.pdf){target="_blank" rel="noopen noreferrer"} [PDF]
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#8-1-road-safety-and-local-traffic-improvement-delivery-programme-update){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96696/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] {% pipespacer %} [Appendix 1 - Road Safety projects](https://democracy.edinburgh.gov.uk/documents/s96698/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update%20-%20Appendix%201.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] {% pipespacer %} [Appendix 2 - LTI Projects](https://democracy.edinburgh.gov.uk/documents/s96697/Road%20Safety%20and%20LTI%20Delivery%20Programme%20Update%20-%20Appendix%202.pdf){target="_blank" rel="noopenernoreferrer"} [PDF]
 
-> 📺 [Webcast from 4h 13m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/15180000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} onwards.
+> 📺 [Webcast from 4h 13m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/15180000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"} onwards.
 
-This item attracted a fairly damning [Lib Dem amendment](https://democracy.edinburgh.gov.uk/documents/b27879/Motions%20and%20Amendments%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=22){target="_blank" rel="noopen noreferrer"} [PDF, p22] concerned with (and breaking down) the level of progress being made. 
+This item attracted a fairly damning [Lib Dem amendment](https://democracy.edinburgh.gov.uk/documents/b27879/Motions%20and%20Amendments%2002nd-Apr-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=22){target="_blank" rel="noopenernoreferrer"} [PDF, p22] concerned with (and breaking down) the level of progress being made. 
 
 Officers referenced that a team of nine people at the peak of the safety team has dwindled to six, and that this should be addressed - but also that these are complex schemes each with their own background to get to grips with, and that there are many other external factors that can slow these down and take up officer time.
 
@@ -217,9 +217,9 @@ The report and Lib Dem amendment passed without requiring a vote.
 
 ### 💬 8.2 Communicating Road and Pavement Improvements
 
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#8-2-communicating-road-and-pavement-improvements){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96680/Communicating%20Road%20and%20Pavement%20Improvements.pdf){target="_blank" rel="noopen noreferrer"} [PDF] 
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#8-2-communicating-road-and-pavement-improvements){target="_blank"} {% pipespacer %} 📄 [Report](https://democracy.edinburgh.gov.uk/documents/s96680/Communicating%20Road%20and%20Pavement%20Improvements.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] 
 
-> 📺 [Webcast from 4h 27m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/16019000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} onwards.
+> 📺 [Webcast from 4h 27m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/16019000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"} onwards.
 
 A Liberal Democrat addendum asked for Business Bulletin update on this item, coming back to TEC in one year's time; and a Conservative addendum picks up on earlier proposals for ward-level information published to the Council's website in future.
 
@@ -233,9 +233,9 @@ This also passed with addenda incorporated, with a minor verbal adjustment to th
 
 ### 📏 9.1 Motion by Councillor Mowat - RSAs and TROs 
 
-🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#9-1-motion-by-councillor-mowat-rsas-and-tros){target="_blank"} {% pipespacer %} 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s96685/9.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+🗞️ [Background](/articles/2026-03-29-april-transport-committee-agenda/#9-1-motion-by-councillor-mowat-rsas-and-tros){target="_blank"} {% pipespacer %} 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s96685/9.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
-> 📺 [Webcast from 5h 2m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/18126000?force_language_code=en_GB){target="_blank" rel="noopen noreferrer"} onwards.
+> 📺 [Webcast from 5h 2m](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1084382/start_time/18126000?force_language_code=en_GB){target="_blank" rel="noopenernoreferrer"} onwards.
 
 This came about following a Freedom of Information request from New Town & Broughton Community Council, who clearly were unhappy following the introduction of several of the contraflow cycle streets recently agreed at the Transport Committee. 
 

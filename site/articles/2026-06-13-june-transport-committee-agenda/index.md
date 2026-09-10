@@ -8,12 +8,12 @@ title: 🤝 June 2026 Transport & Environment Committee - Agenda
 
 The City of Edinburgh Council's **Transport and Environment Committee** ('TEC') meets this Thursday, 18th June 2026; we've had a potter around the paperwork and rounded up the matters adjacent to cycling and safer streets in the city this committee cycle.
 
-> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7661&Ver=4){target="_blank" rel="noopen noreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7661/Public%20reports%20pack%2018th-Jun-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopen noreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s100275/Item%205.1%20-%20Work%20Programme%20-%20June%202026.pdf){target="_blank" rel="noopen noreferrer"}
+> 🌐 [Meeting Page & Agenda](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7661&Ver=4){target="_blank" rel="noopenernoreferrer"}  {% pipespacer %} PDFs:  📑 [Full Agenda Reports Pack](https://democracy.edinburgh.gov.uk/documents/g7661/Public%20reports%20pack%2018th-Jun-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=10){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  💼 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopenernoreferrer"}   {% pipespacer %}  📋 [Work Programme](https://democracy.edinburgh.gov.uk/documents/s100275/Item%205.1%20-%20Work%20Programme%20-%20June%202026.pdf){target="_blank" rel="noopenernoreferrer"}
 ---
 
 ## 💼 Business Bulletin 
 
-📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Business Bulletin](https://democracy.edinburgh.gov.uk/documents/s100216/Item%206.1%20-%20Business%20Bulletin%20-%2018%20June%202026.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 The Business Bulletin is home to less significant items that don't warrant a full report, or further updates on more significant past reports. 
 
@@ -23,11 +23,11 @@ The Business Bulletin is home to less significant items that don't warrant a ful
 
 > "At the Transport and Environment Committee on 29 January 2026, a motion by Councillor Kinross O’Neill on Royal Park Terrace... was agreed as follows: To request that officers consider introducing a modal filter along this route to direct traffic along alternative arterial roads and to assess the effects of any proposed modal filter on neighbouring streets, reporting back to committee via the business bulletin within two cycles."
 
-Residents from Royal Park Terrace gave deputation to this motion [back in January](https://edi.bike/articles/2026-01-31-january-transport-committee-roundup#9-2-motion-by-councillor-kinross-o-neill-royal-park-terrace-and-radical-road){target="_blank" rel="noopen noreferrer"} - asking for a modal filter for their street, which suffers from rat-running through traffic attempting to bypass the busy London Road, and increasing the volume of cars passing the school and care home on this narrow residential road. So what are Officers suggesting now, two cycles (16 weeks) later?
+Residents from Royal Park Terrace gave deputation to this motion [back in January](https://edi.bike/articles/2026-01-31-january-transport-committee-roundup#9-2-motion-by-councillor-kinross-o-neill-royal-park-terrace-and-radical-road){target="_blank" rel="noopenernoreferrer"} - asking for a modal filter for their street, which suffers from rat-running through traffic attempting to bypass the busy London Road, and increasing the volume of cars passing the school and care home on this narrow residential road. So what are Officers suggesting now, two cycles (16 weeks) later?
 
 > "...introducing a modal filter would be a new project within the City Mobility Plan Capital Investment Programme (CMP CIP) and officers intent [sic] to score this potential project against other existing projects in the CMP CIP. Work on the annual progress update of the CMP CIP is already underway and will be reported to Transport and Environment Committee in September 2026. Through this review process, this potential project will be considered and scored for Councillors to consider." 
 
-So what we're saying is, for a rat-run killing modal filter installation on a single residential street, we need to add it to a [ten-year plan for major projects across the city](https://democracy.edinburgh.gov.uk/documents/s83902/7.5%20-%20CMP%20capital%20investment%20plan.pdf ){target="_blank" rel="noopen noreferrer"} and carefully score it amidst major scheme priorities?
+So what we're saying is, for a rat-run killing modal filter installation on a single residential street, we need to add it to a [ten-year plan for major projects across the city](https://democracy.edinburgh.gov.uk/documents/s83902/7.5%20-%20CMP%20capital%20investment%20plan.pdf ){target="_blank" rel="noopenernoreferrer"} and carefully score it amidst major scheme priorities?
 
 > "Officers note that should the project be taken forward under CMP CIP and subject to obtaining funding, more detailed traffic analysis would be required to better understand the potential impact of a modal filter on the functioning of the wider traffic network, in particular on buses."
 
@@ -73,7 +73,7 @@ Really interesting stats, shared with Councillors and stakeholders at the recent
 
 Impressive stats, and also good to see these being made public - a very successful scheme, and a very engaged and approachable team handling the integration with it at council level. 
 
-National Records of Scotland put Edinburgh's population at 506,520 in 2020; so the napkin-maths on this is that **around one in ten residents have used a Voi bike since September**, which is very decent going - with usage stats for the scheme being [hailed as one of the most successful in Europe](https://theedinburghreporter.co.uk/2026/06/bike-hire-scheme-is-most-successful-in-europe/){target="_blank" rel="noopen noreferrer"}. No wonder its rollout has earned the team involved [a commendation at the Scottish Transport Awards](https://bsky.app/profile/stephenjenkinson.bsky.social/post/3mo34yitci22i){target="_blank" rel="noopen noreferrer"}.
+National Records of Scotland put Edinburgh's population at 506,520 in 2020; so the napkin-maths on this is that **around one in ten residents have used a Voi bike since September**, which is very decent going - with usage stats for the scheme being [hailed as one of the most successful in Europe](https://theedinburghreporter.co.uk/2026/06/bike-hire-scheme-is-most-successful-in-europe/){target="_blank" rel="noopenernoreferrer"}. No wonder its rollout has earned the team involved [a commendation at the Scottish Transport Awards](https://bsky.app/profile/stephenjenkinson.bsky.social/post/3mo34yitci22i){target="_blank" rel="noopenernoreferrer"}.
 
 ---
 
@@ -81,7 +81,7 @@ National Records of Scotland put Edinburgh's population at 506,520 in 2020; so t
 
 ### 💰 7.2 'People and Place 2026-27 Grant Award' for Thistle Cycles 
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100218/Item%207.2%20-%20People%20and%20Place%202026-27%20Grant%20Award.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100218/Item%207.2%20-%20People%20and%20Place%202026-27%20Grant%20Award.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 This is the committee approval of a grant to provide:
 
@@ -89,13 +89,13 @@ This is the committee approval of a grant to provide:
 
 The opportunity is funded through the [SESTran](https://sestran.gov.uk/) 'People and Place' funding, which is _"offered to local authorities, charities and community groups across the South East of Scotland region for projects that will deliver active and sustainable travel behaviour change"._ 
 
-There were two applications to deliver the project, with the award being decided in favour of [Thistle Foundation](https://www.thistle.org.uk/thistle-outdoors){target="_blank" rel="noopen noreferrer"} and their outdoors programme - but any grant over £25k per year needs to be approved at committee as per the council's standing orders.
+There were two applications to deliver the project, with the award being decided in favour of [Thistle Foundation](https://www.thistle.org.uk/thistle-outdoors){target="_blank" rel="noopenernoreferrer"} and their outdoors programme - but any grant over £25k per year needs to be approved at committee as per the council's standing orders.
 
 ---
 
 ### 🌳 7.3 'Greenbank to Meadows Quiet Connection - Update'
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100296/Item%207.3%20-%20Greenbank%20to%20Meadows%20Quiet%20Connection%20-%20Update.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100296/Item%207.3%20-%20Greenbank%20to%20Meadows%20Quiet%20Connection%20-%20Update.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
 
 The [last time this came around](/articles/2026-04-03-april-transport-committee-roundup) was TEC in April, and it was decided that the Traffic Regulation Orders sub-committee would be passed the scheme more or less 'as is' to look to draw a line under the whole sorry ordeal and take something of a final vote.
 
@@ -157,8 +157,8 @@ We can only hope that within the as-yet-unpublished amendments and addenda from 
 
 ### 🚋 8.1 Trams consultation and market research report
 
-📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100192/Item%208.1%20-%20Trams%20from%20Granton%20to%20the%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20and%20Beyond%20Consultation.pdf){target="_blank" rel="noopen noreferrer"} [PDF] »
-🌐 [Supporting documents (list of 16)](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=86871#mgDocuments){target="_blank" rel="noopen noreferrer"} [Webpage, PDF Links] »
+📄 [Report](https://democracy.edinburgh.gov.uk/documents/s100192/Item%208.1%20-%20Trams%20from%20Granton%20to%20the%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20and%20Beyond%20Consultation.pdf){target="_blank" rel="noopenernoreferrer"} [PDF] »
+🌐 [Supporting documents (list of 16)](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=86871#mgDocuments){target="_blank" rel="noopenernoreferrer"} [Webpage, PDF Links] »
 
 **Oh good, this again! _Ding ding_**
 
@@ -177,11 +177,11 @@ Still some way to go for campaigners on either 'side' of the north-south mass tr
 
 ---
 
-There are, of course, [published Motions](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7661&Ver=4){target="_blank" rel="noopen noreferrer"} at this stage - but none of these are directly cycle-relevant, and amendments to other items have not yet been published.
+There are, of course, [published Motions](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=7661&Ver=4){target="_blank" rel="noopenernoreferrer"} at this stage - but none of these are directly cycle-relevant, and amendments to other items have not yet been published.
 
 The Transport & Enviroment Committee will meet this **Thursday, 18th June 2026**, and we'll have a round-up in our subsequent issues.
 
 ---
 
 ✨ **Want to leave a tip?**
-<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopen noreferrer"/></a>
+<a href="https://ko-fi.com/edibike"><img src="/assets/images/kofi.png" alt="Support us on Ko-fi" title="Click to support edi.bike" width="220px" target="_blank" rel="noopenernoreferrer"/></a>
