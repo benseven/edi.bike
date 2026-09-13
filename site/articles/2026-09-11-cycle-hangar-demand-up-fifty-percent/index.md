@@ -11,7 +11,7 @@ author__img: edtiss.jpg
 
 ---
 
-![A map of Edinburgh with the demand for cycle hangar spaces plotted as circles of varying sizes, with the largest clusters on city centre streets and especially significant demand in the North East of the city](./assets/map26.jpg){style="max-height: 80dvh"}
+![A map of Edinburgh with the demand for cycle hangar spaces plotted as circles of varying sizes, with the largest clusters on city centre streets and especially significant demand in the North East of the city](./assets/map26.png){style="max-height: 80dvh"}
 
 ### Demand for spaces in cycle hangars in Edinburgh has increased by 2,700 (50%) in the last 12 months.
 
