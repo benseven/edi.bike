@@ -100,23 +100,23 @@ The ask from the Green Group, by way of [an addendum](https://democracy.edinburg
 
 In moving the addendum, Cllr Booth said:
 
-> _"All our addenum seeks to do is to note the decision yesterday of the Planning committee... previously we had put George Street on hold with the idea that we might look at cycling on Princes Street and see if whether that could be an alternative for cycling provision; the decision yesterday was to proceed with Option 1, which does not allow for that on Princes Street, so all our addendum seeks to do is to say we have now got a gap in the CCWEL, let's look at what we can do to fill that gap as soon as possible because at the moment cyclists have no protection."_
+> _"All our addendum seeks to do is to note the decision yesterday of the Planning committee... previously we had put George Street on hold with the idea that we might look at cycling on Princes Street and see if whether that could be an alternative for cycling provision; the decision yesterday was to proceed with Option 1, which does not allow for that on Princes Street, so all our addendum seeks to do is to say we have now got a gap in the CCWEL, let's look at what we can do to fill that gap as soon as possible because at the moment cyclists have no protection."_
 
 In seconding, Green Councillor Ross McKenzie added: 
 
 > _"On George Street - we have so many challenging streets to provide cycle segregation and safe cycling in this city, and George Street really isn't one of them - it's really wide, it's like all those big wide Glasgow streets that have excellent cycle segregation. And yet, still after all these years and all this discussion we have this massive gap - so I hope when this report comes back, as Cllr Gardiner has said, that it will include the suggestion for a cheap, temporary solution like planters and removal of parking, that can get this going and can get this gap filled without waiting for the back-and-forth over the expensive public realm projects."_
 
-Conservative Cllr Mowat performed an astounding claim during contributions that residents have to _"take their life in their hands"_ to cross the single lane, uni-directional CCWEL cycleways flanking the prestigious Melville Street. Naturally, 2024-2025 crashmap data shows not even a ‘slight’ incident here since CCWEL opened; one would hate to think how residents cope with crossing the carriageway if they find 1.2m of protected cycleway harrowing. 
+Conservative Cllr Mowat performed an astounding claim during contributions that residents have to _"take their life in their hands"_ to cross the single lane, uni-directional CCWEL cycleways flanking the prestigious **Melville Street**. Naturally, 2024-2025 crashmap data shows not even a ‘slight’ incident here since CCWEL opened; one would hate to think how residents cope with crossing the carriageway if they find 1.2m of protected cycleway harrowing.
 
-![2024-25 crashmap visual of the area surrounding Melville Street; there are no pins indicating crashes on the road in question](./assets/meville.jpeg)
+![2024-25 crashmap visual of the area surrounding Melville Street; there are no pins indicating crashes on the road in question](./assets/melville.jpeg)
 
 Liberal Democrat Cllr Kevin Lang made the point that the committee paused work on George St, then commissioned a rethink of Princes St, and have now chosen to do something _“quite minimalist”_ there - and expressed the feelings of a number of committee members who _”don't now quite know what we're doing with the 'core city centre'”_. 
 
-In response and summing up, Labour Transport Convener Cllr Stephen Jenkinson outlined that TEC will see a report on George St in November, now that the Planning Committee decision has given clarity for Princes St. He claimed Labour’s own position has been consistent, having described the project to date as _“dead in the water”_ after SNP interventions, but claims this describes the existing plans as _”still afloat but not moving forward”_, and that November’s meeting should see movement. 
+In response and summing up, Labour Transport Convener Cllr Stephen Jenkinson outlined that TEC will see a report on George St in November, now that the Planning Committee decision has given clarity for Princes St. He claimed Labour’s own position has been consistent, having described the project to date as _“dead in the water”_ after SNP interventions — but claims this describes the existing plans as _”still afloat but not moving forward”_, and that November’s meeting should see movement. 
 
-Regarding segregated cycling on George St, he pointed out that TODO QUOTE _“one of the issues is it's one of the biggest car parks in the city centre, and don't have scope to change much while that remains in place.”_
+Regarding segregated cycling on George St, whether permanent or temporary, he pointed out that _"one of the issues is it's one of the biggest car parks in the middle of the city centre — I just don't think that we have scope to do much change while that's still in existence, but hopefully some clarity will be provided around that as we move forward.”_
 
-The administration accepted the Green addendum, along with a "pedantic but correct" wording amendment by the Conservative group on a technical point, and as such gave the TEC stamp of approval to these additional visitor levy projects - along with **a solid nod to progressing CCWEL's missing middle**. 
+The administration accepted the Green addendum, along with a _"pedantic but correct"_ wording amendment by the Conservative group on a technical point, and as such gave the TEC stamp of approval to these additional visitor levy projects - along with **a solid nod to progressing CCWEL's missing middle**. 
 
 ---
 
@@ -133,110 +133,127 @@ The administration accepted the Green addendum, along with a "pedantic but corre
 * 💰 [National Wealth Fund Engagement](https://democracy.edinburgh.gov.uk/documents/s102788/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%203.pdf){target="_blank" rel="noopener noreferrer"} [PDF]
 * 🔎 [Benefits & Impacts Summary](https://democracy.edinburgh.gov.uk/documents/s102789/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%204.pdf){target="_blank" rel="noopener noreferrer"} [PDF]
 
-📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1122295/start_time/10878000?force_language_code=en_GB) from 3h 1m
+📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1122295/start_time/10878000?force_language_code=en_GB) from 3h 1m to 4h 32m
 
-Heard from Cllr Cammy Day 
-Lib Dems proposed tram routes
-34% of tram users reported driving less now that it's in operation
+> ⚠️ **This item was discussed for a full hour and a half. If it's of real interest to you, we'd strongly recommend watching the debate on the webcast - our notes are unlikely to fully summarise nor do justice to the proceedings.**
 
-TEC 3h19
+It's hard to cover tram discussions without resorting to explaining modern cities from first principles. 
 
-Touched on consultation report, ‘unmitigated disaster’ of very first project vs. Pretty successful delivery of the TTN phase, the need to alleviate transport poverty and better connect communities in the north of the city, 
+Edinburgh is growing at the fastest rate of any city in Scotland, and our road network is a fixed size and shape; there is no scope for new road building, and [induced demand](https://en.wikipedia.org/wiki/Induced_demand#In_transportation_systems){target="_blank" rel="noopener noreferrer"} would soon mean the saturation of any additional capacity anyway. And you can count us among the urbanists pointing at trams' unique profile in terms of sheer capacity, (usual) reliability and customer experience as the [king of the public transport modes](https://www.youtube.com/watch?v=bNTg9EX7MLw&t=1273s){target="_blank" rel="noopener noreferrer"}. It's clear with the population growth we're expecting and existing problems with congestion, that from tram-trains on the South Suburban line to a north-south route, a link from Newhaven to Granton and extensions beyond the city into Midlothian, Edinburgh needs a mass rapid transit solution fit for purpose. 
 
-3h 20m SJ challenged Conservative position - Is it you and therefore con position to completely ignore the current congestion issues that Edinburgh faces and completely ignore the projected growth figures and the congestion that is likely to manifest from that growth, we know Edinburgh’s population is growing exponentially and we know this is the area of most growth in the country - so is it your position to ignore the evidence, ignore the data and to essentially stick your head in the sand with regards to Edinburgh’s current and future congestion issues, and hope that it can all be solved by a magic wand waved somewhere else?
+_(It also needs a vast network of 7-7-7 bus lanes, congestion charging, park and ride, and a ban on parking on all arterial roads, but let's take this one step at a time)._
 
-This prompted a very amiable and measured response from Cllr Mitchell that also happened to completely lack any suggestion of a solution to the problems posed or any substance on transport policy. 
+The committee heard from Ward Councillors Cammy Day (Labour, Forth) and Max Mitchell (Conservative, Inverleith). Day outlined the impact of the existing tramline and the transformation of Leith, the Shore and Newhaven, including an increase in tourist traffic to those areas, and the fantastic statistic that **34% of tram users reported driving less now that it's in operation** — and made a passionate plea for the alleviation of 'transport poverty' and better connection for communities in the north of the city such as Muirhouse, Pilton, Drylaw and Granton. 
 
-3:25:40 questions to officers. 
+Mitchell also spoke very eloquently, but said nothing that made it into our notes. _Weird._ 
 
-McKenzie - decision not on route but whether we fund OBC or waiting for SESTran - will look like avoiding a decision in this term, 
-Barwell:
-Decided on CMP and SBC, now report says officers believe we should deliver a north-south tram; recommendations say not to kill the northern leg - feedback on this and on south sub tram train needs to be seen in regional context, need our position clear for e.g midlothian where cec not in control of planning. 
+The Conservative position on the north-south tram route is essentially _"this has gone far enough, there's no money to build it, so stop now"_. While that's a position echoed by many around the city, it's also echoed by an awful lot of folks who steadfastly refuse to pay heed to the hugely successful existing tram and its usage statistics that went beyond even optimistic projections of it patronage. Should we listen to folks who refute the reality that these are not only an efficient and quick way to move masses of people around a city, but a popular one?
 
-Mck: was deliverability challenges on north, would we be looking to SESTran? 
-Officers wouldn’t be recommending council-funded OBC at this stage regardless, unrelated to alignment and route choices. 
+In questions for the ward councillors, the Convener challenged the Conservative position in a question to Cllr Mitchell:
 
-Lang: big thanks officers, quality of information and briefings has been exceptional. What does 1.1.3 mean when it says southern leg is ‘priority’ - this isn’t expanded on - and 1.1.4 says ‘further work required’, what further work if report passed would take place over next 12mo?
+> "_Is it your — and therefore the Conservative group's — position to completely ignore the current congestion issues that Edinburgh faces, and completely ignore the projected growth figures and the congestion that is likely to manifest from that growth? We know Edinburgh’s population is growing exponentially, and we know this is the area of most growth in the country - so is it your position to ignore the evidence, ignore the data and to essentially stick your head in the sand with regards to Edinburgh’s current and future congestion issues, and hope that it can all be solved by a magic wand waved somewhere else?"_
 
-DP: Officer time. Feeding into South Sub and SESTransit regional project. This SBC makes a case for investment in mass transit on a north south route - there are two north choices and one performs clearly better. Roseburn is primarily a public acceptability issue, orchard brae is much more of a technical implementation issue. We have more certainty / settled view for south end. At the moment really challenging to see how north end moves forward but time and space will assist. Makes sense to wait for SESTran. 
+This prompted a very amiable and measured response from Cllr Mitchell that also happened to completely lack any suggestion of a solution to the problems posed or any actual substance on transport policy. 
 
-Lang: important to be clear what would happen next. Report passes - will need to come back to north, in next 12mo will you do anything on route options?
+### ⏳ Where we're at
 
-DP: no
+This meeting was conveyed in most media, both before and after the event, as the point at which a decision was taken regarding the overall route. In fact, there's a wider, regional aspect to what's currently taking place, and this context really deferred anything concrete that we might have expected after a divisive consultation exercise on available route options.
 
-Lang: GB even if we had the money we wouldn’t spend it on OBC? 
+The regional transport partnership for the south-east of Scotland, [SESTran](https://sestran.gov.uk/news/){target="_blank" rel="noopener noreferrer"}, covers the City of Edinburgh and seven other neighbouring Local Authorities — Clackmannanshire, East Lothian, Falkirk, Fife, Midlothian, Scottish Borders and West Lothian. 
 
-GB: In committing for an OBC you’re also committing to fulfil the project - if the council fund it, it comes from reserves - so need to be where the whole thing has a plan to fund. 
+They are currently undertaking a project with the "Edinburgh and South East Scotland City Region team", Transport Scotland and Network Rail to develop a Programme Strategic Business Case (SBC) for an integrated regional transport network, which has the working title of **SESTransit**. This work naturally looks beyond Edinburgh at a much wider context - there's some really interesting data about commuting in [this recent report PDF](https://sestran.gov.uk/wp-content/uploads/2026/06/2026-06-19-Item-A7f-SEStransit.pdf){target="_blank" rel="noopener noreferrer"} - and the most likely future for any of the projects to extend Edinburgh's trams is directly related to the case being made by this work.
 
-Cuth: wHT intervention on South bridge assessment on dynamic load - link arellcat? - 
+That project is set to wrap up in a year's time. 
 
-DP: not a new position, submitted during consultation - understandable position - it wouldn’t be expected at this stage to have the detail EWH have said is missing, but at this stage we don’t see any reason. Detail and options are at next stage. 
+In questions to Officers, it was established that while waiting for the outcome of this work could look like the transport committee avoiding a decision until next Council term following elections in May 2027, actually Officers wouldn't be recommending moving to the next stage (Outline Business Case) at this stage even if there was a fully agreed alignment for the northern section.
 
-Cuth: 3B public sector debt - reports pointing out not good finance - SBC hasn’t looked at other financial models like in Montreal - 
+The report at hand essentially comes down to: _based on deep assessment of options, potential benefits, and public consultation - Council Officers recommend that the city builds a north-south tramline._ But in terms of next steps, really work is on hold while the regional approach is being assessed, setting the stage for future support.  
 
-DP: SBC focuses on social and economic cases so lighter touch on other areas like financing - Wealth trust more detail than normal and again finance would be more at the next stage; the appendix we have from them has a long list of potential options. 
+### 📆 In the meantime?
 
-3h45m TODO QUOTE GB: view of regional working and infrastructure pipeline - as a capital city we have to be ambitious. We talk aboyt it as a tramline but Tram
-Is an economic development investment 
+Officers will be feeding into the Transport Scotland / Network Rail feasibility study of the South Suburban tram-train project, which is primarily about the technical possibilities - and also supporting the SESTransit regional 'Strategic Business Case' for inter-authority connection across the region.
 
-Aston: SESTran dominated by councillors from rural and semi-rural authorities, very different to Edinburgh’s priority. Some councils even hostile. Why should we be confident about all eggs in that basket?
+### 🔀 And the route choices?
 
-GB: SESTransit is a regional plan. No consensus from CEC makes it hard to represent on SESTransit. 
+The report describes 'prioritising' the southern end of the north-south route.
 
-Aston: would this council being prepared to contribute to OBC increase the credibility of the project?
+> _"This [Strategic Business Case] we've presented to you today makes a case for investment in mass transit on a north-south route... there are two route alternatives to the north, and one performs clearly better than the other. But we are acknowledging, through the consultation and some of the things that have happened since that in terms of politics, that there are deliverability challenges with both of those route alternatives to the north. The Roseburn corridor is largely a public acceptability issue, which has translated into a political acceptability issue... The Orchard Brae corridor is much more of a technical deliverability challenge in terms of its role as a primary traffic corridor, public transport corridor, and importance for regional bus service, and clearly Dean Bridge and all the impacts around that as well..._
+>
+> _"We are saying that there is a case for investment in mass transit — in \[specifically\] Tram, because we have done modal assessment as part of this as well - in Tram, on a north-south corridor - but because we have more certainty and more of a settled view on that southern section, that is the one we suggest that we prioritise for going forward to Outline Business Case, after SESTransit reports... We need a mass transit connection to Granton, the report sets out what the cost of not doing that is - but at the minute it is really challenging to see a way forward on that, so I think we need a bit of time and space to step back and have a bit of a fresh perspective and thinking on how we could deliver that."_ — Deborah Paton, Head of Transport Strategy & Partnerships
 
-GB: matching a contribution at some point will make more likely. 
+Conservative Cllr Neil Cuthbert raised the concerns [expressed by Edinburgh World Heritage](https://ewh.org.uk/our-comments-on-the-north-south-tram-extension/){target="_blank" rel="noopener noreferrer"} about the running of the tram over 'Georgian megastructure' South Bridge, and the dynamic load involved; Officers response was to highlight that this was not a new position but submitted during initial consultation, and that while it was an understandable position, it wouldn’t be expected at this stage to have the detail EWH  have said is missing - where that level of engineering detail and options are at the next stage. However, over on CityCyclingEdinburgh, forum member Arellcat [has a fantastic post](http://citycyclingedinburgh.info/bbpress/topic.php?id=8710&page=76#post-385760){target="_blank" rel="noopener noreferrer"} with some 'back of the envelope' loading calculations that were not only a wonder to read, but also did a great job of contextualising the possible changes. 
 
-North south is bigger than Roseburn; and this tram investment is bigger than Edinburgh. Regional view, investment, etc. 
+This from Corporate Director of Place, Gareth Barwell, was a strong call to members considering mass transit:
 
-Osler seeks reassurances on mitigating pressures in North of the city rising in the interim years given amount of development down there, as if her party haven’t been instrumental in ensuring there is no progress on the tram to alleviate those pressures. 
+> _"I think as a capital city, and south east scotland, we rightly have to be ambitious... We talk about it, because we're in 'Transport & Environment', as a tramline - it's actually an economic development investment, that really has to form the pillar of how this region grows... this should be seen as a hugely significant investment that then unlocks all kinds of opportunities."_
 
-Jamie: Autumn 27 SBC programme level. 5yrs of further planning works and 5yrs construction. 
+In further questions to Officers, a timeline of nearly eleven years was disclosed; the SESTransit work returning in Autumn 2027, around five years of further planning works, and five years of construction.
 
-DP: developer confidence, parking levels - namechecked active travel. 
+In summing up the administration's position, Convener Stephen Jenkinson said:
 
-3h 55m summing up quotable about regional national 4h 00 esp 4h 01 20s
+> _"I have a grand and a bold vision for a mass transit solution that will help Edinburgh solve its future problems, but will also help the region expand, and will actually help Scotland prosper - so there is a win in this for everybody if we can be bold, we can be strong and we can actually take difficult decisions"._
 
-4h 05 into amendments. Review these. 
+<br/>
+<br/>
 
-SNP - officers to "examine other potential route options to North Edinburgh" and to commence work on OBC for Southern leg 'as soon as possible', subject to a decision at full council;
+### 💬 Amendments and Addenda
 
-Lib Dem - report recommendations changed to "a) not progress the northern section of the line to OBC and,
-b) unequivocally rule out building the tram extension on the Roseburn path,
-c) and requests that officers return to committee in two cycles with a report on
-other possible options for improving public transport in the north of Edinburgh." Also called for no further officer time to be spent on north-south tram without committee agreement.
+#### 🟡 Scottish National Party
 
-Green addendum "Notes the work that Spokes and others have done in highlighting that over 420
-incidents have occurred with cyclists on tram tracks in Edinburgh, with 191 injuries and
-one fatality, and therefore agrees that in pursing an Outline Business Case for the
-southern section of the route to the Bioquarter / RiE, special care and attention should be
-paid to how to avoid cycle/tram crashes including, but not limited to, consideration of
-single-tracking of sections of the line, and ensuring that if parallel cycleroutes are
-pursued as part of a solution, these must be integrated into the tram project."
+Asks officers to _"examine other potential route options to North Edinburgh"_ and to commence work on the **Outline Business Case** for the southern section of the route _"as soon as possible", subject to a decision at full council.
 
-Conservatives wanted to kill the whole thing at this stage.
+Importantly the SNP also claimed 'best pun' of the session with this from Cllr Danny Aston, in moving their position:
 
-Aston moving "I also want to put on record thanks to officers - it might be light rail, but it's a heavy workload"
+> _"I also want to put on record thanks to officers - it might be light rail, but it's a heavy workload"_  🥁 👏🏼
 
-Lang very annoyed about SNP not backing Lib Dem motion to rule out Roseburn entirely, accusing them of saying it needed to be preserved during elections, and then not backing LDs at TEC.
+#### 🟠 Scottish Liberal Democrats
 
-4h 18m Greens - Ross in particular goes on a tear; 
-CB: "Spokes have mnade it clear how serious tram and cycle conflicts can be - we need to learn the lessons of the first tram line where no segregation was built in and we've seen hundreds of crashes since. Compare that with the Newhaven extension, where segregated cycle lanes on Leith Walk have seen bike tram crashes all but eliminated and pedestrians casualties which were previously around a dozen a year have fallen close to zero in most years since. Segregation saves lives - we're asking that to be designed in from the start of the southern route, not left as an afterthought. That also means any parallel cycle route has to be delivered as part of the tram route itself, not bolted on afterwards as happened with the section between the foot of the walk and ocean terminal where the promised route still hasn't been fully delivered."
+The Lib Dem amendment sought to change the report recommendations to: 
 
-RM: "...irrelevant in this discussion are the Conservatives and the Liberal Democrats; the former can't even engage with the basic reality of population growth in the city, as we saw from Cllr Mitchell earlier; and the latter cannot be relied on to support the tram extension, a tram extension of any kind without sending us on a decade long wild goose chase, a wild goose chase no doubt with great data collection opportunities. So we can ignore their political posturing while we're making this very important decision. And we, in this case, are the progressive majority on this council - a progressive majority of almost two thirds of this council, who can send a clear signal today that we support the extension of the tram, and we can be relied upon to continue supporting it. A progressive majority who support the extension unequivocally, and who recognise that radical expansion of public transport provision is the only way to reduce carbon emissions in a rapidly growing city and region. And actually, the only way to make a rapidly growing city and region bearable to move around and live in."
+> a) not progress the northern section of the line to OBC \[Outline Business Case\] and,
+> b) unequivocally rule out building the tram extension on the Roseburn path,
+> c) and requests that officers return to committee in two cycles with a report on other possible options for improving public transport in the north of Edinburgh. 
 
-Admin moved report accepting Green addendum in full, adjusted position of SNP group clarified as - 
-Officers recommendations
-SNP adjust position
-Accept 1.1.3 in full
-Accept 1.1.4 with word 'council' removed in front of 'officers'
-Happy to accept 1.1.7 as follows:
-Recognises that the best means of securing government funding is being able to demonstrate through a more developed business cases level that the project provides a strong case for investment and further recognises the need to give due consideration for the sestransit work, and therefore acknowledges that a decision to allocate some match funding may become necessary in the future.
-End of those... as 1.1.8, the green addendum
+It also called for no further officer time to be spent on the north-south tramline without further committee agreement.
 
-7 votes vs. 2 and 2.
+#### 🟢 Scottish Green Party
 
-SJ: "I want to put on record my thanks to all members of this committee - I think the committee has shown itself in the best light this afternoon, the debate has been excellent and I would also like to put on record my thanks to Cllr Aston and the SNP group regards to the way in which they entered into negotiations this afternoon, I think it was helpful that we got to a good, solid position and I just wanted to thank everybody for their contributions".
+The Green addendum: 
+> "Notes the work that Spokes and others have done in highlighting that over 420 incidents have occurred with cyclists on tram tracks in Edinburgh, with 191 injuries and one fatality, and therefore agrees that in pursuing an Outline Business Case for the southern section of the route to the Bioquarter / RiE, special care and attention should be paid to how to avoid cycle/tram crashes including, but not limited to, consideration of single-tracking of sections of the line, and ensuring that if parallel cycleroutes are pursued as part of a solution, these must be integrated into the tram project."
+
+#### 🔵 Scottish Conservatives
+
+Conservatives wanted to kill the whole thing and not proceed any further. This is because we're _too poor, too wee and too stupid_ to tackle the growth of the city head-on, you see.
+
+#### 💬 In discussion
+
+Lib Dem Cllr Lang expressed fairly visible annoyance at a lack of support from the SNP group for his group's amendment to rule out the Roseburn alignment entirely, essentially accusing them of saying it needed to be preserved for walking and cycling during elections, and then not backing this up at TEC.
+
+In moving the Green amendment, Cllr Chas Booth made the case for designing in cycle segregation from the start:
+
+> _"Spokes have made it clear how serious tram and cycle conflicts can be - we need to learn the lessons of the first tram line where no segregation was built in, and we've seen hundreds of crashes since. Compare that with the Newhaven extension, where segregated cycle lanes on Leith Walk have seen bike/tram crashes all but eliminated and pedestrian casualties — which were previously around a dozen a year — have fallen close to zero in most years since. Segregation saves lives - we're asking that to be designed in from the start of the southern route, not left as an afterthought. That also means any parallel cycle route has to be delivered as part of the tram route itself, not bolted on afterwards as happened with the section between the foot of the walk and ocean terminal where the promised route still hasn't been fully delivered."_
+
+This was followed by a phenomenally strong turn from Cllr Ross McKenzie in seconding the Green position, very much calling a spade a spade in our opinion:
+
+> _"...so irrelevant in this discussion are the Conservatives and the Liberal Democrats; the former can't even engage with the basic reality of population growth in the city, as we saw from Cllr Mitchell earlier; and the latter cannot be relied on to support the tram extension, a tram extension of any kind without sending us on a decade long wild goose chase, a wild goose chase no doubt with great data collection opportunities._ 
+>
+> _"So we can ignore their political posturing while we're making this very important decision. And we, in this case, are the progressive majority on this council - a progressive majority of almost two thirds of this council, who can send a clear signal today that we support the extension of the tram, and we can be relied upon to continue supporting it. A progressive majority who support the extension unequivocally, and who recognise that radical expansion of public transport provision is the only way to reduce carbon emissions in a rapidly growing city and region. And actually, the only way to make a rapidly growing city and region bearable to move around and live in."_
+
+### 🗳️ The Decision
+
+The Administration moved the Officers report, accepting the Green addendum in full — great news for the consideration of cycle safety on the southern leg of the route — and adjustments to the SNP's amendment to form a combined position:
+ 
+> * Officers recommendations
+> * The SNP adjusted position accepting 1.1.3 in full, accepting 1.1.4 with word 'council' removed in front of 'officers', and with  1.1.7 as follows: _Recognises that the best means of securing government funding is being able to demonstrate through a more developed business case level that the project provides a strong case for investment and further recognises the need to give due consideration for the SESTransit work, and therefore acknowledges that a decision to allocate some match funding may become necessary in the future._
+> * As 1.1.8, the Green addendum
+
+🗳️ **This was voted through by Labour, SNP and the Greens with 7 votes** - versus two self-votes for the Liberal Democrats and two self-votes for the cynics on their own respective positions. 
+
+Following the vote, the Convener had some further comments:
+
+> _"I want to put on record my thanks to all members of this committee - I think the committee has shown itself in the best light this afternoon, the debate has been excellent and I would also like to put on record my thanks to Cllr Aston and the SNP group regards to the way in which they entered into negotiations this afternoon, I think it was helpful that we got to a good, solid position and I just wanted to thank everybody for their contributions"._
+
+And so, the tram project rumbles on... 🚊
 
 ---
 
@@ -250,82 +267,54 @@ SJ: "I want to put on record my thanks to all members of this committee - I thin
 
 There's a number of plans and appendices linked to from this item on [the TEC Meeting Page](https://democracy.edinburgh.gov.uk/ieListDocuments.aspx?CId=136&MId=8122&Ver=4){target="_blank" rel="noopener noreferrer"} »
 
-ETRO.
+### 📊 Data, data, data
 
-Cllr Ed Thornley as Ward Councillor stands against the bus gate. Asks for bus priority signalling - haven't been told why that's not feasible. Surveyed localtiy with Alrdirgde, 84% opposed. 
+Cllr Ed Thornley gave representation as a Ward Councillor for the area, against the bus gate measures. Instead, he asked that committee requested a study of other measures like bus priority signalling, stating that local representatives haven't been told why that's not feasible. In surveying the locality with Liberal Democrat colleague and Lord Provost Robert Aldridge, 84% of residents opposed the bus gate - and as we all know, the best people to make transport infrastructure decisions are people whose driving convenience might minorly suffer to aid the performance and reliability of public transport.  
 
-Questions - 
+When asked about whether he accepted the Council's data on traffic levels and queue levels on Turnhouse Road, Cllr Thornley said that he would not argue with the data collected but that it did not agree with his own experience of the area.
 
-Mckenzie - referred to peak time bus gate, do you accept the data we have on traffic levels and queue levels? Have you seen with your own eyes the queues at all hours?
+### 🏗️ The BIG CRANE issue
 
-Thorn - accept the data has been collected data, though doesn't agree with own experience.
+An unexpected chapter of this issue pertained to _BIG CRANE_. A long-awaited and much desired active travel bridge from West Craigs to access Edinburgh Gateway and beyond is due to be installed, and _BIG CRANE_ is coming to fit it. _BIG CRANE_ is actually one of the _BIGGEST CRANES_ in the country - and _BIG CRANE_ is unfortunately _NOT BUS_ so what if we put a bus gate in and then we can't have a bridge?
 
-Osler - have council engaged with residents?
+One Officer expressed surprise at how majorly this minor logistics issue had been flagged up in regard to the bus gate, clearly residing in a realm outwith the Lib Dem reality distortion field where _BIG CRANE_ can't pass bus gate or _BIG TROUBLE_ and _NO BRIDGE_. 
 
-Thorn - only meeting with CC
+_(This might in all honesty be one of the stupidest things I've ever documented.)_ 
 
-Mowat - link over railway line for EG - explain why that is in conflict if bus gate goes in?
+The bus gate in the Experimental Traffic Regulation Order consists of signage only, so unless _BIG CRANE_ is scared of bus gate signage, the good people of West Craigs will get their bridge - as officers reassured the worried faces around the room in absolute certainty.
 
-Thorn - 14 years in the coming, live issue, issue arises from location of construction access, largest crane in the process, access for north end of bridge going in is at location of bus gate. (this is a bananas reason)
+### 🫸🏻  Pushing back on misinformation
 
-Lang - kids getting to high school, does the 31 go there?
+In better news for the sane, it was refreshing to see Officers given the opportunity in questions to push back on aspects of the relevant deputation. Officers explained that there was more engagement with the Community Council than with any other group, and that a further two meetings described as having been 'refused an invite for' were not for stakeholder groups, but an All Party Meeting and a separate elected members briefing in which Lothian Buses shared commercial information. 
 
-Thorn - doesn't go directly
+On the question of traffic counts, Officers expressed gratitude that the local community had undertaken three weeks of counting, but strongly refuted the deputees calling Council traffic counts into question when a full 24-hour count over 7 days was undertaken — no doubt by actual professionals and professionally vetted equipment — at several different locations, ensuring this took place after the Easter school holidays and after the new junction at Craigs Rd bedding in, regarded as a _'really robust dataset'_ in which doubt was now being seeded. Life outside of the distortion field is a place of clarity, you see. Officers also reassured that their teams have been working really diligently on this issue and have had regular contact, with officers being open and honest in all their dealings and are not aware of any misrepresentation at all.
 
-Gardiner - kids do use that bus.
+### ⛔️ Cammo Road
 
-4h 43m
+Cammo Rd previously had an ETRO in place to close it to through-traffic because of the dangers of sending a lot of traffic along a narrow, rural road - residents were in favour of a closure to general traffic, and the Transport committee was at the time unanimous.
 
-Officer gets asked questions.
+Due to work at the end of Craigs Rd on the new junction, the ETRO on Cammo Rd needed to be lifted in order to provide an alternative flow for traffic. Because of the nature of the ETRO process and its inflexibility, a full new ETRO would be required to reintroduce this closure, and officers want to wait for the introduction of the bus gate ETRO for Turnhouse Rd to see how the area flows as a result before proceeding.
 
-Cuth - how local groups do or don't get informed, lack of information flow etc? 
+This was a sticking point for the Liberal Democrats, repeatedly stating that there was no way that Cammo Rd could be closed again if Turnhouse Rd was closed to traffic, leaving a single road access in and out of the West Craigs estate.
 
-Jamie - pushing back on deputation, there was more engagement with CC than with any other group, and further two meetings 'refused invite for' were not stakeholder groups, but APM and an elected members briefing in which LB shared commercial information. On question of counts - grateful that community undertook three weeks of counting, but calling CEC counts into questions when a full 24hr count over 7 days was undertaken at several different locations, after Easter Holidays and after junction bedding in, so really robust dataset but doubt was being seeded. 
 
-Carlyn - Officers have been working really dilligently on this and have had regular contact, with officers being open and honest in all their dealings. Not aware of any misrepresentation at all, if there's been any breakdown or misunderstanding we return to that.
+### 🚌 The Lothian Buses issue
 
-GavB - we'd like to improve going forward.
+Lothian Buses have said without the bus gate on Turnhouse Rd, they are not able to run the intended bus service into the estate, serving 3,000 houses and a local population of 8,500 people.
 
-Mowat - concerns bus gate will go where northern bridge will be sited and how this can be mitigated - had meetings with developer responsible, they haven't raised, and checked with colleagues regarding bridge works - nothing being flagged there. Also met with roads colleagues not aware of conflicts. Bridge abutment several hundred metres away. Nothing that conflicts and if there is we will fix - surprised by how majorly this is being flagged. Developer had the bus gate in their transport appraisal - been around for years. 
+Officers pointed out that the estate's planning consents always had an improved Craigs Rd junction, 'low car neighbourhood' attributes, a planned bus service and a planned bus gate on Turnhouse Rd. 
 
-Lang - can I ask for an absolute assurance that if BG agreed today, nothing will be done that will hold up delivery of the bridge.
+The Conservatives pointed out that the Liberal Democrats were now opposing something they supported during all possible strategic / overview plans for the area - the bus gate being a proposed mitigation for the potential traffic introduced by this estate, and as such has always been on the cards.
 
-Jamie - absolutely.
+> **You have to wonder why the estate was established without all of these measures already in place before people moved in. Start with the junction at Craigs Rd and implement a bus gate from the start. Providing local traffic access for a time only to take it away is the very definition of a resident engagement footgun.**
 
-Lang - wrote with a question on 18th Aug with no answer - surprised no mention of previous ETRO on Cammo Rd. When new junction opened, had thought we were looking at area in the round but report is silent on Cammo rd and ETRO. Why?
+In moving the report, Convener Cllr Stephen Jenkinson said:
 
-Carlyn - apologies, oversight - para missed out - updates have gone out, watch and wait for Cammo Rd. We now know how junction is working, we will know following bus gate whether Cammo Rd closure is required. At this point we need to see how the area works. 
+> _"Nobody knows more about running a bus service than Lothian - the decisions that they were taking were fully backed up with data and evidence, and I didn't see anything that convinced me that there was any other option. I think the decision that we've got in front of us today is - does the estate of West Craigs get serviced by a bus, or doesn't it?_
+>  
+> _"If we all flipped and supported the Liberal Democrat decision — which is exactly what they don't want us to do, let's be honest — we'd be in the incredibly uncomfortable position of supporting not providing a bus service to an area of the city that needs it. The point is rightly made that people bought their properties with the expectation that a bus service would be provided - the Lib Dems are actually campaigning to not provide public transport to an area of the city where they have representation, it seems an interesting position to take, that's all I'll say."_
 
-Lang - ETRO unanimous on Cammo Rd at TEC. Not clear how that could go back in if bus gate on Turnhouse as only way out of the entire West Craigs estate would be Craigs Rd. Cannot understand how transport officers would agreed to that. 
-
-Carlyn - reason for removal of ETRO on Cammo Rd, had to be removed to do junction, full new ETRO required to reintroduce closure - all we can do is say that we will keep an eye on Cammo Rd.
-
-Alan Dunlop - until we have a fuller understanding in West Craigs area, 
-
-LB have said without the bus gate, they are not able to run the bus service through 3k houses, 8,500 people. 
-
-Jamie - planning consents always had improved craigs rd junction, 'low car neighbourhood', planned bus gate on turnhouse rd. 
-
-Admin moves report.
-
-LD amendment Lang:
-Drops 1.2 of amendment. 
-'Really really worried about this'.
-Even Cons agreed Cammo Rd is dangerous, residents agree it should not be a through road. Consequence of this change is Cammo Rd cannot be closed. It's 'not possible' to have an estate with only one way out of it. 
-
-If LD accepted then Green will move report as is.
-
-~5h18m Cons point out LD now opposing something they supported during all possible strategic / overview plans. 
-Bus gate was a proposed mitigation for the potential traffic introduced by this estate and has always been on the cards.
-
-Have to wonder why the estate was able to be established without this already in place. Having access and taking it away... only producing a sufficient junction interconnect after folks already live there... footgun.
-
-Summing
-"Nobody knows more about running a hus service than lothian - the decisions that they were taking were fully backed up with data and evidence, and I didn't see anything that convinced me that there was any other option. I think the decision that we've got in front of us today is - does the estate of West Craigs get serviced by a bus, or doesn't it? If we all flipped and supported the LD decision, which is exactly what they don't want us to do, let's be honest - we'd be in the incredibly uncomfortable position of supporting not providing a bus service to an area of the city that needs it. The point rightly made that people bought their properties with the expectation that a bus service would be provided - LDs are actually campaigning to not provide public transport to an area of the city where they have representation, it seems an interesting position to take, that's all I'll say."
-
-8-2
-
-5h23m06s
+The motion passed 8 votes to 2, so West Craigs will get its bus gate ETRO and no doubt a highly vocal _'trapped in our hames'_ lobby trying to have the bus service cancelled.
 
 ---
 
@@ -337,27 +326,9 @@ Summing
 
 📄 [Appendices](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=88879#mgDocuments){target="_blank" rel="noopener noreferrer"}, including new templates for TRO Sub-committee reports.
 
-Officers questions
+Discussions focused on the further inclusion of Community Councils and more use of 'Plain English' to provide more easily understood lists of the measures included in a Traffic Regulation Order - and also to 'benchmark' against how other local authorities work around the legalese involved in TRO processes.
 
-Osler - CCs as statutory consultees 'stakeholder' orgs;
-
-Gavb - may be a unique Edinburgh thing, they are consulted
-
-Mowat - decisions under delegated authority vs. TEC/TRO Sub, confused about what we're agreeing - does this start the ball rolling or is it a final decision?
-
-Gareth B - only full council can update scheme of delegation but what's agreed today goes forward into that.
-
-Booth - 'Plain English' section - proposal is put list of measures out as part of process, help understand what's in a traffic order - has any consideration gone into further Plain English. Have we benchmarked ourselves against other councils in that regard?
-
-GavB - team do benchmark against other LAs. Will seek to do so on plain english use - whether we throw more legalese. 
-
-Summing
-
-No counterpositions, report plus verbal adjustment to have any objections from community councils added to TRO Sub papers; 
-LD 1.5 and 1.6 accepted
-Green 1.4, 1.5 adjusted, 1.7 and 1.8 accepted
-
-
+A composite position was formed including various points from the Liberal Democrat and Green contributions, and passed without the need for a vote.
 
 ---
 
@@ -371,7 +342,16 @@ Green 1.4, 1.5 adjusted, 1.7 and 1.8 accepted
 
 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102825/Item%209.2%20-%20By%20Councillor%20Cuthbert%20-%20Lothianburn%20Junction%20Traffic%20Trial%20-%20A702-A720.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
 
-Green accepted in full (formal)
+At this stage the meeting had _'gone formal'_, where items scheduled at the end of the day are generally less contentious and are voted through without debate. In this case, Cllr Cuthbert accepted the Green amendment in full:
+
+> **Add at the end of Supporting Information:**
+> **1.5** Notes the concerns raised by Spokes and others in relation to cycle safety resulting from the trial measures.
+> **1.6** Appreciates that the trial is not being conducted by the Council, but notes that the safety concerns begin around 200m north of Lothianburn Junction, on Biggar Road, where road users approaching the junction are instructed by temporary signage to switch lanes according to their direction of travel.
+> 
+> **Add at the end of proposed Action/Decision**
+> **2.5** Requests that officers meet with BEAR to discuss the concerns in relation to cycle safety highlighted above, and to consider options to improve cycle safety as part of the trial, reporting back in the Business Bulletin within 2 cycles. 
+
+Councillor Ross McKenzie [posted thanks to Spokes and to our readers on Bluesky](https://bsky.app/profile/rosssmckenzie.bsky.social/post/3mvf6o4yrqk26) for their valuable feedback on this junction in the lead-up to the committee meeting, which we would echo - real world experience of cycling issues is a hugely important part of improving safety on the road network.
 
 ---
 
@@ -381,11 +361,19 @@ Green accepted in full (formal)
 
 📄 [Motion](https://democracy.edinburgh.gov.uk/documents/s102827/Item%209.4%20-%20By%20Councillor%20Gardiner%20-%20Safe%20Management%20of%20Street%20Closures.pdf){target="_blank" rel="noopener noreferrer"} [PDF] »
 
-Accepted green (formal)
+This again was passed without debate due to the length of the meeting - the SNP accepted the Green addendum in full:
+
+> **Add at the end of supporting Information:**
+> **1.7** Notes that this year’s Summertime Streets included a temporary footway build-out on George IV Bridge next to the statue of Greyfriars Bobby.
+> 
+> **Add at the end of proposed Action/Decision**
+> **2.2** Agrees that the requested report will include the following in relation to the temporary footway build-out at Greyfriar’s Bobby:
+> **2.2.1** Details of the road safety audit that took place prior to implementation, and consideration of how road safety concerns raised during the period of operation will be addressed in any future plans.
+> **2.2.2** Details of the materials used, the cost of implementation, and consideration of whether these were appropriate for a six-week project. 
 
 ---
 
-The Transport & Enviroment Committee will TODO
+The Transport & Environment Committee will next meet on 12th November 2026, and we'll have coverage of the meeting and its implications for cycling in Edinburgh when the time comes.
 
 ---
 
