@@ -211,7 +211,7 @@ In summing up the administration's position, Convener Stephen Jenkinson said:
 
 #### 🟡 Scottish National Party
 
-Asks officers to _"examine other potential route options to North Edinburgh"_ and to commence work on the **Outline Business Case** for the southern section of the route _"as soon as possible", subject to a decision at full council.
+Asks officers to _"examine other potential route options to North Edinburgh"_ and to commence work on the **Outline Business Case** for the southern section of the route _"as soon as possible"_, subject to a decision at full council.
 
 Importantly the SNP also claimed 'best pun' of the session with this from Cllr Danny Aston, in moving their position:
 
