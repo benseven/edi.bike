@@ -133,6 +133,17 @@ The administration accepted the Green addendum, along with a _"pedantic but corr
 * 💰 [National Wealth Fund Engagement](https://democracy.edinburgh.gov.uk/documents/s102788/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%203.pdf){target="_blank" rel="noopener noreferrer"} [PDF]
 * 🔎 [Benefits & Impacts Summary](https://democracy.edinburgh.gov.uk/documents/s102789/Item%207.6%20-%20Trams%20from%20Granton%20to%20the%20Edinburgh%20BioQuarter-Royal%20Infirmary%20of%20Edinburgh%20-%20Appendix%204.pdf){target="_blank" rel="noopener noreferrer"} [PDF]
 
+---
+
+#### 📰 Ahead of the meeting
+
+* 🔎 **"Cummings-linked group behind aggressive online campaign for Granton extension"** at [The Edinburgh Inquirer](https://www.edinburghinquirer.co.uk/p/the-curious-case-of-dominic-cummings?open=false#%C2%A7cummings-linked-group-behind-aggressive-online-campaign-for-granton-extension ){target="_blank" rel="noopener noreferrer"} [SubStack]
+* 🌳 **"Edinburgh proposed North-South tramline: Refusal to compromise on Roseburn Path 'myopic'"** at [Edinburgh Evening News](https://www.edinburghnews.scotsman.com/news/edinburgh-proposed-north-south-tramline-refusal-to-compromise-on-roseburn-path-myopic-8973670){target="_blank" rel="noopener noreferrer"} »  
+* 📝 **Spokes' [deputation on north-south tram](https://www.spokes.org.uk/wp-content/uploads/2026/09/260910-7.6-SPOKES-deputation-Trams-from-Granton-to-Bioquarter.pdf){target="_blank" rel="noopener noreferrer"}** [PDF]  
+* 🕹️ **City Scope's interactive [case for Trams to Granton](https://www.city-scope.co.uk/granton-trams ){target="_blank" rel="noopener noreferrer"}** »
+
+---
+
 📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1122295/start_time/10878000?force_language_code=en_GB) from 3h 1m to 4h 32m
 
 > ⚠️ **This item was discussed for a full hour and a half. If it's of real interest to you, we'd strongly recommend watching the debate on the webcast - our notes are unlikely to fully summarise nor do justice to the proceedings.**
@@ -257,6 +268,24 @@ And so, the tram project rumbles on... 🚊
 
 ---
 
+#### After the Meeting
+
+🚋 **"Council moves forward on north-south trams extension"** at [The Edinburgh Reporter](https://theedinburghreporter.co.uk/2026/09/council-moves-forward-on-north-south-trams-extension/){target="_blank" rel="noopener noreferrer"} »
+
+🚲 Spokes, [on Bluesky](https://bsky.app/profile/spokes.org.uk/post/3mva4pxyrb22j){target="_blank" rel="noopener noreferrer"}:
+
+> 👍 Great to see SNP/Lab/Green cooperation on entire tram route (tho' no action for 12 months)
+>
+> 👍 Special thanks Cllr @chasbooth.bsky.social for section re Spokes points on 🚲 #tramline dangers
+
+🟢 Cllr Chas Booth, [on Bluesky](https://bsky.app/profile/chasbooth.bsky.social/post/3mv6epnslvk2h){target="_blank" rel="noopener noreferrer"}:
+
+> I’m glad that 3 parties: SNP, Labour and Greens have agreed a way forward on Edinburgh #Trams.
+>
+> There is now a way forward on tram to Bioquarter. More work is needed to deliver on the commitment to ensure Granton gets a mass transit connection in the future.
+
+---
+
 ### 🚌 7.7 Turnhouse Road Bus Gate - Proposed Operating Hours for Experimental Traffic Regulation Order
 
 🔍 [Background on this item](/articles/2026-09-06-september-transport-committee-agenda#7-7-turnhouse-road-bus-gate-proposed-operating-hours-for-experimental-traffic-regulation-order){target="_blank" rel="noopener noreferrer"}
@@ -327,6 +356,8 @@ The motion passed 8 votes to 2, so West Craigs will get its bus gate ETRO and no
 📄 [Appendices](https://democracy.edinburgh.gov.uk/mgAi.aspx?ID=88879#mgDocuments){target="_blank" rel="noopener noreferrer"}, including new templates for TRO Sub-committee reports.
 
 Discussions focused on the further inclusion of Community Councils and more use of 'Plain English' to provide more easily understood lists of the measures included in a Traffic Regulation Order - and also to 'benchmark' against how other local authorities work around the legalese involved in TRO processes.
+
+Also very much worth reading [Spokes' deputation on Council TRO processes](https://www.spokes.org.uk/wp-content/uploads/2026/09/260910-7.8-SPOKES-deputn-TRO-Sub.pdf){target="_blank" rel="noopener noreferrer"} [PDF].
 
 A composite position was formed including various points from the Liberal Democrat and Green contributions, and passed without the need for a vote.
 
