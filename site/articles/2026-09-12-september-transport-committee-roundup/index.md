@@ -106,14 +106,17 @@ In seconding, Green Councillor Ross McKenzie added:
 
 > _"On George Street - we have so many challenging streets to provide cycle segregation and safe cycling in this city, and George Street really isn't one of them - it's really wide, it's like all those big wide Glasgow streets that have excellent cycle segregation. And yet, still after all these years and all this discussion we have this massive gap - so I hope when this report comes back, as Cllr Gardiner has said, that it will include the suggestion for a cheap, temporary solution like planters and removal of parking, that can get this going and can get this gap filled without waiting for the back-and-forth over the expensive public realm projects."_
 
-Conservative Cllr Mowat performed an astounding claim that residents have to "take their life in their hands" to cross the uni-directional CCWEL cyclways flanking the prestigious Melville Street. No mention of the dangers of crossing the carriageway TODO look at crashmap from before and after CCWEL
+Conservative Cllr Mowat performed an astounding claim during contributions that residents have to _"take their life in their hands"_ to cross the single lane, uni-directional CCWEL cycleways flanking the prestigious Melville Street. Naturally, 2024-2025 crashmap data shows not even a ‘slight’ incident here since CCWEL opened; one would hate to think how residents cope with crossing the carriageway if they find 1.2m of protected cycleway harrowing. 
 
-Lang - made the point we paused George St, went to do Princes St, now chose to do something quite minimalist there - a number of committee members don't now know what we're doing with the 'core city centre'...
+![2024-25 crashmap visual of the area surrounding Melville Street; there are no pins indicating crashes on the road in question](./assets/meville.jpeg)
 
-2h55m
-Convener saying November for a report on George St, now that Planning give clarity for Princes St. Own position has been consistent, described existing plan as still afloat but not moving forward, November should see movement. Regarding seg cyc on George St, one of the issues is it's one of the biggest car parks in the city centre and don't have scope to change much while that remains in place.
+Liberal Democrat Cllr Kevin Lang made the point that the committee paused work on George St, then commissioned a rethink of Princes St, and have now chosen to do something _“quite minimalist”_ there - and expressed the feelings of a number of committee members who _”don't now quite know what we're doing with the 'core city centre'”_. 
 
-The administration accepted the Green addendum, along with a "pedantic but correct" wording amendment by the Conservative group on a technical point, and as such gave the TEC stamp of approval to these additional visitor levy projects - along with a solid nod to progressing CCWEL's missing middle. 
+In response and summing up, Labour Transport Convener Cllr Stephen Jenkinson outlined that TEC will see a report on George St in November, now that the Planning Committee decision has given clarity for Princes St. He claimed Labour’s own position has been consistent, having described the project to date as _“dead in the water”_ after SNP interventions, but claims this describes the existing plans as _”still afloat but not moving forward”_, and that November’s meeting should see movement. 
+
+Regarding segregated cycling on George St, he pointed out that TODO QUOTE _“one of the issues is it's one of the biggest car parks in the city centre, and don't have scope to change much while that remains in place.”_
+
+The administration accepted the Green addendum, along with a "pedantic but correct" wording amendment by the Conservative group on a technical point, and as such gave the TEC stamp of approval to these additional visitor levy projects - along with **a solid nod to progressing CCWEL's missing middle**. 
 
 ---
 
