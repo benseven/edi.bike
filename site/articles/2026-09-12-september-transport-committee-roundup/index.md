@@ -76,26 +76,35 @@ The petitioners did not attend the committee meeting to present and discuss, whi
 
 📺 [Webcast](https://edinburgh.public-i.tv/core/portal/webcast_interactive/1122295/start_time/9495000) from 2h 38m
 
-New projects for funding **The Causey Project** and **Access to Lost Shore and the Edinburgh International Climbing Arena (EICA)** were only really mentioned in passing, with much of the debate and questions on this item focused on **City Centre Public Realm (Princes Street and George Street)**. 
+The funding of new projects **The Causey Project** and **Access to Lost Shore and the Edinburgh International Climbing Arena (EICA)**, added to the Visitor Levy Funding list back in February, were only really mentioned in passing, with much of the debate and questions on this item focused on **City Centre Public Realm (Princes Street and George Street)**. 
 
-Gardiner - Given recent reports and committees, if looking again at George St as an emergency secondary route for bus movement, so there isn't any immediate project to move forward...  
-Barwell: CCWEL is a scheme this council has promoted for a long time, we have delivered it in phases, we have delivered a very high profile phase around the Haymarket area, there are areas to finish, if the point is being made the completion of that should be a priority, I would agree with that, and very much the approach officers took with CMP CIP in trying to prioritise closing off existing commitments - On Princes St, Planning committee yesterday took a decision on the way forward on Princes St — and Council took the decision just a few weeks back asking for a resilience review after the Debenhams fire — I can confidently say the dependency between Princes St and George St is going to have to be looked at and I would speculate slightly change in what we've learned from the fire on Princes St and knowing we've got resilience in George St particularly...
-I think the principle of looking to prioritise the completion of CCWEL is a good decision from Councillors because it allows us to close that.  
-Gardiner - Given what you've said that there might be some sort of delay to work through these important issues, is there any sort of temporary measure that officers could bring forward, to create a cycle route along George St to allow that CCWEL-intended connection, obviously the cycle community doesn't have that — it's a wee bit dangerous at the moment — are there measures that you think could be brought forward?
-Barwell - Would want to give more detail in a report but quite reasonable to say could officers consider how that could happen and the various implications.
+This follows a decision from the **Planning Committee** earlier this week that rather than pursue a more radical transformation of Princes Street to completely overhaul its approach to transport and public realm, the southern pavement will be extended by 1.5m and access into the gardens will be improved - completely negating using any of the space for frequent and inevitable cycle journeys along Princes St already taking place in spite of the risks cycling with the tramline. 
 
-Green addendum - 
-1.1.7 Notes the decision of Planning Committee of 9 September 2026 on the Princes
-Street and Waverley Valley Strategy; further notes the information in paragraphs 4.16 –
-4.20 of this report in respect of Princes Street and George Street; notes that these
-decisions taken together would potentially leave a gap in the City Centre West East Link
-(CCWEL) for years to come, and therefore agrees that the report outlined at paragraph
-4.18 which will return to committee in due course, should contain proposals on how the
-completion of existing projects could be prioritised.
+As such, this agenda item became the proxy by which the future of Princes St and George St were discussed and considered - which the committee has not covered since rejecting the original 'Princes St and Waverley Valley strategy' as unambitious, and since the development of the planned changes to George St was shelved at the 11th hour after restrictions on motor vehicle access had been watered down to the point where the SNP group looked to block its proceeding as-is, with high costs and little perceived benefit. 
 
-CB "All our addenum seeks to do is to note the decision yesterday of the Planning committee... previously we had put George Street on hold with the idea that we might look at cycling on Princes Street and see if whether that could be an alternative for cycling provision; the decision yesterday was to proceed with Option 1 which does not allow for that on Princes Street, so all our addendum seeks to do is to say we have now got a gap in the CCWEL, let's look at what we can do to fill that gap as soon as possible because at the moment cyclists have no protection."
+> Of course, in the interim a significant fire in the former Debenhams building on Princes St also impacted this 'core city centre' zone with buses and through-traffic re-routed via George St, so there is also a report pending on city centre transport resilience in such situations to avoid the months of disruption caused from happening again.
 
-In seconding, RM "On George Street - we have so many challenging streets to provide cycle segregation and safe cycling in this city, and George Street really isn't one of them - it's really wide, it's like all those big wide Glasgow streets that have excellent cycle segregation. And yet, still after all these years and all this discussion we have this massive gap - so I hope when this report comes back, as Cllr Gardiner has said, that it will include the suggestion for a cheap, temporary solution like planters and removal of parking, that can get this going and can get this gap filled without waiting for the back-and-forth over the expensive public realm projects."
+In questions for Officers, SNP Group Cllr Neil Gardiner asked about having to look at the George St project again in light of the Princes St decision and resilience report, particularly in regard to the gap in the **City Centre West to East Link** ('CCWEL') — currently ending quite unceremoniously emerging into Charlotte Sq from the West and only picking up again at North St David St in the east. 
+
+The response, from Corporate Director of Place Gareth Barwell:
+
+>_"CCWEL is a scheme this council has promoted for a long time, we have delivered it in phases, we have delivered a very high profile phase around the Haymarket area — there are areas to finish — if the point is being made that actually the completion of that should be a priority, I would agree with that, and very much the approach officers took with City Mobility Plan [Capital] Investment Plan in trying to prioritise closing off existing commitments._ 
+>
+>_"On Princes Street, Planning committee yesterday took a decision on the way forward on Princes St — and Council took the decision just a few weeks back asking for a resilience review after the Debenhams fire. I can confidently say the dependency between Princes Street and George Street is going to have to be looked at and I would speculate slightly change, in what we've learned from the fire on Princes Street and knowing we've got resilience in George Street particularly... I think the principle of looking to prioritise the completion of CCWEL is a good decision from Councillors because it allows us to close that."_
+
+Councillor Gardiner than asked - _"Given you've said that there might be some sort of delay to work through these important issues, is there any sort of temporary measure that officers could bring forward, to create a cycle route along George St to allow that CCWEL-intended connection, obviously the cycle community doesn't have that and it's a wee bit dangerous at the moment — are there measures that you think could be brought forward?"_
+
+Mr Barwell answered that the team would want to give more detail in a report, but that it was quite reasonable to ask officers consider how that could happen, and the various implications.
+
+The ask from the Green Group, by way of [an addendum](https://democracy.edinburgh.gov.uk/documents/b28519/Motions%20and%20Amendments%2010th-Sep-2026%2010.00%20Transport%20and%20Environment%20Committee.pdf?T=9#page=8){target="_blank" rel="noopener noreferrer"} (PDF, page 8) referred to recent council decisions and _"notes that these decisions taken together would potentially leave a gap in the City Centre West East Link (CCWEL) for years to come, and therefore agrees that the report outlined... which will return to committee in due course, should contain proposals on how the completion of existing projects could be prioritised."_ 
+
+In moving the addendum, Cllr Booth said:
+
+> _"All our addenum seeks to do is to note the decision yesterday of the Planning committee... previously we had put George Street on hold with the idea that we might look at cycling on Princes Street and see if whether that could be an alternative for cycling provision; the decision yesterday was to proceed with Option 1, which does not allow for that on Princes Street, so all our addendum seeks to do is to say we have now got a gap in the CCWEL, let's look at what we can do to fill that gap as soon as possible because at the moment cyclists have no protection."_
+
+In seconding, Green Councillor Ross McKenzie added: 
+
+> _"On George Street - we have so many challenging streets to provide cycle segregation and safe cycling in this city, and George Street really isn't one of them - it's really wide, it's like all those big wide Glasgow streets that have excellent cycle segregation. And yet, still after all these years and all this discussion we have this massive gap - so I hope when this report comes back, as Cllr Gardiner has said, that it will include the suggestion for a cheap, temporary solution like planters and removal of parking, that can get this going and can get this gap filled without waiting for the back-and-forth over the expensive public realm projects."_
 
 Conservative Cllr Mowat performed an astounding claim that residents have to "take their life in their hands" to cross the uni-directional CCWEL cyclways flanking the prestigious Melville Street. No mention of the dangers of crossing the carriageway TODO look at crashmap from before and after CCWEL
 
