@@ -135,12 +135,14 @@
       }
       figcaption {
         font-size: 0.9em;
-        padding: 0.6em;
+        padding: 0.8em 0.6em 0.4em 0.6em;
         margin-top: -0.38rem;
         background-color: rgba(245, 195, 203, 0.1);
         color: var(--c-orange--faint);
         &::before {
           content: 'ℹ️';
+          display: inline-block;
+          margin-right: 0.4em;
         }
         &:has(.parking-details) {
           display: inline-flex;

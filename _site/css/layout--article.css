@@ -121,13 +121,15 @@
 }
 .layout--article .container figure:not(.pswp-gallery__item) figcaption {
   font-size: 0.9em;
-  padding: 0.6em;
+  padding: 0.8em 0.6em 0.4em 0.6em;
   margin-top: -0.38rem;
   background-color: rgba(245, 195, 203, 0.1);
   color: var(--c-orange--faint);
 }
 .layout--article .container figure:not(.pswp-gallery__item) figcaption::before {
   content: "ℹ️";
+  display: inline-block;
+  margin-right: 0.4em;
 }
 .layout--article .container figure:not(.pswp-gallery__item) figcaption:has(.parking-details) {
   display: inline-flex;
