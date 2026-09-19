@@ -103,7 +103,7 @@ A question like this a full year into the trial of the hire bike scheme in Edinb
 
 The Council officers at the helm of rolling out the scheme and interfacing with supplier **Voi** are highly approachable, proactive and receptive to feedback — _one might imagine even more so to enquiries from Councillors!_ — and we'd felt many aspects of this question were already somewhat in the public domain.
 
-But, it's on the record now. Feels like a classic Lib Dem wedge issue approach - we'll help you complain about those ghastly electric bicycles everyone but you seems to be having fun on? The reality is that the majority of parking locations for the scheme have been carefully picked out in liaison with the council so as to not elicit complaints from residents, so...
+But, it's on the record now. The reality is that the majority of parking locations for the scheme have been carefully picked out in liaison with the council so as to _not_ elicit complaints from residents, and the Officers involved have been quite proactive already at moving or adjusting problematic locations... 
 
 ---
 
