@@ -39,9 +39,9 @@ There were barely any items on the main agenda relating to our cycling, safer st
 
 📺 Webcast [from 2h 8m 50s](https://edinburgh.public-i.tv/site/mg_bounce.php?mg_a_id=88977&mg_m_id=8107&language=en_GB){target="_blank" rel="noopener noreferrer"}
 
-This report is a fairly standard bit of business recognising that Ruth Elliot (Labour) has been elected as a Labour councillor for Southside / Newington and that Lorenzo Martinico (Green) has been elected as a councillor for Craigmillar / Portobello. As mentioned previously, both are cyclists and strong proponents of Active Travel - as well as, noted by Council Leader Cllr Jane Meagher in moving the report, two young people - often under-represented in local democracy.
+This report is a fairly standard bit of business recognising that Ruth Elliot (Labour) has been elected as a Labour councillor for Southside / Newington and that Lorenzo Martinico (Green) has been elected as a councillor for Craigmillar / Portobello. As mentioned previously, both are cyclists and strong proponents of Active Travel - as well as, noted by Council Leader Cllr Jane Meagher in moving the report, two young people, a demographic often under-represented in local democracy.
 
-As recognised in the report, the political makeup of committee positions doesn't need to shift based on the new makeup of the council as a result (number of seats held by each party is on page 2).
+> As recognised in the report, the political makeup of committee positions doesn't need to shift based on the new makeup of the council as a result (number of seats held by each party is on page 2).
 
 In seconding, Cllr Mandy Watson pointed out it's a shame for both new Councillors that there's such a short window of time before they'll be back out campaigning again in the 2027 local elections!
 
@@ -103,7 +103,7 @@ A question like this a full year into the trial of the hire bike scheme in Edinb
 
 The Council officers at the helm of rolling out the scheme and interfacing with supplier **Voi** are highly approachable, proactive and receptive to feedback — _one might imagine even more so to enquiries from Councillors!_ — and we'd felt many aspects of this question were already somewhat in the public domain.
 
-But, it's on the record now. The reality is that the majority of parking locations for the scheme have been carefully picked out in liaison with the council so as to _not_ elicit complaints from residents, and the Officers involved have been quite proactive already at moving or adjusting problematic locations... 
+But, it's on the record now. The reality is that the majority of parking locations for the scheme have been carefully picked out in liaison with the council so as to _not_ elicit complaints from residents, and the Officers involved have been quite proactive already at moving or adjusting problematic locations... so maybe my gut instinct is right and this is just a classic Lib Dem wedge issue fishing expedition 🎣
 
 ---
 
@@ -111,7 +111,9 @@ But, it's on the record now. The reality is that the majority of parking locatio
 
 📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28544/Questions%20and%20Answers%2017th-Sep-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=20){target="_blank" rel="noopener noreferrer"} [PDF, page 20]
 
-Interesting to hear of plans to better communicate investment and maintenance — in the form of road resurfacing or other conditioning / patching projects — as a map on the council's website in the near future.
+Interesting to hear of plans to better communicate investment and maintenance — in the form of road resurfacing or other conditioning / patching projects — as a map on the council's website in the near future. 
+
+The unsaid part of this 'work to improve communication' is that in reality, frustrations around round closures and communication of them aren't really about the works to maintain the roads, they're about how fundamentally congested the city is because of car dominance and underinvestment / underprioritisation of other modes — as well as Schrödinger's pothole, road damage that you'll complain about at length until it's time to moan about the road being closed to fix it. 
 
 ---
 
@@ -119,7 +121,9 @@ Interesting to hear of plans to better communicate investment and maintenance �
 
 📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28544/Questions%20and%20Answers%2017th-Sep-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=21){target="_blank" rel="noopener noreferrer"} [PDF, page 21]
 
+Officers are _"actively looking at options for a temporary diversion path"_ — and will also consider whether or not the Powderhall Rail underbridge that crosses the Water of Leith just by Redbraes Park could be an option for access too. 
 
+Of course, there's a number of factors at play there - but a recent site visit by Councillors, Officers & MSPs with Network Rail, relating to the [Powderhall Link project](https://powderhalllink.wordpress.com/2026/09/18/small-steps-forward-and-maybe-a-ramp/){target="_blank" rel="noopener noreferrer"} is another sign of life in that neck of the woods...
 
 ---
 
@@ -127,11 +131,21 @@ Interesting to hear of plans to better communicate investment and maintenance �
 
 📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28544/Questions%20and%20Answers%2017th-Sep-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=22){target="_blank" rel="noopener noreferrer"} [PDF, page 22]
 
+Edinburgh - and Glasgow too - would quite like to introduce 'Road User Charging' or by another name, a congestion charge. In Edinburgh, the council has only continued to induce commuting into the city by failing to implement a Workplace Parking Levy, and talks were ongoing between the two local authorities as well as the regional transport body SESTran to lay the groundwork for a potential congestion charge introduction once the legislation was checked over by Transport Scotland.
+
+This question follows up on that work, which has then come to a screeching halt following the [news on Friday](https://www.pressreader.com/uk/the-scotsman/20260919/281736981357625){target="_blank" rel="noopener noreferrer"} that the work on this being undertaken by Transport Scotland has been canned. A spokesperson said:
+
+> _“We are com­mit­ted to redu­cing trans­port emis­sions and provid­ing altern­at­ives to the car. That is why we have removed peak rail fares for good, are sup­port­ing free bus travel for 2.4 mil­lion people and will deliver a nation­wide £2 bus fare cap by the end of this par­lia­ment.”_
+
+All carrot and no stick does nothing to shift the transport mix, and this is a hugely retrograde step by a government claiming to be committed to _"provid­ing altern­at­ives to the car"_, especially when any and all alternatives are suffering under the weight of urban congestion making them less appealing.
+
 ---
 
 ### 💨 10.14 By Councillor Booth - The Impact of the LEZ on Air Quality in Edinburgh
 
 📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28544/Questions%20and%20Answers%2017th-Sep-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=23){target="_blank" rel="noopener noreferrer"} [PDF, page 23]
+
+Slightly uninteresting, except to note (reading between the lines) what could perhaps be described as a lack of ambition to double down on the benefits of the existing Low Emissions Zone.
 
 ---
 
@@ -139,6 +153,11 @@ Interesting to hear of plans to better communicate investment and maintenance �
 
 📄 [Question & Answer](https://democracy.edinburgh.gov.uk/documents/b28544/Questions%20and%20Answers%2017th-Sep-2026%2010.00%20City%20of%20Edinburgh%20Council.pdf?T=9#page=24){target="_blank" rel="noopener noreferrer"} [PDF, page 24]
 
+Some of the stooshie around the prolonged closure of the Tram line between Princes Street and Newhaven came down to not only a lack of resilience — to keep the tram running from both ends and only continuity at the section that was closed following the fire at the former Debenham's store — but the perception that a lack of 'stabling' for the tram at Newhaven was set to  have been part of that phase of network delivery, and seemed to have not been delivered.
+
+The answers here get into the details - no particular decision was made to abandon a facility at Newhaven, and multiple sidings were indeed built to hold trams there — but instead it transpires that it was never envisioned as a complete alternative to the western depot by Edinburgh Gateway and is not set up for the safety checks a tram has to undergo before running on the network, so didn't provide the second holding location that would have been required to keep trams running through Leith.
+
+Perhaps this answer, along with the report underway into city centre resilience, will lead to the commissioning of a 'proper' depot at Newhaven in the years to come.
 
 ---
 
